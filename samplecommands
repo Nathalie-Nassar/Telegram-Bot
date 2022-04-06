@@ -1,0 +1,9 @@
+whoistherenow - who is currently teaching in a classroom
+whereisprof - room where a prof is currently teaching(if any)
+allroomschedule - schedule for every room in alphabetical room number orde
+roomschedule - schedule for a specific room
+roomscheduletime - schedule for a specific room for a specific date
+roomscheduleday - schedule for a specific room for a specific day of week
+whowastherelast - course and instructor name for the last time this room was occupied
+profschedule - instructor’s weekly schedule (day, time, room)
+wherewillprofbe - instructor’s schedule for today
