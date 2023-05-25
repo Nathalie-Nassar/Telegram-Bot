@@ -1,0 +1,14 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+11040,DCSN,200,1,Operations Management,3,SB,36,-1,12:30,13:45,OSB,206,true,false,true,false,false,false,Elie,Majdalani
+11041,DCSN,200,2,Operations Management,3,SB,0,0,09:30,10:45,OSB,206,true,false,true,false,false,false,.,STAFF
+11042,DCSN,200,3,Operations Management,3,SB,35,0,12:30,13:45,OSB,206,false,true,false,true,false,false,Elie,Majdalani
+11043,DCSN,200,4,Operations Management,3,SB,35,0,14:00,15:15,OSB,206,false,true,false,true,false,false,Elie,Majdalani
+13045,DCSN,200,5,Operations Management,3,SB,36,-1,09:30,10:45,OSB,211,false,true,false,true,false,false,Elie,Majdalani
+11044,DCSN,205,1,Managerial Decision Making,3,SB,33,2,15:30,16:45,OSB,207,true,false,true,false,false,false,Ibrahim,Kebbe
+11045,DCSN,211,1,Pricing and Revenue Management,3,SB,0,0,12:30,13:45,OSB,227,true,false,true,false,false,false,.,STAFF
+11046,DCSN,212,1,Project Management,3,SB,24,6,11:00,12:15,OSB,207,false,true,false,true,false,false,Walid,Nasr
+11047,DCSN,300,1,Models for Decision-Making,3,SB,37,3,18:00,20:30,OSB,334,false,false,false,false,true,false,Victor,Araman
+10003,DCSN,300,9,Models for Decision-Making,3,SB,16,24,.,.,.,.,false,false,false,false,false,false,Lama,Moussawi
+11049,DGRG,230,1,Clinical Practicum II,4,FM,8,4,08:30,13:30,.,.,true,false,true,false,true,false,Saly,Abbas
+11050,DGRG,260,1,Clinical Practicum V,4,FM,6,0,09:00,13:59,.,.,true,false,true,false,true,false,Marlene,Salbashian
+11051,DGRG,260,2,Clinical Practicum V,4,FM,5,1,08:00,15:29,.,.,false,true,false,true,false,false,Marlene,Salbashian

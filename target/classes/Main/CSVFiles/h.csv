@@ -1,0 +1,70 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+11764,HIST,104,1,Hist.of Arab& M.EII:16to20th C,3,AS,31,-6,12:00,12:50,NICELY,320,true,false,true,false,true,false,Naila,Kaidbey Takieddine
+11765,HIST,104,2,Hist.of Arab& M.EII:16to20th C,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11766,HIST,201,1,Intro to the Study of History,3,AS,22,3,10:00,10:50,NICELY,103,true,false,true,false,true,false,Marwan,Abou Nader
+11767,HIST,202,1,Intro to Modern Hist Arab-East,3,AS,22,3,11:00,11:50,NICELY,103,true,false,true,false,true,false,Naila,Kaidbey Takieddine
+11768,HIST,243,1,H.Arab East &Egypt since 1920,3,AS,25,0,09:30,10:45,NICELY,327,false,true,false,true,false,false,Ilham,Khuri-Makdisi
+11769,HIST,245,1,History of Lebanon 634-1920 AD,3,AS,27,-2,11:00,12:15,NICELY,410,false,true,false,true,false,false,Abdulrahim,Abu-Husayn
+11770,HIST,258BM,1,ST.Lebanon: GrandLiban to Taif,3,AS,25,0,15:30,16:45,POST,203,false,true,false,true,false,false,Makram,Rabah
+11771,HIST,258BM,2,ST.Lebanon: GrandLiban to Taif,3,AS,26,-1,15:30,16:45,NICELY,416,true,false,true,false,false,false,Makram,Rabah
+11772,HIST,258BS,1,ST.Latin Recept Arab Islam Sc,3,AS,7,18,14:00,15:15,NICELY,321,false,true,false,true,false,false,George,Saliba
+11773,HIST,273,1,The U.S.and the Middle East.,3,AS,23,2,17:00,18:15,POST,203,false,true,false,true,false,false,Makram,Rabah
+11774,HIST,273,2,The U.S.and the Middle East.,3,AS,24,1,17:00,18:15,NICELY,324,true,false,true,false,false,false,Makram,Rabah
+11775,HIST,278A,1,Sp.Tp:Intr.to American Studies,3,AS,4,1,12:30,13:45,NICELY,323,false,true,false,true,false,false,Suzanne,Enzerink
+11776,HIST,287,1,Historical Writing,3,AS,7,3,15:30,18:00,NICELY,103,false,true,false,false,false,false,Lyall,Armstrong
+11777,HIST,325,1,Soc.&Intell.His. of the ArabsI,3,AS,8,2,15:30,18:00,COLL,454,false,true,false,false,false,false,Ilham,Khuri-Makdisi
+13281,HIST,331Y,1,Tut. Historians in Lebanon,3,AS,1,0,.,.,.,.,false,false,false,false,false,false,Abdulrahim,Abu-Husayn
+11778,HIST,332H,1,S.Sources of Early Islamic His,3,AS,5,5,15:00,17:30,COLL,454,false,false,false,true,false,false,Lyall,Armstrong
+11779,HIST,395A,1,Comprehensive Exam,0,AS,2,-2,.,.,.,.,false,false,false,false,false,false,Helene,Sader
+11780,HIST,399,1,M.A Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Abdulrahim,Abu-Husayn
+11781,HIST,399,2,M.A Thesis,7.2,AS,1,4,.,.,.,.,false,false,false,false,false,false,George,Saliba
+11783,HIST,399,4,M.A Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Alexis Norman,Wick
+11784,HIST,399,5,M.A Thesis,7.2,AS,1,4,.,.,.,.,false,false,false,false,false,false,Ilham,Khuri-Makdisi
+11786,HIST,399A,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,George,Saliba
+11787,HIST,399A,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Abdulrahim,Abu-Husayn
+11788,HIST,399A,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Alexis Norman,Wick
+11789,HIST,399A,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ilham,Khuri-Makdisi
+11790,HIST,399A,6,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Lyall,Armstrong
+11791,HIST,399B,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,George,Saliba
+11792,HIST,399B,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Abdulrahim,Abu-Husayn
+11794,HIST,399B,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Lyall,Armstrong
+13079,HIST,399B,5,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Bilal,Orfali
+11795,HIST,481,1,Qualif.Exam II:Def.ThesisProp,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Helene,Sader
+13232,HIST,484,1,PhD Thesis,30,AS,1,4,.,.,.,.,false,false,false,false,false,false,Ilham,Khuri-Makdisi
+11797,HIST,484,2,PhD Thesis,30,AS,0,0,.,.,.,.,false,false,false,false,false,false,Abdulrahim,Abu-Husayn
+11798,HIST,484,3,PhD Thesis,30,AS,0,0,.,.,.,.,false,false,false,false,false,false,Alexis Norman,Wick
+11799,HIST,484B,2,PhD Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Alexis Norman,Wick
+13382,HIST,484F,1,PhD Thesis,1,AS,1,0,.,.,.,.,false,false,false,false,false,false,Lyall,Armstrong
+11800,HMPD,204,1,Intr.Health Services Administr,3,HS,11,9,14:00,15:15,VANDYK,201,true,false,true,false,false,false,Aline,Germani
+11801,HMPD,204,2,Intr.Health Services Administr,3,HS,27,-7,14:00,15:15,VANDYK,203,false,false,true,false,true,false,Nasser,Yassin
+11802,HMPD,300,1,Health Systems Management,3,HS,28,-8,09:00,11:30,VANDYK,103,false,false,false,false,true,false,Kassem,Kassak
+11803,HMPD,300,2,Health Systems Management,3,HS,19,1,15:30,18:00,VANDYK,101,false,false,false,false,true,false,Kassem,Kassak
+11804,HMPD,306,1,WS: Microeconomics Hlthcare,0,HS,25,-6,17:30,20:30,VANDYK,201,true,false,false,false,false,false,Vito Luigi,Tanzi
+11805,HMPD,318,1,Policy&Decisn Making in H.Syst,2,HS,32,4,15:30,17:10,VANDYK,201,false,false,false,false,true,false,Fadi,El-Jardali
+11806,HMPD,342,1,Financial Mngt&Acctg in HC.Org,3,HS,25,2,17:30,20:00,VANDYK,203,false,false,true,false,false,false,Shadi,Saleh
+11807,HPCH,200,1,Global Public Health &Conflict,3,HS,21,-7,11:00,12:15,VANDYK,332,false,true,false,true,false,false,Maia,Sieverding
+11808,HPCH,201,1,Health Awareness,3,HS,33,-8,14:00,15:15,VANDYK,201,false,true,false,true,false,false,Faysal,Kak
+11809,HPCH,202,1,Sexuality and Health,2,HS,13,1,15:30,17:10,VANDYK,332,false,true,false,false,false,false,Faysal,Kak
+11810,HPCH,203,1,Commun. for Health Prof.,3,HS,21,2,15:30,16:45,VANDYK,203,false,true,false,true,false,false,Mayada,Kanj
+11811,HPCH,205,1,Introduction to Public Health,3,HS,19,-4,09:00,10:15,VANDYK,332,true,false,true,false,false,false,Esteban,Hadjez
+11812,HPCH,206,1,Media Relations,2,HS,13,1,15:00,16:40,VANDYK,332,false,false,true,false,false,false,Mayada,Kanj
+11813,HPCH,208,1,Advocacy&Activism for Soc.Chan,3,HS,13,1,14:00,15:15,.,.,false,true,false,true,false,false,Esteban,Hadjez
+11814,HPCH,210,1,Health Communication Theory,3,HS,18,-3,13:00,14:15,VANDYK,332,false,true,false,true,false,false,Marco,Bardus
+11815,HPCH,211,1,Research Methods,3,HS,14,1,09:00,10:15,VANDYK,201,false,true,false,true,false,false,Sawsan,Abdulrahim
+11816,HPCH,212,1,Desi.&Eval.of Health Comm.Act.,3,HS,13,1,10:00,11:15,VANDYK,103,false,true,false,true,false,false,Rana O,Al Barazi
+11817,HPCH,237,1,Theor.&Pract. of Health Promot,3,HS,21,3,12:00,13:15,VANDYK,103,false,false,false,false,true,false,Mayada,Kanj
+11818,HPCH,332,1,Community Health Promotion,3,HS,8,-1,17:30,20:00,.,.,false,false,true,false,false,false,Esteban,Hadjez
+11819,HPCH,333,1,Social Mrktg for Health Promot,2,HS,11,-1,17:30,19:10,VANDYK,203,false,false,false,true,false,false,Marco,Bardus
+11820,HPCH,335,1,Implementation Research in PH,2,HS,8,-1,17:30,19:00,VANDYK,332,true,false,false,false,false,false,Tamar,Kabakian
+11821,HPCH,343,1,Forced Migrt & Hum. Relief Sys,3,HS,12,-2,14:00,16:30,VANDYK,101,false,false,true,false,false,false,Sawsan,Abdulrahim
+13051,HUMR,244,0,Introduction to Human Biology,2,FM,60,5,11:05,11:55,.,.,true,true,true,true,false,false,Georges,Daoud
+11822,HUMR,246,0,H.Morph.for Paramedic&Underg.S,3,FM,18,7,14:00,15:50,.,.,false,true,false,false,false,false,Abdo,Jurjus
+11823,HUMR,305,0,Cell & Tissue Biolgy,3,FM,27,23,.,.,.,.,false,false,false,false,false,false,Rihab,Nasr
+11824,HUMR,312,0,Anatomy Tutorial,2,FM,0,50,.,.,.,.,false,false,false,false,false,false,Abdo,Jurjus
+11825,HUMR,313,0,Directed Reading & Research,2,FM,13,37,.,.,.,.,false,false,false,false,false,false,Georges,Daoud
+11826,HUMR,314,0,Seminar,1,FM,11,15,13:01,13:59,.,.,false,false,false,false,true,false,Wassim,Abou Kheir
+11827,HUMR,346,0,Human Morphology for Grad.Stud,4,FM,1,49,.,.,.,.,false,false,false,false,false,false,Abdo,Jurjus
+11828,HUMR,395A,0,Comprehensive Exam,0,FM,0,20,.,.,.,.,false,false,false,false,false,false,Georges,Daoud
+11829,HUMR,399,0,MS Thesis,7.65,FM,2,23,.,.,.,.,false,false,false,false,false,false,Georges,Daoud
+11830,HUMR,399A,0,MS Thesis,0,FM,0,25,.,.,.,.,false,false,false,false,false,false,Georges,Daoud
+11831,HUMR,399B,0,MS Thesis,0,FM,0,20,.,.,.,.,false,false,false,false,false,false,Georges,Daoud

@@ -1,0 +1,60 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+11663,FEAA,200,1,Intr.to Engineer.& Architectu.,3,EA,15,4,08:00,09:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11664,FEAA,200,10,Intr.to Engineer.& Architectu.,3,EA,40,2,09:30,10:45,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11665,FEAA,200,11,Intr.to Engineer.& Architectu.,3,EA,17,0,09:30,10:45,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11666,FEAA,200,12,Intr.to Engineer.& Architectu.,3,EA,17,0,09:30,10:45,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11667,FEAA,200,13,Intr.to Engineer.& Architectu.,3,EA,19,0,11:00,12:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11668,FEAA,200,14,Intr.to Engineer.& Architectu.,3,EA,34,8,11:00,12:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11669,FEAA,200,15,Intr.to Engineer.& Architectu.,3,EA,57,0,11:00,12:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11670,FEAA,200,16,Intr.to Engineer.& Architectu.,3,EA,18,24,11:00,12:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11671,FEAA,200,17,Intr.to Engineer.& Architectu.,3,EA,17,0,11:00,12:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11672,FEAA,200,18,Intr.to Engineer.& Architectu.,3,EA,17,0,11:00,12:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11673,FEAA,200,2,Intr.to Engineer.& Architectu.,3,EA,18,24,08:00,09:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11674,FEAA,200,3,Intr.to Engineer.& Architectu.,3,EA,54,3,08:00,09:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11675,FEAA,200,4,Intr.to Engineer.& Architectu.,3,EA,46,-4,08:00,09:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11676,FEAA,200,5,Intr.to Engineer.& Architectu.,3,EA,11,6,08:00,09:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11677,FEAA,200,6,Intr.to Engineer.& Architectu.,3,EA,16,1,08:00,09:15,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11678,FEAA,200,7,Intr.to Engineer.& Architectu.,3,EA,16,3,09:30,10:45,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11679,FEAA,200,8,Intr.to Engineer.& Architectu.,3,EA,21,21,09:30,10:45,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11680,FEAA,200,9,Intr.to Engineer.& Architectu.,3,EA,60,-3,09:30,10:45,MAMC,ELH,false,true,false,true,false,false,Sara,Khaddaj
+11681,FEAA,501,1,FYP Accelerator I,0,EA,67,-67,.,.,.,.,false,false,false,false,false,false,Mona,Itani
+11682,FINA,210,1,Business Finance,3,SB,29,1,11:00,12:15,OSB,241,false,true,false,true,false,false,Sana,El Hajj
+11683,FINA,210,2,Business Finance,3,SB,24,6,14:00,15:15,OSB,226,false,true,false,true,false,false,Hanna,Nassar
+11684,FINA,210,3,Business Finance,3,SB,20,10,09:30,10:45,OSB,236,true,false,true,false,false,false,Jihad,El Hokayem
+11685,FINA,210,4,Business Finance,3,SB,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11686,FINA,210,5,Business Finance,3,SB,29,1,12:30,13:45,OSB,226,true,false,true,false,false,false,Ingrid,Abi Antoun
+13054,FINA,211,1,Intro.to Finance for Engineers,3,SB,30,10,11:00,12:15,OSB,236,true,false,true,false,false,false,Wassim,Dbouk
+11687,FINA,215,1,Financial Markets & Instituti.,3,SB,37,-2,14:00,15:15,OSB,233,false,true,false,true,false,false,Henry,Azzam
+11688,FINA,218,1,Risk Managem.in Financ.Instit.,3,SB,35,0,08:00,09:15,OSB,226,false,true,false,true,false,false,Khaled,Abdel Samad
+11689,FINA,220,1,Investment Management,3,SB,36,-1,15:30,16:45,OSB,241,false,true,false,true,false,false,Ragheed Imad,Moghrabi
+11690,FINA,220,2,Investment Management,3,SB,34,1,17:00,18:15,OSB,226,true,false,true,false,false,false,Ragheed Imad,Moghrabi
+11691,FINA,222,1,Valuation Methods,3,SB,34,1,18:30,19:45,.,.,false,true,false,true,false,false,Mohamad,Faour
+11692,FINA,222,2,Valuation Methods,3,SB,35,0,17:00,18:15,OSB,241,false,true,false,true,false,false,Mohamad,Faour
+11693,FINA,225,1,Commercial Bank Management,3,SB,34,1,11:00,12:15,OSB,216,false,true,false,true,false,false,Henry,Azzam
+11694,FINA,230,1,International Financ.Managemt,3,SB,38,-3,09:30,10:45,OSB,236,false,true,false,true,false,false,Ahmad,Ismail
+11695,FINA,230,2,International Financ.Managemt,3,SB,40,-5,11:00,12:15,OSB,236,false,true,false,true,false,false,Ahmad,Ismail
+11696,FINA,244,1,Derivative Securities,3,SB,25,10,15:30,16:45,OSB,226,false,true,false,true,false,false,George,El-Kazzi
+11697,FINA,250R,1,Sp.Tp: Fina.Statement Analysis,3,SB,19,1,14:00,15:15,OSB,241,true,false,true,false,false,false,Rania,Uwaydah Mardini
+13215,FSAF,300,1,Grad.Tut.in Food Safety,3,AG,1,3,.,.,.,.,false,false,false,false,false,false,Samer,Kharroubi
+11698,FSEC,300,1,FSEC:Challenge &Contemp.Debate,3,AG,11,4,16:00,17:15,AGRIC,211,false,true,true,false,false,false,Rami,Zurayk
+13157,FSEC,300D,9,Food Sec:Chall.&Contemp.Deb,3,AG,3,9,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13158,FSEC,305D,9,Agri:Techn. Supply Chains Sust,3,AG,3,9,10:00,10:50,.,.,false,true,false,true,false,false,Lina,Jaber
+11699,FSEC,306,1,Indicat.&Tools for Measur.FSEC,3,AG,0,10,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11700,FSEC,310D,1,Nutr.Sec:Assessm.&Interv.Strat,3,AG,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11701,FSEC,315D,1,Food Policies &Plann. Process,3,AG,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11702,FSEC,320,1,Grad.Seminar in Food Security,0,AG,5,5,13:00,13:50,AGRIC,325,true,false,false,false,false,false,Rachel Anne,Bahn
+11703,FSEC,396,1,Comprehensive Exam,0,AG,1,2,.,.,.,.,false,false,false,false,false,false,Ali,Chalak
+11704,FSEC,396,2,Comprehensive Exam,0,AG,3,0,.,.,.,.,false,false,false,false,false,false,Rami,Zurayk
+11705,FSEC,396,3,Comprehensive Exam,0,AG,0,3,.,.,.,.,false,false,false,false,false,false,Lamis,Jomaa
+13111,FSEC,396,4,Comprehensive Exam,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Shady,Hamadeh
+13474,FSEC,396,5,Comprehensive Exam,0,AG,0,4,.,.,.,.,false,false,false,false,false,false,Sandra,Yanni
+13110,FSEC,397,1,Project,3,AG,1,1,.,.,.,.,false,false,false,false,false,false,Shady,Hamadeh
+13268,FSEC,397,2,Project,3,AG,1,1,.,.,.,.,false,false,false,false,false,false,Rami,Zurayk
+11706,FSEC,399,1,M.S.Thesis,7.2,AG,1,2,.,.,.,.,false,false,false,false,false,false,Rami,Zurayk
+11707,FSEC,399,2,M.S.Thesis,7.2,AG,2,1,.,.,.,.,false,false,false,false,false,false,Lamis,Jomaa
+11708,FSEC,399A,1,M.S.Thesis,0,AG,2,1,.,.,.,.,false,false,false,false,false,false,Rami,Zurayk
+11709,FSEC,399A,2,M.S.Thesis,0,AG,1,1,.,.,.,.,false,false,false,false,false,false,Ali,Chalak
+11710,FSEC,399B,1,M.S.Thesis,0,AG,0,3,.,.,.,.,false,false,false,false,false,false,Lamis,Jomaa
+11711,FSEC,399B,2,M.S.Thesis,0,AG,0,5,.,.,.,.,false,false,false,false,false,false,Rami,Zurayk
+13314,FSEC,399B,3,M.S.Thesis,0,AG,1,2,.,.,.,.,false,false,false,false,false,false,Ali,Chalak
+13130,FSEC,399C,1,M.S.Thesis,0,AG,1,1,.,.,.,.,false,false,false,false,false,false,Shady,Hamadeh

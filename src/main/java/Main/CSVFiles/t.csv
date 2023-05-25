@@ -1,0 +1,15 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+12992,THTR,200,1,Introduction to Theater,3,AS,25,-2,12:30,13:45,NICELY,409,false,true,false,true,false,false,Nazha,Harb
+12994,THTR,210,1,Theater History,3,AS,20,2,12:30,13:45,NICELY,409,false,false,true,false,true,false,Joanna,Raad
+12995,THTR,218C,1,ST:Mod.&Contem.British Irish,3,AS,3,9,15:30,17:59,NICELY,321,false,false,false,true,false,false,Robert,Myers
+12996,THTR,220,1,Voice & Acting in the Theater,3,AS,12,0,15:30,16:45,NICELY,409,false,true,false,true,false,false,Lucien,Bou Rjeily
+12997,THTR,240,1,Design in Theater,3,AS,9,3,17:00,18:15,NICELY,409,false,true,false,true,false,false,Ghida,Hachicho
+12998,THTR,260A,1,ST: Theater and Society,3,AS,12,0,14:00,15:15,NICELY,409,false,true,false,true,false,false,Nazha,Harb
+12999,THTR,282B,1,Body  Space &the interplay,3,AS,14,2,17:30,19:20,NICELY,409,false,false,true,false,true,false,Ghida,Hachicho
+13264,TLPG,401V,1,Undergraduate Research,3,EA,5,-5,22:00,23:00,.,.,true,false,false,false,false,false,Daniel,Asmar
+13353,TLPG,401V,2,Undergraduate Research,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13128,TLPG,401X,0,Technical Entrepreneurship,3,EA,15,-15,17:30,20:30,BECHTA,212,false,false,false,true,false,false,Fadl,Bdeir
+13105,TLPG,501,1,Capstone project part I,0,EA,14,-14,.,.,.,.,false,false,false,false,false,false,Daniel,Asmar
+13118,TLPG,501,2,Capstone project part I,0,EA,8,-8,.,.,.,.,false,false,false,false,false,false,Daniel,Asmar
+13290,TLPG,501,3,Capstone project part I,6,EA,0,0,08:00,08:50,.,.,false,false,false,false,false,true,Daniel,Asmar
+13148,TLPG,601,1,Special Projects,3,EA,1,-1,18:00,19:00,.,.,false,false,false,false,true,false,Daniel,Asmar

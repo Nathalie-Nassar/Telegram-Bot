@@ -1,0 +1,29 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+11865,LABM,201,1,Clinical Chemistry I,2,FM,37,6,10:00,10:50,VANDYK,AUDT,true,false,false,false,true,false,Rose,Daher
+11866,LABM,220,1,Clin.Chem.& Endocrinology,4,FM,10,2,08:00,11:00,VANDYK,403,false,false,false,true,true,false,Rose,Daher
+11867,LABM,230,1,Clin.Hematology and Reception,4,FM,11,0,15:30,16:45,VANDYK,101,false,true,false,true,false,false,Rula Alkhatib,Al-Jamal
+11868,LABM,233,1,Genetics & Molecular Biology,2,FM,23,7,12:00,12:50,VANDYK,101,false,true,false,false,true,false,Soha N,Yazbek
+11869,LABM,235,1,Medical Mycology,1,FM,25,5,12:00,12:50,VANDYK,203,false,false,true,false,false,false,George,Araj
+11870,LABM,240,1,Clinical Microbiology,4,FM,10,2,14:30,17:00,VANDYK,103,true,false,false,false,false,false,Nada,Melhem
+11871,LABM,250,1,Clin.Parasitology & Urinalysis,2,FM,10,1,.,.,.,.,false,false,false,false,false,false,George,Araj
+11872,LABM,260,1,Serology,2,FM,8,3,13:00,14:29,VANDYK,101,false,true,false,false,false,false,Soha N,Yazbek
+11873,LABM,270,1,Blood Banking,2,FM,9,2,14:30,16:00,VANDYK,103,false,true,false,false,false,false,Soha N,Yazbek
+11874,LABM,280,1,Cytogenet.Molec.Diagn.&Histote,2,FM,10,1,.,.,.,.,false,false,false,false,false,false,Rami,Mahfouz
+11875,LDEM,200,1,Landscape Technical Drawing,4,AG,7,13,13:00,16:57,.,.,false,false,false,false,true,false,Wissam,Melhem
+11876,LDEM,202,1,Stud.I:Landscape Design Fundam,4,AG,7,13,14:00,18:00,REYNOL,108,true,false,false,true,false,false,Karim,Bacha
+11877,LDEM,207,1,Landscape Architecture Hist. I,3,AG,8,12,11:00,12:15,REYNOL,108,false,true,false,true,false,false,George,Battikha
+11878,LDEM,210,1,Botany &Plant Ecol.Lands.Arch.,3,AG,4,6,14:00,15:15,REYNOL,109,true,false,true,false,false,false,Salma,Talhouk
+11879,LDEM,214,1,Landscape and Geomorphology,3,AG,8,12,12:00,12:50,REYNOL,103,true,false,true,false,false,false,Rami,Zurayk
+11880,LDEM,218,1,Landscape Ecology,3,AG,10,12,12:00,13:15,AGRIC,201,true,false,true,false,false,false,Yaser,Abunnasr
+11881,LDEM,221,1,Plant Material II,1,AG,4,11,13:00,15:58,REYNOL,109,false,true,false,false,false,false,Monika,Fabian
+11882,LDEM,222,1,St.III:Landscape Planting Des.,4,AG,4,11,09:00,12:58,REYNOL,109,true,false,true,false,false,false,Maha,Issa
+11883,LDEM,228,1,St.V:Urban Landscape Design,6,AG,10,10,14:00,18:00,REYNOL,211,true,false,true,false,true,false,Beata,Dreksler
+11884,LDEM,241,1,St.VII:Landscape Capstone Pr.I,4,AG,8,15,14:00,18:00,REYNOL,208,false,true,false,true,false,false,Mona,Khechen
+11885,LDEM,247,1,Site Engineering I,3,AG,4,16,10:00,12:58,REYNOL,109,false,false,false,false,true,false,Beata,Dreksler
+11886,LDEM,251,1,Geographic Information System,3,AG,9,11,14:30,15:58,REYNOL,209,false,false,false,true,false,false,Rania R,Abboud
+11887,LDEM,260,1,Contempor. Iss.in Landsc.Arch.,3,AG,8,7,14:00,15:15,AGRIC,201,true,false,true,false,false,false,Dima,Rachid
+11888,LDEM,270,1,Ornament.Plants for Dry Landsc,3,AG,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13077,LDEM,272,1,Landsc.Arch:Gender Wom.&Inclus,3,AG,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13277,LDEM,298A,1,Sp.Tp:Landscape Architecture,1,AG,1,-1,.,.,.,.,false,false,false,false,false,false,Beata,Dreksler
+13278,LDEM,298C,1,S.Tp:in Landscape Architecture,3,AG,0,0,.,.,.,.,false,false,false,false,false,false,Beata,Dreksler
+11889,LDEM,301,1,Urban Greening,3,AG,8,7,11:00,12:15,.,.,true,false,true,false,false,false,Salma,Talhouk

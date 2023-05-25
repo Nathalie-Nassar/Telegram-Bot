@@ -1,0 +1,488 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+10590,CHEM,101,E1,General Chemistry I,0,AS,29,1,08:00,08:50,PHYS,219,false,false,false,false,true,false,Randa,Abi Rafi'
+10591,CHEM,101,E2,General Chemistry I,0,AS,24,6,13:00,13:50,CHEM,101,false,false,false,false,true,false,Randa,Abi Rafi'
+10592,CHEM,101,E3,General Chemistry I,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10593,CHEM,101,E4,General Chemistry I,0,AS,27,3,09:00,09:50,PHYS,219,false,false,false,false,true,false,Randa,Abi Rafi'
+10594,CHEM,101,E5,General Chemistry I,0,AS,23,7,08:00,08:50,PHYS,331,false,false,false,false,true,false,Houssam,Rassy
+10595,CHEM,101,E6,General Chemistry I,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10596,CHEM,101,L1,General Chemistry I,3,AS,54,6,08:00,08:50,PHYS,219,true,false,true,false,false,false,Randa,Abi Rafi'
+10597,CHEM,101,L2,General Chemistry I,3,AS,49,11,08:00,08:50,PHYS,219,false,true,false,true,false,false,Houssam,Rassy
+10598,CHEM,101L,B1,General Chemistry Laboratory I,0,AS,9,1,13:00,15:59,CHEM,111,false,true,false,false,false,false,Suha,Al Hakim
+10599,CHEM,101L,B10,General Chemistry Laboratory I,0,AS,5,5,13:00,15:59,CHEM,111,false,false,false,false,true,false,Mohamad,Al-Hallak
+10600,CHEM,101L,B11,General Chemistry Laboratory I,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10601,CHEM,101L,B2,General Chemistry Laboratory I,0,AS,11,-1,13:00,15:59,CHEM,207,false,true,false,false,false,false,Abdel Aziz,Kordieh
+10602,CHEM,101L,B3,General Chemistry Laboratory I,0,AS,8,2,13:00,15:59,CHEM,201,false,true,false,false,false,false,Daniela,Sayah
+10603,CHEM,101L,B4,General Chemistry Laboratory I,0,AS,4,6,13:00,15:59,CHEM,205,false,true,false,false,false,false,Cynthia,Antossian
+10604,CHEM,101L,B5,General Chemistry Laboratory I,0,AS,10,0,13:00,15:59,CHEM,107,false,false,false,true,false,false,Cynthia,Antossian
+10605,CHEM,101L,B6,General Chemistry Laboratory I,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10606,CHEM,101L,B7,General Chemistry Laboratory I,0,AS,10,0,13:00,15:59,CHEM,201,false,false,false,true,false,false,Daniela,Sayah
+10607,CHEM,101L,B8,General Chemistry Laboratory I,0,AS,9,1,13:00,15:59,CHEM,205,false,false,false,false,true,false,Abdel Aziz,Kordieh
+10608,CHEM,101L,B9,General Chemistry Laboratory I,0,AS,4,6,13:00,15:59,CHEM,107,false,false,false,false,true,false,Saeedeh,Marvi
+10609,CHEM,101L,BL,General Chemistry Laboratory I,1,AS,72,28,14:00,14:50,CHEM,001,true,false,false,false,false,false,Hana,Deeb
+10610,CHEM,102,1,General Chemistry II,3,AS,4,26,09:30,10:45,PHYS,327,false,true,false,true,false,false,Mazen,Ghoul
+10611,CHEM,102L,B1,General Chemistry Lab. II,0,AS,4,6,13:00,15:59,CHEM,205,false,false,false,true,false,false,Suha,Al Hakim
+10612,CHEM,102L,BL,General Chemistry Lab. II,1,AS,4,6,13:00,13:50,PHYS,215,true,false,false,false,false,false,Hana,Deeb
+10613,CHEM,200,L1,Basic Chemistry & Applications,3,AS,50,0,08:00,09:15,CHEM,001,false,true,false,true,false,false,Samar,Sadek
+10614,CHEM,200,L2,Basic Chemistry & Applications,3,AS,51,-1,11:00,12:15,CHEM,001,false,true,false,true,false,false,Mohamad,Hmadeh
+10615,CHEM,200,L3,Basic Chemistry & Applications,3,AS,50,0,10:00,10:50,CHEM,001,true,false,true,false,true,false,Faraj,Hasanayn
+10616,CHEM,200,L4,Basic Chemistry & Applications,3,AS,50,0,12:00,12:50,CHEM,001,true,false,true,false,true,false,Faraj,Hasanayn
+13254,CHEM,200,L5,Basic Chemistry & Applications,3,AS,51,-1,11:00,11:50,NICELY,212,true,false,true,false,true,false,Randa,Abi Rafi'
+10617,CHEM,201,E1,Chemical Principles,0,AS,34,-4,09:00,09:50,CHEM,001,false,false,false,false,true,false,Samar,Sadek
+10618,CHEM,201,E10,Chemical Principles,0,AS,26,4,12:00,12:50,PHYS,331,false,false,false,false,true,false,Samar,Sadek
+10619,CHEM,201,E11,Chemical Principles,0,AS,31,-1,12:30,13:20,PHYS,329,false,true,false,false,false,false,Samar,Sadek
+10620,CHEM,201,E12,Chemical Principles,0,AS,7,23,14:00,14:50,PHYS,215,false,false,true,false,false,false,Samar,Sadek
+10621,CHEM,201,E2,Chemical Principles,0,AS,35,-5,12:30,13:20,PHYS,329,false,false,false,true,false,false,Rabih,Sultan
+10622,CHEM,201,E3,Chemical Principles,0,AS,33,-3,12:00,12:50,PHYS,331,false,false,true,false,false,false,Samar,Sadek
+10623,CHEM,201,E4,Chemical Principles,0,AS,32,-2,13:00,13:50,PHYS,215,false,false,false,false,true,false,Samar,Sadek
+10624,CHEM,201,E5,Chemical Principles,0,AS,28,2,12:00,12:50,PHYS,329,true,false,false,false,false,false,Samar,Sadek
+10625,CHEM,201,E6,Chemical Principles,0,AS,28,2,12:00,12:50,PHYS,329,false,false,true,false,false,false,Lara,Halaoui
+10626,CHEM,201,E7,Chemical Principles,0,AS,30,0,08:00,08:50,CHEM,001,false,false,false,false,true,false,Samar,Sadek
+10627,CHEM,201,E8,Chemical Principles,0,AS,29,1,13:00,13:50,CHEM,101,false,false,true,false,false,false,Samar,Sadek
+10628,CHEM,201,E9,Chemical Principles,0,AS,23,7,13:00,13:50,PHYS,215,false,false,true,false,false,false,Digambara,Patra
+10629,CHEM,201,L1,Chemical Principles,3,AS,134,-14,09:00,09:50,CHSC,AUDITORIUM,true,false,true,false,false,false,Rabih,Sultan
+10630,CHEM,201,L2,Chemical Principles,3,AS,115,5,10:00,10:50,BIOL,SLH,true,false,true,false,false,false,Lara,Halaoui
+10631,CHEM,201,L3,Chemical Principles,3,AS,87,33,11:00,11:50,CHSC,AUDITORIUM,false,true,false,true,false,false,Digambara,Patra
+10632,CHEM,201L,B1,Intr.to Chemical Analysis Lab.,0,AS,7,3,13:00,15:59,CHEM,207,true,false,false,false,false,false,Justine,Dagher
+10633,CHEM,201L,B2,Intr.to Chemical Analysis Lab.,0,AS,4,6,13:00,15:59,CHEM,211,true,false,false,false,false,false,May,El Jamal
+10634,CHEM,201L,B3,Intr.to Chemical Analysis Lab.,0,AS,10,0,13:00,15:59,CHEM,207,false,false,true,false,false,false,Justine,Dagher
+10635,CHEM,201L,B4,Intr.to Chemical Analysis Lab.,0,AS,6,4,13:00,15:59,CHEM,207,false,false,false,true,false,false,May,El Jamal
+10636,CHEM,201L,BL,Intr.to Chemical Analysis Lab.,1,AS,27,13,12:00,12:50,CHEM,101,false,false,true,false,false,false,Randa,Abi Rafi'
+10637,CHEM,202,1,Intro to Environmental Chemist,3,AS,35,-5,09:30,10:45,PHYS,217,false,true,false,true,false,false,Antoine,Ghauch
+10638,CHEM,203,B1,Introductory Chem Techniques,0,AS,10,0,13:00,15:59,CHEM,105,false,false,true,false,false,false,Mohamad,Al-Hallak
+13285,CHEM,203,B10,Introductory Chem Techniques,0,AS,8,-1,13:30,16:29,CHEM,111,false,false,false,true,false,false,Fatima,Moussa
+10639,CHEM,203,B2,Introductory Chem Techniques,0,AS,10,0,13:00,15:59,CHEM,107,false,false,true,false,false,false,Fatima,Moussa
+10640,CHEM,203,B3,Introductory Chem Techniques,0,AS,12,-2,13:00,15:59,CHEM,111,false,false,true,false,false,false,Patrick,Damacet
+10641,CHEM,203,B4,Introductory Chem Techniques,0,AS,9,1,13:00,15:59,CHEM,201,false,false,true,false,false,false,Amira,Yassine
+10642,CHEM,203,B5,Introductory Chem Techniques,0,AS,10,0,13:00,15:59,CHEM,205,false,false,true,false,false,false,Christina,Al Tawil
+10643,CHEM,203,B6,Introductory Chem Techniques,0,AS,7,3,13:00,15:59,CHEM,201,true,false,false,false,false,false,Fatima,Moussa
+10644,CHEM,203,B7,Introductory Chem Techniques,0,AS,10,0,13:00,15:59,CHEM,205,true,false,false,false,false,false,Christina,Al Tawil
+10645,CHEM,203,B8,Introductory Chem Techniques,0,AS,8,2,13:00,15:59,CHEM,111,true,false,false,false,false,false,Patrick,Damacet
+10646,CHEM,203,B9,Introductory Chem Techniques,0,AS,10,0,13:30,16:30,CHEM,105,false,false,false,true,false,false,Mohamad,Al-Hallak
+10647,CHEM,203,L1,Introductory Chem Techniques,2,AS,57,-7,12:30,13:20,BIOL,SLH,false,true,false,false,false,false,Mazen,Ghoul
+10648,CHEM,203,L2,Introductory Chem Techniques,2,AS,37,3,12:30,13:20,BIOL,SLH,false,false,false,true,false,false,Mazen,Ghoul
+10649,CHEM,205,B1,Introductory Chem Laboratory,0,AS,10,0,13:00,16:59,CHEM,105,true,false,false,false,false,false,Mariam,Barakat
+10650,CHEM,205,B2,Introductory Chem Laboratory,0,AS,10,0,13:00,16:59,CHEM,107,true,false,false,false,false,false,Elissa,Shehayeb
+10651,CHEM,205,B3,Introductory Chem Laboratory,0,AS,8,2,13:00,16:59,CHEM,105,false,true,false,false,false,false,Ayomipo,Emmanuel
+10652,CHEM,205,B4,Introductory Chem Laboratory,0,AS,9,1,13:00,16:59,CHEM,107,false,true,false,false,false,false,Tamara,Abou Matar
+10653,CHEM,205,BL,Introductory Chem Laboratory,2,AS,37,3,12:30,13:20,CHEM,001,false,false,false,true,false,false,Samar,Sadek
+10654,CHEM,208,E1,Brief Survey of Organic Chem.,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10655,CHEM,208,E2,Brief Survey of Organic Chem.,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10656,CHEM,208,L,Brief Survey of Organic Chem.,3,AS,39,1,10:00,10:50,CHEM,101,true,false,true,false,true,false,Makhlouf,Haddadin
+10657,CHEM,209,B1,Introductory Organic Lab,0,AS,6,4,13:00,16:59,CHEM,309,false,true,false,false,false,false,Marwa,Al Rammal
+10658,CHEM,209,B2,Introductory Organic Lab,0,AS,2,8,13:00,16:59,CHEM,307,true,false,false,false,false,false,Marwa,Al Rammal
+10659,CHEM,209,B3,Introductory Organic Lab,0,AS,10,0,13:00,16:59,CHEM,309,false,false,true,false,false,false,Riham,El Kurdi
+10660,CHEM,209,B4,Introductory Organic Lab,0,AS,9,1,13:00,16:59,CHEM,313,false,true,false,false,false,false,Sarah,Ghazali
+10661,CHEM,209,BL,Introductory Organic Lab,2,AS,27,13,12:00,12:50,PHYS,219,false,false,true,false,false,false,Hana,Deeb
+10662,CHEM,210,B1,Organic Laborat. for Non-Major,0,AS,10,0,13:00,16:59,CHEM,307,false,false,false,true,false,false,Elissa,Shehayeb
+10663,CHEM,210,B2,Organic Laborat. for Non-Major,0,AS,9,1,13:00,16:59,CHEM,309,false,false,false,true,false,false,Lynn Samira,Yamout
+10664,CHEM,210,B3,Organic Laborat. for Non-Major,0,AS,8,2,13:00,16:59,CHEM,307,false,false,false,false,true,false,Riham,El Kurdi
+10665,CHEM,210,B4,Organic Laborat. for Non-Major,0,AS,9,1,13:00,16:59,CHEM,313,false,false,false,false,true,false,Fatat,El Dhaibi
+10666,CHEM,210,B5,Organic Laborat. for Non-Major,0,AS,7,3,13:00,16:59,CHEM,309,false,false,false,false,true,false,Lynn Samira,Yamout
+10667,CHEM,210,B6,Organic Laborat. for Non-Major,0,AS,10,0,13:00,16:59,CHEM,313,false,false,true,false,false,false,Fatat,El Dhaibi
+13286,CHEM,210,B7,Organic Laborat. for Non-Major,0,AS,6,2,13:00,16:59,CHEM,307,false,false,true,false,false,false,Elissa,Shehayeb
+13287,CHEM,210,B8,Organic Laborat. for Non-Major,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10668,CHEM,210,BL,Organic Laborat. for Non-Major,2,AS,59,17,12:00,12:50,CHSC,AUDITORIUM,true,false,false,false,false,false,Randa,Abi Rafi'
+10669,CHEM,211,L1,Organic Chemistry I,3,AS,19,31,09:30,10:45,PHYS,219,false,true,false,true,false,false,Bilal,Kaafarani
+10670,CHEM,211,L2,Organic Chemistry I,3,AS,24,26,11:00,12:15,PHYS,219,false,true,false,true,false,false,Bilal,Kaafarani
+10671,CHEM,212,L1,Organic Chemistry II,3,AS,50,0,09:30,10:45,CHEM,001,false,true,false,true,false,false,Tarek,Ghaddar
+10672,CHEM,212,L2,Organic Chemistry II,3,AS,7,43,09:00,09:50,CHEM,101,true,false,true,false,true,false,Kamal,Bouhadir
+10673,CHEM,212,L3,Organic Chemistry II,3,AS,38,12,11:00,11:50,CHEM,001,true,false,true,false,true,false,Kamal,Bouhadir
+10674,CHEM,212,L4,Organic Chemistry II,3,AS,54,-4,11:00,12:15,CHEM,101,false,true,false,true,false,false,Tarek,Ghaddar
+10675,CHEM,215,1,Analytical Chemistry,3,AS,23,12,12:30,13:45,PHYS,215,false,true,false,true,false,false,Antoine,Ghauch
+10676,CHEM,216,B1,Analytical Chem Laboratory,0,AS,7,1,13:00,16:59,CHEM,211,false,false,true,false,false,false,Zahraa,Abou Khalil
+10677,CHEM,216,B2,Analytical Chem Laboratory,0,AS,7,1,13:00,16:59,CHEM,211,false,false,false,false,true,false,Zahraa,Abou Khalil
+10678,CHEM,216,BL,Analytical Chem Laboratory,2,AS,14,2,14:00,14:50,CHEM,101,true,false,false,false,false,false,Antoine,Ghauch
+10679,CHEM,217,1,Thermodynamic & Chem. Dynamics,3,AS,47,-12,09:30,10:45,CHEM,101,false,true,false,true,false,false,Rabih,Sultan
+10680,CHEM,225,B1,Organic Struct.Determination,0,AS,13,-3,14:00,16:59,CHEM,303,false,true,false,true,false,false,Hana,Deeb
+10681,CHEM,225,B2,Organic Struct.Determination,0,AS,8,2,13:00,15:59,CHEM,303,false,false,true,false,true,false,Hana,Deeb
+10682,CHEM,225,B3,Organic Struct.Determination,0,AS,11,-1,09:30,12:29,CHEM,303,false,true,false,true,false,false,Hana,Deeb
+10683,CHEM,225,BL,Organic Struct.Determination,3,AS,32,-2,13:00,13:50,CHEM,101,true,false,false,false,false,false,Makhlouf,Haddadin
+10684,CHEM,228,1,Inorganic Chemistry,3,AS,45,-15,08:00,09:15,CHEM,101,false,true,false,true,false,false,Mohamad,Hmadeh
+10685,CHEM,230,1,Senior Seminar,1,AS,5,5,16:30,17:20,CHEM,101,true,false,false,false,false,false,Kamal,Bouhadir
+10686,CHEM,233,1,Topics in Physical Chemistry,3,AS,3,22,11:00,12:15,CHEM,322,false,true,false,true,false,false,Lara,Halaoui
+10687,CHEM,234,1,Instrumental Analytical Chem.,3,AS,24,6,10:00,10:50,PHYS,327,true,false,true,false,true,false,Pierre,Karam
+13275,CHEM,299,1,Independent Study,3,AS,1,0,.,.,.,.,false,false,false,false,false,false,Rabih,Sultan
+10688,CHEM,332,1,Chem.Separat.in Env.Analysis,3,AS,16,-6,11:00,12:15,CHEM,314,false,true,false,true,false,false,Najat,Saliba
+10689,CHEM,351D,1,Sp:Solid-State &Materials CHEM,3,AS,12,-2,09:30,10:45,CHEM,314,true,false,true,false,false,false,Houssam,Rassy
+10690,CHEM,361,1,Tutorial,3,AS,1,4,.,.,.,.,false,false,false,false,false,false,Mohamad,Hmadeh
+10691,CHEM,361,10,Tutorial,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Lara,Halaoui
+10692,CHEM,361,11,Tutorial,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Kamal,Bouhadir
+10693,CHEM,361,12,Tutorial,3,AS,1,4,.,.,.,.,false,false,false,false,false,false,Digambara,Patra
+10694,CHEM,361,13,Tutorial,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Houssam,Rassy
+10695,CHEM,361,14,Tutorial,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Pierre,Karam
+10696,CHEM,361,2,Tutorial,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Najat,Saliba
+10697,CHEM,361,3,Tutorial,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mazen,Ghoul
+10698,CHEM,361,4,Tutorial,3,AS,1,4,.,.,.,.,false,false,false,false,false,false,Antoine,Ghauch
+10699,CHEM,361,5,Tutorial,3,AS,1,4,.,.,.,.,false,false,false,false,false,false,Faraj,Hasanayn
+10700,CHEM,361,6,Tutorial,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bilal,Kaafarani
+10701,CHEM,361,7,Tutorial,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tarek,Ghaddar
+10702,CHEM,361,8,Tutorial,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Makhlouf,Haddadin
+10703,CHEM,361,9,Tutorial,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Sultan
+10704,CHEM,395A,1,Comprehensive Exam,0,AS,6,-6,.,.,.,.,false,false,false,false,false,false,Digambara,Patra
+10705,CHEM,399,1,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mazen,Ghoul
+10706,CHEM,399,10,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Najat,Saliba
+10707,CHEM,399,11,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Sultan
+10708,CHEM,399,12,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Antoine,Ghauch
+10709,CHEM,399,13,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Pierre,Karam
+10710,CHEM,399,14,M.S. Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Mohamad,Hmadeh
+10711,CHEM,399,2,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Kamal,Bouhadir
+10712,CHEM,399,3,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Houssam,Rassy
+10713,CHEM,399,4,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tarek,Ghaddar
+10714,CHEM,399,5,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Makhlouf,Haddadin
+10715,CHEM,399,6,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Lara,Halaoui
+10716,CHEM,399,7,M.S. Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Faraj,Hasanayn
+10717,CHEM,399,8,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bilal,Kaafarani
+10718,CHEM,399,9,M.S. Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Digambara,Patra
+10719,CHEM,399A,1,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Najat,Saliba
+10720,CHEM,399A,10,M.S.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Digambara,Patra
+10721,CHEM,399A,11,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Houssam,Rassy
+10722,CHEM,399A,12,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Faraj,Hasanayn
+10723,CHEM,399A,13,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Pierre,Karam
+10724,CHEM,399A,14,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mohamad,Hmadeh
+10725,CHEM,399A,2,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mazen,Ghoul
+10726,CHEM,399A,3,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Antoine,Ghauch
+10727,CHEM,399A,4,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tarek,Ghaddar
+10728,CHEM,399A,5,M.S.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Makhlouf,Haddadin
+10729,CHEM,399A,6,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Sultan
+10730,CHEM,399A,7,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Lara,Halaoui
+10731,CHEM,399A,8,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Kamal,Bouhadir
+10732,CHEM,399A,9,M.S.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Bilal,Kaafarani
+10733,CHEM,399B,1,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Faraj,Hasanayn
+10734,CHEM,399B,10,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bilal,Kaafarani
+10735,CHEM,399B,11,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tarek,Ghaddar
+10736,CHEM,399B,12,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Houssam,Rassy
+10737,CHEM,399B,13,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Antoine,Ghauch
+10738,CHEM,399B,14,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Pierre,Karam
+10739,CHEM,399B,2,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Digambara,Patra
+10740,CHEM,399B,3,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Najat,Saliba
+10741,CHEM,399B,4,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mohamad,Hmadeh
+10742,CHEM,399B,5,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Makhlouf,Haddadin
+10743,CHEM,399B,6,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Sultan
+10744,CHEM,399B,7,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mazen,Ghoul
+10745,CHEM,399B,8,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Lara,Halaoui
+10746,CHEM,399B,9,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Kamal,Bouhadir
+10747,CHEM,399C,1,M.S.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Antoine,Ghauch
+10748,CHEM,399C,10,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bilal,Kaafarani
+10749,CHEM,399C,11,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Houssam,Rassy
+10750,CHEM,399C,12,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Faraj,Hasanayn
+10751,CHEM,399C,13,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Pierre,Karam
+10752,CHEM,399C,14,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mohamad,Hmadeh
+10753,CHEM,399C,2,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tarek,Ghaddar
+10754,CHEM,399C,3,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Makhlouf,Haddadin
+10755,CHEM,399C,4,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Digambara,Patra
+10756,CHEM,399C,5,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Sultan
+10757,CHEM,399C,6,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mazen,Ghoul
+10758,CHEM,399C,7,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Lara,Halaoui
+10759,CHEM,399C,8,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Kamal,Bouhadir
+10760,CHEM,399C,9,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Najat,Saliba
+10761,CHEN,310,1,Transport Phenomena Lab,2,EA,13,3,10:00,10:50,BECHTA,209,false,false,false,false,true,false,Cassia,Boyadjian
+10762,CHEN,310,2,Transport Phenomena Lab,2,EA,15,1,10:00,10:50,BECHTA,209,false,false,false,false,true,false,Cassia,Boyadjian
+10763,CHEN,311,1,Intro. to Fluids Engineering,3,EA,45,0,14:00,15:15,BECHTA,107,false,true,false,true,false,false,Elsa,Maalouf
+10764,CHEN,314,1,Chemical Eng'g Thermodynamics,3,EA,38,7,08:00,08:50,BECHTA,203,true,false,true,false,true,false,Mahmoud,Al-Hindi
+10765,CHEN,351,1,Process Instrumentat.& Measur.,3,EA,12,3,09:30,12:20,SRB,205,false,true,false,false,false,false,Joseph,Zeaiter
+10766,CHEN,351,2,Process Instrumentat.& Measur.,3,EA,18,-3,10:00,10:50,BECHTA,211,true,false,true,false,false,false,Joseph,Zeaiter
+10767,CHEN,351,3,Process Instrumentat.& Measur.,3,EA,10,5,10:00,10:50,BECHTA,211,true,false,true,false,false,false,Joseph,Zeaiter
+13165,CHEN,400,1,Approved Experience BS track,1,EA,1,-1,08:00,17:00,.,.,true,true,true,true,true,false,Mohammad N,Ahmad
+10768,CHEN,411,1,Heat & Mass Transfer Operat.,3,EA,28,17,11:00,12:15,BECHTA,211,true,false,true,false,false,false,Joseph,Zeaiter
+10769,CHEN,417,1,Reaction Eng.g& Reactor Design,3,EA,28,17,09:30,10:45,IOEC,224C,false,true,false,true,false,false,Fouad,Azizi
+10770,CHEN,470,1,Chemical Process Design,3,EA,14,2,08:30,09:20,.,.,false,true,false,true,false,false,Fouad,Azizi
+10771,CHEN,470,2,Chemical Process Design,3,EA,13,3,08:30,09:20,MAMC,206,false,true,false,true,false,false,Fouad,Azizi
+10772,CHEN,480,1,Safety & Loss Prevention,3,EA,27,18,11:00,12:15,BECHTA,201,false,true,false,true,false,false,Cassia,Boyadjian
+10773,CHEN,499,1,Undergraduate Research,3,EA,8,-8,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10774,CHEN,501,1,Final Year Project I,3,EA,47,13,17:00,19:50,BECHTA,202,false,false,true,false,false,false,Walid,Saad
+10775,CHEN,570,1,Process.Synthesis &Optimizat.,3,EA,29,1,14:00,15:15,BECHTA,110,true,false,true,false,false,false,Mahmoud,Al-Hindi
+10776,CHEN,570,2,Process.Synthesis &Optimizat.,3,EA,29,1,08:00,09:15,BECHTA,209,false,true,false,true,false,false,Mahmoud,Al-Hindi
+10777,CHEN,571,1,Chemical Product Design,3,EA,30,0,11:00,12:15,IOEC,217,false,true,false,true,false,false,Walid,Saad
+10778,CHEN,571,2,Chemical Product Design,3,EA,31,-1,14:00,15:15,BECHTA,211,false,true,false,true,false,false,Walid,Saad
+10779,CHEN,611,1,Transport Phenomena,3,EA,9,21,14:00,15:15,BECHTA,205,false,true,false,true,false,false,Kassem,Ghorayeb
+10780,CHEN,619,1,Engineering Sustainability,3,EA,27,-7,15:30,16:45,BECHTA,204,false,true,false,true,false,false,Alissar,Yehya
+10781,CHEN,673,1,The Eng. of Drug Delivery Syst,3,EA,1,14,15:31,16:45,BECHTA,202,false,true,false,true,false,false,Rami,Mhanna
+13123,CHEN,673,2,The Eng. of Drug Delivery Syst,3,EA,1,14,15:30,16:45,MAMC,207,true,false,true,false,false,false,Rami,Mhanna
+10782,CHEN,675,1,Tissue Engineering,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10783,CHEN,796,1,Eng'g Literature Critique,1,EA,3,2,.,.,.,.,false,false,false,false,false,false,Mohammad N,Ahmad
+10784,CHEN,797,1,Seminar,0,EA,24,6,12:30,13:50,BECHTA,211,false,false,false,true,false,false,Kassem,Ghorayeb
+10785,CHEN,798,1,Sp.Tp.in Chemical Eng.I,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10786,CHEN,798,2,Sp.Tp.in Chemical Eng.I,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10787,CHEN,798,3,Sp.Tp.in Chemical Eng.I,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10788,CHEN,798,4,Sp.Tp.in Chemical Eng.I,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10789,CHEN,799,1,Thesis,7.14,EA,1,9,.,.,.,.,false,false,false,false,false,false,Mohammad N,Ahmad
+10790,CHEN,799A,1,Thesis,0,EA,3,2,.,.,.,.,false,false,false,false,false,false,Mohammad N,Ahmad
+10791,CHEN,799B,1,Thesis,0,EA,1,4,.,.,.,.,false,false,false,false,false,false,Mohammad N,Ahmad
+10792,CHEN,799C,1,Thesis,0,EA,0,5,.,.,.,.,false,false,false,false,false,false,Mohammad N,Ahmad
+10793,CHEN,799D,1,Thesis,1,EA,1,4,.,.,.,.,false,false,false,false,false,false,Mohammad N,Ahmad
+10794,CHEN,799E,1,Thesis,1,EA,0,5,.,.,.,.,false,false,false,false,false,false,Mohammad N,Ahmad
+13404,CHEN,799F,1,Thesis,1,EA,1,0,08:00,08:50,.,.,false,false,false,false,false,false,Mohammad N,Ahmad
+10795,CHEN,799T,1,Master's Comprehensive Exam,0,EA,3,7,.,.,.,.,false,false,false,false,false,false,Mohammad N,Ahmad
+10796,CHEN,799TR,1,Master's Comprehensive Exam,0,EA,1,4,.,.,.,.,false,false,false,false,false,false,Mohammad N,Ahmad
+10797,CHIN,201,1,Chinese I,3,AS,21,1,08:00,08:50,NICELY,209,true,false,true,false,true,false,Fen,Yu
+10798,CHIN,201,2,Chinese I,3,AS,20,2,09:00,09:50,NICELY,327,true,false,true,false,true,false,Fen,Yu
+10799,CIVE,201,1,Eng'g Drawings & Tools,3,EA,0,0,09:00,09:50,.,.,true,false,true,false,true,false,.,STAFF
+10800,CIVE,201,2,Eng'g Drawings & Tools,3,EA,32,-2,10:00,10:50,SRB,413,true,false,true,false,true,false,Farah,Demachkieh
+10801,CIVE,210,1,Statics,3,EA,39,1,08:00,08:50,IOEC,224A,true,false,true,false,false,false,Fatima,El Meski
+10802,CIVE,210,2,Statics,3,EA,32,-4,09:00,09:50,IOEC,224A,true,false,true,false,false,false,Mounir,Mabsout
+10803,CIVE,210,3,Statics,3,EA,39,1,10:00,10:50,IOEC,224A,true,false,true,false,false,false,Fatima,El Meski
+10804,CIVE,210,4,Statics,3,EA,42,-2,11:00,11:50,BECHTA,110,true,false,true,false,false,false,Mounir,Mabsout
+10805,CIVE,210,5,Statics,3,EA,35,5,09:00,09:50,BECHTA,201,true,false,true,false,false,false,Amer,Elsouri
+10806,CIVE,210,6,Statics,3,EA,41,-1,09:30,10:50,MAMC,207,false,true,false,true,false,false,Mounir,Mabsout
+13040,CIVE,251,1,Environmental Chemistry,3,EA,0,0,08:00,09:20,BECHTA,202,false,true,false,true,false,false,Rana,Bilbeisi
+10807,CIVE,252,1,Environmental Microbiology,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10808,CIVE,310,2,Mechanics of Materials,3,EA,41,-1,11:00,12:20,BECHTA,107,false,true,false,true,false,false,George,Saad
+10809,CIVE,311,1,Theory of Structures,3,EA,19,11,11:00,11:50,BECHTA,205,false,false,false,false,true,false,Hisham,Basha
+10810,CIVE,340,1,Fluid Mechanics & Laboratory,3,EA,33,7,14:00,15:20,BECHTA,204,true,false,true,false,false,false,Habib,Basha
+10811,CIVE,370,1,Construct.Materials & Technol.,3,EA,17,3,12:00,12:50,BECHTA,203,true,false,true,false,false,false,Helmi,El-Khatib
+10812,CIVE,370,2,Construct.Materials & Technol.,3,EA,19,1,12:00,12:50,BECHTA,203,true,false,true,false,false,false,Helmi,El-Khatib
+10813,CIVE,401,1,Final Year Project I,3,EA,98,32,13:00,14:50,MAMC,ELH,false,false,false,false,false,false,Alissar,Yehya
+10814,CIVE,401A,1,Final Year Project I,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10815,CIVE,411,1,Indeterminat.Structural Analys,3,EA,32,3,14:00,15:15,IOEC,224A,true,false,true,false,false,false,Mayssa,Dabaghi
+10816,CIVE,412,1,Steel Design,3,EA,27,3,15:00,17:50,BECHTA,107,false,false,false,false,true,false,Hisham,Basha
+10817,CIVE,413,1,Concrete Design I,3,EA,26,4,09:00,09:50,MAMC,207,true,false,true,false,true,false,Muhamad,Harajli
+10818,CIVE,413,2,Concrete Design I,3,EA,30,0,10:00,11:30,IOEC,224B,true,false,true,false,true,false,Amer,Elsouri
+10819,CIVE,414,1,Concrete Design II,3,EA,32,-2,12:00,13:50,BECHTA,202,true,false,true,false,false,false,Bilal,Hamad
+10820,CIVE,421,1,Construction Management,3,EA,34,1,09:30,10:50,BECHTA,211,false,true,false,true,false,false,Farah,Demachkieh
+10821,CIVE,422,1,Const Methods &Safety,3,EA,35,0,11:00,12:20,MAMC,207,false,true,false,true,false,false,Hiam,Khoury
+10822,CIVE,430,1,Soil Mechanics & Laboratory,3,EA,22,0,09:00,09:50,BECHTA,110,true,false,true,false,false,false,Salah,Sadek
+10823,CIVE,430,2,Soil Mechanics & Laboratory,3,EA,23,0,09:00,09:50,BECHTA,110,true,false,true,false,false,false,Salah,Sadek
+10824,CIVE,431,1,Foundation Engineering,3,EA,22,13,09:30,10:45,BECHTA,201,false,true,false,true,false,false,Shadi,Najjar
+10825,CIVE,440,1,Hydraulics & Laboratory,3,EA,30,0,12:30,13:50,BECHTA,107,false,true,false,true,false,false,Lilian,Malaeb
+10826,CIVE,440,2,Hydraulics & Laboratory,3,EA,29,1,14:00,15:20,IOEC,224B,false,true,false,true,false,false,Lilian,Malaeb
+10827,CIVE,451,1,Contemporary Enviro Issues,3,EA,38,2,11:00,12:15,BECHTA,111,false,true,false,true,false,false,Darine,Salam
+13292,CIVE,451,2,Contemporary Enviro Issues,3,EA,23,7,15:30,16:50,BECHTA,201,false,true,false,true,false,false,Darine,Salam
+10828,CIVE,460,1,Transportation Eng'g &Laborat.,3,EA,30,0,09:30,10:45,IOEC,224B,false,true,false,true,false,false,Maya,Abou Zeid
+10829,CIVE,460,2,Transportation Eng'g &Laborat.,3,EA,26,4,14:00,15:15,IOEC,224A,false,true,false,true,false,false,Maya,Abou Zeid
+10830,CIVE,461,1,Highway Engineering,3,EA,39,1,08:00,09:15,BECHTA,110,false,true,false,true,false,false,Harith,Abdulsattar
+10831,CIVE,520,1,Construct.Contract Administrat,3,EA,18,2,12:30,13:50,BECHTA,204,false,true,false,true,false,false,Mohamed-Asem,Abdul Malak
+10832,CIVE,520,2,Construct.Contract Administrat,3,EA,7,13,12:30,13:50,BECHTA,204,false,true,false,true,false,false,Mohamed-Asem,Abdul Malak
+10833,CIVE,541,1,Engineering Hydrology,3,EA,35,0,12:30,13:50,BECHTA,204,true,false,true,false,false,false,Habib,Basha
+10834,CIVE,550,1,Water Treatment &Laboratory,3,EA,18,7,11:00,12:15,BECHTA,209,false,true,false,true,false,false,George M.,Ayoub
+10835,CIVE,550,2,Water Treatment &Laboratory,3,EA,8,17,12:00,13:50,.,.,false,false,false,false,true,false,George M.,Ayoub
+13245,CIVE,553,1,Environmental Biotechnology,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13246,CIVE,553,2,Environmental Biotechnology,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10836,CIVE,600,1,Seminar in Civil Engineering,0,EA,28,122,12:30,13:50,MAMC,ELH,false,false,false,true,false,false,.,STAFF
+10837,CIVE,601,1,GIS &Geospatial Data Modeling,3,EA,20,0,15:30,16:50,SRB,413,true,false,true,false,false,false,Ibrahim,Alameddine
+10838,CIVE,601,2,GIS &Geospatial Data Modeling,3,EA,20,0,15:30,16:50,SRB,413,true,false,true,false,false,false,Ibrahim,Alameddine
+10839,CIVE,610,1,Numeri.Metho.in Struct.Analys.,3,EA,3,17,15:30,16:50,BECHTA,208,false,true,false,true,false,false,George,Saad
+10840,CIVE,610,2,Numeri.Metho.in Struct.Analys.,3,EA,8,12,15:30,16:50,BECHTA,208,false,true,false,true,false,false,George,Saad
+10841,CIVE,613,1,Prestressed Concrete,3,EA,9,11,15:30,16:50,BECHTA,202,true,false,true,false,false,false,Muhamad,Harajli
+10842,CIVE,613,2,Prestressed Concrete,3,EA,9,11,15:30,16:50,BECHTA,202,true,false,true,false,false,false,Muhamad,Harajli
+10843,CIVE,629,1,Const.Business Management,3,EA,20,0,14:00,15:15,BECHTA,203,false,true,false,true,false,false,Hiam,Khoury
+10844,CIVE,629,2,Const.Business Management,3,EA,10,10,14:00,15:15,BECHTA,203,false,true,false,true,false,false,Hiam,Khoury
+10845,CIVE,633,1,Soil and Site Improvement,3,EA,19,1,08:00,09:15,BECHTA,204,false,true,false,true,false,false,Shadi,Najjar
+10846,CIVE,633,2,Soil and Site Improvement,3,EA,3,17,08:00,09:15,BECHTA,204,false,true,false,true,false,false,Shadi,Najjar
+10847,CIVE,645,1,Surfac.Water Qualit.Mode &Mang,3,EA,19,1,14:00,15:20,IOEC,224A,true,false,true,false,false,false,Ibrahim,Alameddine
+10848,CIVE,645,2,Surfac.Water Qualit.Mode &Mang,3,EA,10,10,14:00,15:20,IOEC,224A,true,false,true,false,false,false,Ibrahim,Alameddine
+10849,CIVE,662,1,Traffic Engineering,3,EA,21,-1,14:00,15:20,BECHTA,202,false,true,false,true,false,false,Harith,Abdulsattar
+10850,CIVE,662,2,Traffic Engineering,3,EA,1,19,14:00,15:20,BECHTA,202,false,true,false,true,false,false,Harith,Abdulsattar
+10851,CIVE,665,1,Transportation Economics,3,EA,16,4,08:30,09:50,MAMC,206,true,false,true,false,false,false,Isam,Kaysi
+10852,CIVE,665,2,Transportation Economics,3,EA,2,18,08:30,09:50,MAMC,206,true,false,true,false,false,false,Isam,Kaysi
+10853,CIVE,670,1,Concrete Technology,3,EA,19,1,17:00,18:15,BECHTA,205,false,true,false,true,false,false,Bilal,Hamad
+10854,CIVE,670,2,Concrete Technology,3,EA,9,11,17:00,18:15,BECHTA,205,false,true,false,true,false,false,Bilal,Hamad
+13041,CIVE,685,1,Envir.Sustain Renew.Ener.Sourc,3,EA,20,0,17:00,18:20,BECHTA,109,true,false,true,false,false,false,Rana,Bilbeisi
+13042,CIVE,685,2,Envir.Sustain Renew.Ener.Sourc,3,EA,8,12,17:00,18:20,BECHTA,109,true,false,true,false,false,false,Rana,Bilbeisi
+13033,CIVE,691A,1,Sp.Tp: Traffic Flow Analysis,3,EA,0,0,11:00,12:20,BECHTA,204,false,true,false,true,false,false,Harith,Abdulsattar
+13034,CIVE,691A,2,Sp.Tp: Traffic Flow Analysis,3,EA,0,0,11:00,12:20,BECHTA,204,false,true,false,true,false,false,Harith,Abdulsattar
+13035,CIVE,691B,1,ST: Engineering Sustainability,3,EA,20,0,15:30,16:50,BECHTA,204,false,true,false,true,false,false,Alissar,Yehya
+13036,CIVE,691B,2,ST: Engineering Sustainability,3,EA,1,19,15:30,16:50,BECHTA,204,false,true,false,true,false,false,Alissar,Yehya
+10855,CIVE,722,1,Proj.Deliverance & Contracts,3,EA,3,12,17:30,20:30,BECHTA,204,false,false,false,true,false,false,Mohamed-Asem,Abdul Malak
+10856,CIVE,722,2,Proj.Deliverance & Contracts,3,EA,6,9,17:30,20:30,BECHTA,204,false,false,false,true,false,false,Mohamed-Asem,Abdul Malak
+10857,CIVE,799,1,Thesis,7.14,EA,1,9,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10858,CIVE,799A,1,Thesis,0,EA,9,1,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10859,CIVE,799B,1,Thesis,0,EA,1,19,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10860,CIVE,799C,1,Thesis,0,EA,18,2,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10861,CIVE,799D,1,Thesis,1,EA,2,3,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10862,CIVE,799E,1,Thesis,1,EA,0,1,10:00,10:50,.,.,false,false,false,false,true,false,Mounir,Mabsout
+13266,CIVE,799J,1,Thesis,1,EA,1,0,10:00,10:50,.,.,false,false,false,false,false,true,Mutasem,Fadel
+10863,CIVE,799T,1,Comprehensive Exam,0,EA,7,43,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10864,CIVE,980,1,Qualifying Exam I:Compr.Exam,0,EA,1,19,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10865,CIVE,981,1,Qualif.Exam II:Def.ThesisProp,0,EA,4,16,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10866,CIVE,982,1,PhD Thesis,3,EA,1,19,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10867,CIVE,982A,1,PhD Thesis,3,EA,1,19,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10868,CIVE,982B,1,PhD Thesis,3,EA,0,20,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10869,CIVE,982C,1,PhD Thesis,3,EA,1,9,07:00,07:01,.,.,false,false,false,false,true,false,Mohamed-Asem,Abdul Malak
+10870,CIVE,983,1,PhD Thesis,6,EA,0,20,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10871,CIVE,983A,1,PhD Thesis,6,EA,0,20,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10872,CIVE,983B,1,PhD Thesis,6,EA,0,20,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10873,CIVE,983C,1,PhD Thesis,6,EA,0,10,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10874,CIVE,984,1,PhD Thesis,9,EA,1,19,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10875,CIVE,984A,1,PhD Thesis,9,EA,2,18,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10876,CIVE,984B,1,PhD Thesis,9,EA,0,20,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10877,CIVE,985,1,PhD Thesis,12,EA,0,20,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10878,CIVE,986,1,PhD Thesis,0,EA,3,17,12:00,12:50,.,.,false,false,false,false,true,false,Mohamed-Asem,Abdul Malak
+10879,CIVE,986A,1,PhD Thesis,0,EA,0,20,15:00,15:50,.,.,false,false,false,false,true,false,Mounir,Mabsout
+10880,CIVE,986B,1,PhD Thesis,0,EA,1,19,15:00,15:50,.,.,false,false,false,false,true,false,Mounir,Mabsout
+10881,CIVE,987,1,PhD Thesis Defense,0,EA,4,16,.,.,.,.,false,false,false,false,false,false,Mohamed-Asem,Abdul Malak
+10884,CMPS,200,B1,Introduction to Programming,0,AS,15,1,08:00,10:50,BLISS,114,false,true,false,false,false,false,Hussein,Banjak
+10885,CMPS,200,B10,Introduction to Programming,0,AS,12,4,08:00,10:50,BLISS,134,false,true,false,false,false,false,Faten,Houjaij
+10886,CMPS,200,B11,Introduction to Programming,0,AS,18,-2,11:00,13:50,BLISS,134,false,true,false,false,false,false,Ali,Yassine
+10887,CMPS,200,B12,Introduction to Programming,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13226,CMPS,200,B13,Introduct. to Programming,0,AS,6,9,11:00,13:50,BLISS,133,false,false,false,true,false,false,Johnny,Bou Saab
+13227,CMPS,200,B14,Introduct. to Programming,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13291,CMPS,200,B15,Introduct. to Programming,0,AS,3,12,11:00,13:50,BLISS,012,false,false,false,true,false,false,Johnny,Bou Saab
+10888,CMPS,200,B2,Introduction to Programming,0,AS,16,0,14:00,16:50,BLISS,134,false,false,false,true,false,false,Faten,Houjaij
+10889,CMPS,200,B3,Introduction to Programming,0,AS,15,1,14:00,16:50,BLISS,134,false,true,false,false,false,false,Ghassan,Dib
+10890,CMPS,200,B4,Introduction to Programming,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10891,CMPS,200,B5,Introduction to Programming,0,AS,17,-1,11:00,13:50,BLISS,134,false,false,false,true,false,false,Ghassan,Dib
+10892,CMPS,200,B6,Introduction to Programming,0,AS,14,2,14:00,16:50,BLISS,114,false,false,true,false,false,false,Maher,Jaber
+10893,CMPS,200,B7,Introduction to Programming,0,AS,14,2,08:00,10:50,BLISS,134,false,false,false,true,false,false,Hussein,Banjak
+10894,CMPS,200,B8,Introduction to Programming,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10895,CMPS,200,B9,Introduction to Programming,0,AS,16,0,14:00,16:50,BLISS,133,false,false,false,true,false,false,Sami,Shames El Deen
+10896,CMPS,200,L1,Introduction to Programming,3,AS,46,2,08:00,08:50,BLISS,203,true,false,true,false,true,false,Maurice,Khabbaz
+10897,CMPS,200,L2,Introduction to Programming,3,AS,45,3,09:00,09:50,NICELY,211,true,false,true,false,true,false,Saeed,Raheel
+10898,CMPS,200,L3,Introduction to Programming,3,AS,46,2,10:00,10:50,NICELY,415,true,false,true,false,true,false,Maurice,Khabbaz
+13225,CMPS,200,L4,Introduct. to Programming,3,AS,9,21,13:00,13:50,NICELY,325,true,false,true,false,true,false,Loa,Aoude
+10899,CMPS,207,B1,Programming for Digital Art,0,AS,7,8,15:00,17:50,BLISS,134,true,false,false,false,false,false,Alabbass,Khalil
+10900,CMPS,207,B2,Programming for Digital Art,0,AS,4,11,15:00,17:50,BLISS,134,true,false,false,false,false,false,Alabbass,Khalil
+10901,CMPS,207,L1,Programming for Digital Art,3,AS,11,19,09:30,10:45,NICELY,210,false,true,false,true,false,false,Loa,Aoude
+10902,CMPS,208,B1,Computing for Business,0,AS,16,1,12:00,13:59,BLISS,011,false,true,false,false,false,false,Amine,Sobh
+10903,CMPS,208,B10,Computing for Business,0,AS,18,-1,08:00,09:59,BLISS,133,false,true,false,false,false,false,Mohamed,El Hajj
+10904,CMPS,208,B11,Computing for Business,0,AS,19,-2,14:00,15:59,BLISS,011,false,false,true,false,false,false,Batul,Musa
+10905,CMPS,208,B12,Computing for Business,0,AS,18,-1,14:00,15:59,BLISS,011,true,false,false,false,false,false,Abbas,Chalha
+10906,CMPS,208,B13,Computing for Business,0,AS,17,0,08:00,09:59,BLISS,011,false,true,false,false,false,false,Amine,Sobh
+10907,CMPS,208,B14,Computing for Business,0,AS,18,-1,14:00,15:59,BLISS,011,false,true,false,false,false,false,Mohamed,El Hajj
+10908,CMPS,208,B15,Computing for Business,0,AS,17,0,08:00,09:59,BLISS,011,false,false,false,true,false,false,Ali,Yassine
+10909,CMPS,208,B2,Computing for Business,0,AS,17,0,10:00,11:59,BLISS,011,false,false,true,false,false,false,Mohamed,El Hajj
+10910,CMPS,208,B3,Computing for Business,0,AS,17,0,08:00,09:59,BLISS,133,false,false,false,true,false,false,Abbas,Chalha
+10911,CMPS,208,B4,Computing for Business,0,AS,16,1,10:00,11:59,BLISS,011,false,true,false,false,false,false,Mohamed,El Hajj
+10912,CMPS,208,B5,Computing for Business,0,AS,14,3,12:00,13:59,BLISS,011,false,false,false,true,false,false,Mohamad,El-Hamwi
+10913,CMPS,208,B6,Computing for Business,0,AS,18,-1,14:00,15:59,BLISS,011,false,false,false,false,true,false,Batul,Musa
+10914,CMPS,208,B7,Computing for Business,0,AS,18,-1,12:00,13:59,BLISS,011,false,false,true,false,false,false,Mohamed,El Hajj
+10915,CMPS,208,B8,Computing for Business,0,AS,17,0,14:00,15:59,BLISS,011,false,false,false,true,false,false,Ali,Yassine
+10916,CMPS,208,B9,Computing for Business,0,AS,18,-1,14:00,15:59,BLISS,133,false,true,false,false,false,false,Amine,Sobh
+10917,CMPS,208,L1,Computing for Business,3,AS,50,1,09:00,09:50,BLISS,205,true,false,true,false,true,false,Hayat,Sidani Bohsali
+10918,CMPS,208,L2,Computing for Business,3,AS,48,3,08:00,08:50,BLISS,105,true,false,true,false,true,false,Hayat,Sidani Bohsali
+10919,CMPS,208,L3,Computing for Business,3,AS,53,-2,10:00,10:50,BLISS,105,true,false,true,false,true,false,Hayat,Sidani Bohsali
+10920,CMPS,208,L4,Computing for Business,3,AS,55,-4,11:00,11:50,BLISS,105,true,false,true,false,true,false,Loa,Aoude
+10921,CMPS,208,L5,Computing for Business,3,AS,52,-1,12:00,12:50,BLISS,105,true,false,true,false,true,false,Loa,Aoude
+10922,CMPS,209,B1,Comp. & Prog. for Sciences,0,AS,18,-1,12:00,13:59,BLISS,011,false,false,false,false,true,false,Mustafa,Hamam
+10923,CMPS,209,B2,Comp. & Prog. for Sciences,0,AS,15,2,10:00,11:59,BLISS,011,false,false,false,true,false,false,Mustafa,Hamam
+10924,CMPS,209,B3,Comp. & Prog. for Sciences,0,AS,13,4,14:00,15:59,BLISS,133,true,false,false,false,false,false,Amine,Sobh
+10925,CMPS,209,B4,Comp. & Prog. for Sciences,0,AS,15,2,08:00,09:59,BLISS,011,true,false,false,false,false,false,Amine,Sobh
+10926,CMPS,209,B5,Comp. & Prog. for Sciences,0,AS,15,2,14:00,15:59,BLISS,133,false,false,true,false,false,false,Amine,Sobh
+10927,CMPS,209,B6,Comp. & Prog. for Sciences,0,AS,13,4,08:00,09:59,BLISS,011,false,false,true,false,false,false,Amine,Sobh
+10928,CMPS,209,B7,Comp. & Prog. for Sciences,0,AS,12,5,12:00,13:59,BLISS,011,true,false,false,false,false,false,Al-Abbass,Khalil
+10929,CMPS,209,B8,Comp. & Prog. for Sciences,0,AS,14,3,12:00,13:59,BLISS,133,false,true,false,false,false,false,Al-Abbass,Khalil
+10930,CMPS,209,B9,Comp. & Prog. for Sciences,0,AS,13,4,10:00,11:59,BLISS,011,false,false,false,false,true,false,Mustafa,Hamam
+10931,CMPS,209,L1,Comp. & Prog. for Sciences,3,AS,46,5,14:00,14:50,BLISS,105,false,true,false,true,false,false,Hayat,Sidani Bohsali
+10932,CMPS,209,L2,Comp. & Prog. for Sciences,3,AS,43,8,15:30,16:20,BLISS,205,false,true,false,true,false,false,Hayat,Sidani Bohsali
+10933,CMPS,209,L3,Comp. & Prog. for Sciences,3,AS,39,12,08:00,08:50,BLISS,105,false,true,false,true,false,false,Loa,Aoude
+10934,CMPS,211,1,Discrete Structures,3,AS,41,-1,09:30,10:45,BLISS,203,false,true,false,true,false,false,Saeed,Raheel
+10935,CMPS,211,2,Discrete Structures,3,AS,48,-8,11:00,11:50,BLISS,205,true,false,true,false,true,false,Saeed,Raheel
+10936,CMPS,211,3,Discrete Structures,3,AS,43,-3,08:00,09:15,NICELY,212,false,true,false,true,false,false,Mohamed A.,Kobeissi
+10937,CMPS,211,4,Discrete Structures,3,AS,51,-11,11:00,12:15,BLISS,205,false,true,false,true,false,false,Fatima,Abu Salem
+10938,CMPS,212,B1,Interm. Program W. Data Struct,0,AS,19,-4,14:00,16:59,BLISS,134,false,false,false,false,true,false,Sarah,Katerji
+10939,CMPS,212,B2,Interm. Program W. Data Struct,0,AS,18,-3,14:00,16:59,BLISS,133,false,false,false,false,true,false,Sami,Shames El Deen
+10940,CMPS,212,L1,Interm. Program W. Data Struct,3,AS,38,-8,09:30,10:45,NICELY,323,false,true,false,true,false,false,Haidar,Safa
+10941,CMPS,252,1,Software Construction,3,AS,33,0,08:00,08:50,BLISS,205,true,false,true,false,true,false,Mahmoud,Bdeir
+10942,CMPS,252,2,Software Construction,3,AS,30,3,09:00,09:50,BLISS,105,true,false,true,false,true,false,Mahmoud,Bdeir
+10943,CMPS,252,3,Software Construction,3,AS,31,2,10:00,10:50,NICELY,323,true,false,true,false,true,false,Mahmoud,Bdeir
+10944,CMPS,255,1,Computer Organization & Design,3,AS,39,6,10:00,10:50,NICELY,212,true,false,true,false,true,false,Izzat,El Hajj
+10945,CMPS,255,2,Computer Organization & Design,3,AS,39,6,09:00,09:50,NICELY,212,true,false,true,false,true,false,Izzat,El Hajj
+10946,CMPS,256,1,Algorithms and Data Structures,3,AS,38,2,09:30,10:45,BLISS,105,false,true,false,true,false,false,Amer,Abdo Mouawad
+10947,CMPS,256,2,Algorithms and Data Structures,3,AS,36,4,11:00,12:15,BLISS,105,false,true,false,true,false,false,Amer,Abdo Mouawad
+10949,CMPS,257,2,Theory of Computation,3,AS,34,6,09:30,10:45,BLISS,205,false,true,false,true,false,false,Wadi',Jureidini
+10950,CMPS,257,3,Theory of Computation,3,AS,40,0,12:30,13:45,BLISS,105,false,true,false,true,false,false,Wadi',Jureidini
+10951,CMPS,272,1,Operating Systems,3,AS,25,15,13:00,13:50,BLISS,105,true,false,true,false,true,false,Mahmoud,Bdeir
+10952,CMPS,272,2,Operating Systems,3,AS,36,4,14:00,14:50,BLISS,105,true,false,true,false,true,false,Mahmoud,Bdeir
+10954,CMPS,276,1,Data Science,3,AS,39,1,12:30,13:45,BLISS,203,false,true,false,true,false,false,Fatima,Abu Salem
+10955,CMPS,278,B1,Web Programming & Design,0,AS,15,0,16:00,18:59,BLISS,134,false,false,true,false,false,false,Sarah,Katerji
+10956,CMPS,278,B2,Web Programming & Design,0,AS,11,4,16:00,18:59,BLISS,133,false,false,true,false,false,false,Sarah,Katerji
+10957,CMPS,278,B3,Web Programming & Design,0,AS,8,7,16:00,18:59,BLISS,011,false,false,true,false,false,false,Sarah,Katerji
+10958,CMPS,278,L1,Web Programming & Design,3,AS,34,11,08:00,08:50,NICELY,212,true,false,true,false,true,false,Saeed,Raheel
+10959,CMPS,284,1,Computer Networks,3,AS,41,4,14:00,15:15,NICELY,412,false,true,false,true,false,false,Maurice,Khabbaz
+10960,CMPS,285,1,Computer Graphics,3,AS,16,24,11:00,12:15,NICELY,211,false,true,false,true,false,false,Zahraa,Yasseen
+10961,CMPS,297N,1,ST. Mobile Development,3,AS,42,-2,13:00,13:50,NICELY,212,true,false,true,false,true,false,Rami,Farran
+10962,CMPS,297T,1,ST. AI Ethics,3,AS,18,0,14:00,15:15,NICELY,325,true,false,true,false,false,false,Shady,Elbassuoni
+13022,CMPS,299A,1,Capstone Project,1,AS,6,-6,.,.,.,.,false,false,false,false,false,false,Haidar,Safa
+13091,CMPS,299A,2,Capstone Project,1,AS,0,0,.,.,.,.,false,false,false,false,false,false,Fatima,Abu Salem
+13092,CMPS,299A,3,Capstone Project,1,AS,0,0,.,.,.,.,false,false,false,false,false,false,Wassim,El Hajj
+13093,CMPS,299A,4,Capstone Project,1,AS,0,0,.,.,.,.,false,false,false,false,false,false,Izzat,El Hajj
+13094,CMPS,299A,5,Capstone Project,1,AS,0,0,.,.,.,.,false,false,false,false,false,false,Shady,Elbassuoni
+13095,CMPS,299A,6,Capstone Project,1,AS,3,-3,.,.,.,.,false,false,false,false,false,false,Wadi',Jureidini
+13096,CMPS,299A,7,Capstone Project,1,AS,0,0,.,.,.,.,false,false,false,false,false,false,Amer,Abdo Mouawad
+13097,CMPS,299A,8,Capstone Project,1,AS,0,0,.,.,.,.,false,false,false,false,false,false,Mahmoud,Bdeir
+13098,CMPS,299A,9,Capstone Project,1,AS,0,0,.,.,.,.,false,false,false,false,false,false,Saeed,Raheel
+13023,CMPS,299B,1,Capstone Project,2,AS,1,14,.,.,.,.,false,false,false,false,false,false,Haidar,Safa
+13032,CMPS,299B,10,Capstone Project,2,AS,3,12,.,.,.,.,false,false,false,false,false,false,Shady,Elbassuoni
+13024,CMPS,299B,2,Capstone Project,2,AS,14,1,.,.,.,.,false,false,false,false,false,false,Saeed,Raheel
+13025,CMPS,299B,3,Capstone Project,2,AS,0,15,.,.,.,.,false,false,false,false,false,false,Hayat,Sidani Bohsali
+13026,CMPS,299B,4,Capstone Project,2,AS,0,15,.,.,.,.,false,false,false,false,false,false,Fatima,Abu Salem
+13027,CMPS,299B,5,Capstone Project,2,AS,0,15,.,.,.,.,false,false,false,false,false,false,Mahmoud,Bdeir
+13028,CMPS,299B,6,Capstone Project,2,AS,0,15,.,.,.,.,false,false,false,false,false,false,Izzat,El Hajj
+13029,CMPS,299B,7,Capstone Project,2,AS,0,15,.,.,.,.,false,false,false,false,false,false,Amer,Abdo Mouawad
+13030,CMPS,299B,8,Capstone Project,2,AS,0,15,.,.,.,.,false,false,false,false,false,false,Wadi',Jureidini
+13031,CMPS,299B,9,Capstone Project,2,AS,0,15,.,.,.,.,false,false,false,false,false,false,Wassim,El Hajj
+10963,CMPS,384,1,Advanced Computer Networks,3,AS,18,7,17:00,18:15,NICELY,417,false,true,false,true,false,false,Maurice,Khabbaz
+10964,CMPS,385,1,Advanced Computer Graphics,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10965,CMPS,392,1,Advanced Machine Learning,3,AS,28,-3,17:00,18:15,NICELY,103,true,false,true,false,false,false,Shady,Elbassuoni
+10966,CMPS,395A,1,Comprehensive Exam,0,AS,7,1,.,.,.,.,false,false,false,false,false,false,Haidar,Safa
+10969,CMPS,398,1,MS Project,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Shady,Elbassuoni
+10970,CMPS,399,1,MS Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Fatima,Abu Salem
+10971,CMPS,399,2,MS Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Izzat,El Hajj
+10972,CMPS,399,3,MS Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Haidar,Safa
+10973,CMPS,399,4,MS Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,George,Turkiyyah
+10974,CMPS,399,5,MS Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Wassim,El Hajj
+10975,CMPS,399,6,MS Thesis,7.28,AS,2,3,.,.,.,.,false,false,false,false,false,false,Shady,Elbassuoni
+10976,CMPS,399,7,MS Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Amer,Abdo Mouawad
+10977,CMPS,399,8,MS Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Mohamed El Bake,Nassar
+10978,CMPS,399A,1,MS Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Fatima,Abu Salem
+10979,CMPS,399A,2,MS Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Haidar,Safa
+10980,CMPS,399A,3,MS Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Shady,Elbassuoni
+10981,CMPS,399A,4,MS Thesis,0,AS,3,2,.,.,.,.,false,false,false,false,false,false,Wassim,El Hajj
+10982,CMPS,399A,5,MS Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,George,Turkiyyah
+10983,CMPS,399A,6,MS Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Amer,Abdo Mouawad
+10984,CMPS,399A,7,MS Thesis,0,AS,2,3,.,.,.,.,false,false,false,false,false,false,Izzat,El Hajj
+10985,CMPS,399A,8,MS Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mohamed El Bake,Nassar
+10986,CMPS,399B,1,MS Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Haidar,Safa
+10987,CMPS,399B,2,MS Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wassim,El Hajj
+13342,CMPS,399B,3,MS Thesis,0,AS,2,3,.,.,.,.,false,false,false,false,false,false,Shady,Elbassuoni
+13468,CMPS,399B,4,MS Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Izzat,El Hajj
+10988,CMPS,399C,1,MS Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Haidar,Safa
+10989,CMPS,399C,2,MS Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wassim,El Hajj
+10990,CMPS,399C,3,MS Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Fatima,Abu Salem
+13297,CMPS,399C,4,MS Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Shady,Elbassuoni
+10991,CMPS,399D,1,MS Thesis,1,AS,0,1,.,.,.,.,false,false,false,false,false,false,Wassim,El Hajj
+13466,CMTS,395A,1,Comprehensive Exam,0,AS,2,3,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+10992,CMTS,399,1,M.S.Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Nabil,Nassif
+10993,CMTS,399,2,M.S.Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mazen,Ghoul
+10994,CMTS,399,3,M.S.Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Abbas,Alhakim
+10995,CMTS,399,4,M.S.Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Fouad,Azizi
+10996,CMTS,399,5,M.S.Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mazen,Ghoul
+10997,CMTS,399,6,M.S.Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Haidar,Safa
+10998,CMTS,399,7,M.S.Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+13322,CMTS,399,8,M.S.Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Victor,Araman
+13323,CMTS,399,9,M.S.Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Mariette,Awad
+10999,CMTS,399B,1,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mazen,Ghoul
+11000,CMTS,399B,2,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Abbas,Alhakim
+11001,CMTS,399B,3,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Fouad,Azizi
+13293,CMTS,399B,4,M.S.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Wassim,El Hajj
+11004,CVSP,201,1,Ancient Near East& Class Civil,3,AS,22,3,11:00,12:15,FISK,313,false,true,false,true,false,false,Courtney David,Fugate
+11005,CVSP,201,2,Ancient Near East& Class Civil,3,AS,24,1,12:30,13:45,NICELY,108,false,true,false,true,false,false,Courtney David,Fugate
+11006,CVSP,201,3,Ancient Near East& Class Civil,3,AS,25,0,10:00,10:50,NICELY,412,true,false,true,false,true,false,Reem,Rizk
+11007,CVSP,201,4,Ancient Near East& Class Civil,3,AS,23,2,11:00,11:50,NICELY,318,true,false,true,false,true,false,Reem,Rizk
+11008,CVSP,201,5,Ancient Near East& Class Civil,3,AS,25,0,13:00,13:50,NICELY,209,true,false,true,false,true,false,Zeina,Fayad
+11009,CVSP,201,6,Ancient Near East& Class Civil,3,AS,22,3,12:00,12:50,NICELY,411,true,false,true,false,true,false,Zeina,Fayad
+11010,CVSP,201,7,Ancient Near East& Class Civil,3,AS,22,0,10:00,10:50,FISK,337,true,false,true,false,true,false,Zeina,Fayad
+11011,CVSP,202,1,Medieval Islamic& Renais.civil,3,AS,25,0,12:30,13:45,NICELY,325,false,true,false,true,false,false,Hani,Hassan
+11012,CVSP,202,2,Medieval Islamic& Renais.civil,3,AS,22,3,09:30,10:45,NICELY,412,false,true,false,true,false,false,Hayat,Bualuan
+11013,CVSP,202,3,Medieval Islamic& Renais.civil,3,AS,24,1,11:00,12:15,NICELY,206,false,true,false,true,false,false,Hayat,Bualuan
+11014,CVSP,202,4,Medieval Islamic& Renais.civil,3,AS,21,4,08:00,09:15,NICELY,214,false,true,false,true,false,false,Tony,Nasrallah
+11015,CVSP,202,5,Medieval Islamic& Renais.civil,3,AS,23,2,09:30,10:45,NICELY,214,false,true,false,true,false,false,Tony,Nasrallah
+11016,CVSP,202,6,Medieval Islamic& Renais.civil,3,AS,20,2,11:00,11:50,NICELY,108,true,false,true,false,true,false,Hayat,Bualuan
+11018,CVSP,204,1,Contemporary Studies,3,AS,23,-1,09:30,10:45,NICELY,410,false,true,false,true,false,false,Sirene,Harb
+11019,CVSP,204,2,Contemporary Studies,3,AS,19,3,11:00,12:15,NICELY,412,false,true,false,true,false,false,Sirene,Harb
+11020,CVSP,204,3,Contemporary Studies,3,AS,21,1,13:00,13:50,NICELY,411,true,false,true,false,true,false,Charbel,El Amm
+11021,CVSP,204,4,Contemporary Studies,3,AS,16,6,14:00,14:50,NICELY,327,true,false,true,false,true,false,Charbel,El Amm
+11022,CVSP,204,5,Contemporary Studies,3,AS,20,2,12:00,12:50,NICELY,410,true,false,true,false,true,false,Aida,Arasoghli
+11023,CVSP,204,6,Contemporary Studies,3,AS,21,1,13:00,13:50,NICELY,410,true,false,true,false,true,false,Aida,Arasoghli
+11025,CVSP,205,1,Ancient Medieval& Renais Civil,3,AS,23,2,14:00,14:50,NICELY,211,true,false,true,false,true,false,Christopher,Nassar
+11026,CVSP,205,2,Ancient Medieval& Renais Civil,3,AS,23,2,15:00,15:50,NICELY,211,true,false,true,false,true,false,Christopher,Nassar
+11027,CVSP,205,3,Ancient Medieval& Renais Civil,3,AS,22,3,09:00,09:50,NICELY,318,true,false,true,false,true,false,Hayat,Bualuan
+11028,CVSP,205,4,Ancient Medieval& Renais Civil,3,AS,25,0,14:00,15:15,NICELY,324,false,true,false,true,false,false,Mahmoud,Baassiri
+11029,CVSP,205,5,Ancient Medieval& Renais Civil,3,AS,25,0,12:30,13:45,NICELY,206,false,true,false,true,false,false,Mahmoud,Baassiri
+11031,CVSP,206,1,Modern & Contemporary studies,3,AS,22,0,14:00,15:15,NICELY,410,false,true,false,true,false,false,Eric,Goodfield
+11032,CVSP,206,2,Modern & Contemporary studies,3,AS,22,0,15:30,16:45,NICELY,416,false,true,false,true,false,false,Eric,Goodfield
+11033,CVSP,206,3,Modern & Contemporary studies,3,AS,20,2,10:00,10:50,NICELY,209,true,false,true,false,true,false,Charbel,El Amm
+11034,CVSP,206,4,Modern & Contemporary studies,3,AS,22,0,11:00,12:15,NICELY,406,false,true,false,true,false,false,Alireza,Korangy
+11035,CVSP,206,5,Modern & Contemporary studies,3,AS,22,0,09:30,10:45,NICELY,209,false,true,false,true,false,false,Alireza,Korangy
+11036,CVSP,206,6,Modern & Contemporary studies,3,AS,20,2,11:00,11:50,NICELY,209,true,false,true,false,true,false,Charbel,El Amm
+11038,CVSP,208C,1,Utopian Thought II,3,AS,21,1,09:30,10:45,NICELY,324,false,true,false,true,false,false,Maher,Jarrar
+11039,CVSP,295AD,1,ST. What is Authority,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF

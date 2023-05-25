@@ -1,0 +1,30 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+13395,UPEN,001,1,Univ.Preparatory Progr.English,0,AS,3,-3,08:00,09:50,REYNOL,319,false,true,false,false,false,false,Najwa,Ramadan Jreidini
+13302,UPEN,002,1,Univ.Preparatory Progr.English,0,AS,12,-1,08:00,09:50,REYNOL,318,false,true,false,true,false,false,Katia,Peltikian
+13300,UPEN,003,1,Univ.Preparatory Progr.English,0,AS,16,-16,08:00,09:50,REYNOL,315,true,false,true,false,false,false,Samar,Harkouss
+13301,UPEN,003,2,Univ.Preparatory Progr.English,0,AS,15,2,08:00,09:50,REYNOL,316,true,false,true,false,false,false,Katia,Peltikian
+13308,UPIT,001,1,Information Technology,0,AS,21,1,16:30,17:20,REYNOL,.,false,false,true,false,false,false,Joseph,Rahme
+13309,UPIT,001,2,Information Technology,0,AS,22,0,16:30,17:20,REYNOL,.,false,false,false,true,false,false,Joseph,Rahme
+13305,UPMA,001,1,SAT Math,0,AS,21,1,15:30,17:20,REYNOL,.,true,false,false,false,false,false,Joseph,Rahme
+13307,UPMA,001,2,SAT Math,0,AS,22,0,15:30,17:20,REYNOL,.,false,true,false,false,false,false,Joseph,Rahme
+13303,UPSC,001,1,Science,0,AS,16,-16,11:00,11:50,REYNOL,315,false,true,false,true,false,false,Mahassen,Ramadan Chanouha
+13304,UPSC,001,2,Science,0,AS,15,2,09:00,09:50,REYNOL,316,false,true,false,true,false,false,Mahassen,Ramadan Chanouha
+13000,URDS,601,1,Planning & Design Workshop,6,EA,1,7,10:00,12:50,.,.,false,true,false,false,false,false,Serge,Yazigi
+13001,URDS,603,1,Comprehensive Exam,0,EA,4,8,16:00,16:50,.,.,false,false,false,false,false,false,Mona,Harb
+13002,URDS,604,1,Urban Design Thesis,6,EA,1,5,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb
+13003,URDS,604A,1,Design Thesis,0,EA,2,4,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb
+13004,URDS,604B,1,Design Thesis,0,EA,2,4,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb
+13005,URDS,604C,1,Design Thesis,0,EA,0,6,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb
+13006,URDS,604D,1,Design Thesis,1,EA,1,5,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb
+13177,URDS,604E,1,Design Thesis,1,EA,0,1,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb
+13018,URDS,632,1,From Urban Des to Lands.Urbani,3,EA,4,6,15:00,17:50,.,.,false,true,false,false,false,false,Robert,Saliba
+13007,URPL,630,1,Research Methods,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13008,URPL,631,1,Introd.to Plann.Theor & Policy,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13075,URPL,631,2,Introd.to Plann.Theor & Policy,3,EA,10,2,10:00,12:50,IOEC,224A,false,false,false,true,false,false,Mona,Fawaz
+13009,URPL,661,1,Planning and Design Workshop,6,EA,2,6,10:00,12:50,518,301,false,true,false,false,false,false,Serge,Yazigi
+13010,URPL,662,1,Comprehensive Exam,0,EA,1,19,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb
+13011,URPL,663,1,Planning Thesis,6,EA,0,6,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb
+13012,URPL,663A,1,Thesis,0,EA,7,5,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb
+13013,URPL,663B,1,Thesis,0,EA,2,4,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb
+13014,URPL,663C,1,Thesis,0,EA,0,6,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb
+13015,URPL,663D,1,Thesis,1,EA,1,5,08:00,08:50,.,.,false,false,false,false,false,false,Mona,Harb

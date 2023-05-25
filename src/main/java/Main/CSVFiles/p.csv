@@ -1,0 +1,478 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+13216,PBHL,210,1,COVID-19 Inequal & Well-Being,3,HS,20,-5,15:00,17:40,VANDYK,103,false,false,true,false,false,false,Sasha,Fahme
+12425,PBHL,306A,1,Library &Liter.Search Skills,0,HS,71,-25,.,.,.,.,false,false,false,false,false,true,Jihad,Makhoul
+13043,PBHL,307,1,Pub Hlth Arm Confl: RegIssGlob,3,HS,9,1,12:00,14:30,VANDYK,101,false,false,false,true,false,false,Samer,Jabbour
+13261,PBHL,308,1,Meth in Human. Settings,1,HS,7,3,.,.,.,.,false,false,false,false,false,false,Sawsan,Abdulrahim
+12426,PBHL,310,B1,Res.Methods in Publ.Health,0,HS,26,-11,12:00,14:00,VANDYK,201,false,false,false,false,true,false,Jocelyn,Dejong
+12427,PBHL,310,B2,Res.Methods in Publ.Health,0,HS,20,-5,09:00,11:00,VANDYK,201,true,false,false,false,false,false,Jocelyn,Dejong
+12428,PBHL,310,B3,Res.Methods in Publ.Health,0,HS,19,-4,17:30,19:30,VANDYK,201,false,true,false,false,false,false,Ghina,Mumtaz
+12429,PBHL,310,L,Res.Methods in Publ.Health,3,HS,65,-20,15:30,17:10,VANDYK,AUDT,false,false,false,true,false,false,Jocelyn,Dejong
+12430,PBHL,312,B1,Foundations of Public Health,0,HS,28,-4,09:30,11:00,VANDYK,203,false,false,false,true,false,false,Jihad,Makhoul
+12431,PBHL,312,B2,Foundations of Public Health,0,HS,38,-14,17:30,19:30,VANDYK,201,false,false,false,true,false,false,Jihad,Makhoul
+12432,PBHL,312,L,Foundations of Public Health,2,HS,66,-18,15:30,17:10,VANDYK,AUDT,false,false,true,false,false,false,Jihad,Makhoul
+12433,PBHL,399A,1,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Khalil,El Asmar
+12434,PBHL,399A,10,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Shadi,Saleh
+12435,PBHL,399A,11,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Faysal,Kak
+12436,PBHL,399A,12,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Joumana,Kalot
+12437,PBHL,399A,13,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Samer,Jabbour
+12438,PBHL,399A,14,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Martine,Najem
+12439,PBHL,399A,15,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Fadi,El-Jardali
+12440,PBHL,399A,16,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Fadi,El-Jardali
+12441,PBHL,399A,17,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Vito Luigi,Tanzi
+12442,PBHL,399A,18,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Aline,Germani
+12443,PBHL,399A,19,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Martine,Najem
+12444,PBHL,399A,2,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Fadi,El-Jardali
+12445,PBHL,399A,20,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Kassem,Kassak
+12446,PBHL,399A,21,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Diana  S.,Jamal
+12447,PBHL,399A,22,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Vito Luigi,Tanzi
+12448,PBHL,399A,23,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Kassem,Kassak
+12449,PBHL,399A,24,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Aline,Germani
+12450,PBHL,399A,25,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Joumana,Kalot
+12451,PBHL,399A,26,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Diana  S.,Jamal
+12452,PBHL,399A,27,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Shadi,Saleh
+12453,PBHL,399A,28,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Samer,Jabbour
+12454,PBHL,399A,29,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Salim,Adib
+12455,PBHL,399A,3,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Shadi,Saleh
+12456,PBHL,399A,30,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Aline,Germani
+12457,PBHL,399A,31,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Ghina,Mumtaz
+12458,PBHL,399A,32,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Catherine Grace,Schenck
+12459,PBHL,399A,33,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Maia,Sieverding
+12460,PBHL,399A,34,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Kassem,Kassak
+12461,PBHL,399A,35,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Marco,Bardus
+12462,PBHL,399A,36,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Salim,Adib
+12463,PBHL,399A,37,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Miran,Salame Jaffa
+12464,PBHL,399A,38,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Vito Luigi,Tanzi
+12465,PBHL,399A,39,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Diana  S.,Jamal
+12466,PBHL,399A,4,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Mohamed Fouad,Mohamed Fouad
+12467,PBHL,399A,40,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Lilian,Ghandour
+12468,PBHL,399A,41,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Fadi,El-Jardali
+12469,PBHL,399A,42,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Samer,Jabbour
+13375,PBHL,399A,43,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Stephen,Mccall
+12470,PBHL,399A,5,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Jihad,Makhoul
+12471,PBHL,399A,6,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Shadi,Saleh
+12472,PBHL,399A,7,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Samer,Jabbour
+12473,PBHL,399A,8,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Fadi,El-Jardali
+12474,PBHL,399A,9,Integrative Learning Experienc,1,HS,1,0,.,.,.,.,false,false,false,false,false,false,Aline,Germani
+12475,PHIL,102,1,Philosophical Classics,3,AS,21,1,15:30,16:45,NICELY,415,false,true,false,true,false,false,Mahmoud,Baassiri
+12476,PHIL,102,2,Philosophical Classics,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12477,PHIL,201,1,Introduction to Philosophy,3,AS,24,-1,08:00,09:15,FISK,339,false,true,false,true,false,false,Mahmoud,El Hassanieh
+12478,PHIL,201,2,Introduction to Philosophy,3,AS,23,0,09:30,10:45,FISK,313,false,true,false,true,false,false,Mahmoud,El Hassanieh
+12479,PHIL,201,3,Introduction to Philosophy,3,AS,23,0,15:30,16:45,PHYS,331,true,false,true,false,false,false,Zainab,Sabra
+12480,PHIL,201,4,Introduction to Philosophy,3,AS,23,0,11:00,12:15,BLISS,206,false,true,false,true,false,false,Rabih,Salloum
+12481,PHIL,201,5,Introduction to Philosophy,3,AS,21,1,14:00,15:15,FISK,337,false,true,false,true,false,false,Mahmoud,El Hassanieh
+12482,PHIL,201,6,Introduction to Philosophy,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12484,PHIL,205,1,Bio-Medical Ethics,3,AS,21,1,14:00,15:15,PHYS,217,false,true,false,true,false,false,Rabih,Salloum
+12485,PHIL,205,2,Bio-Medical Ethics,3,AS,22,0,15:30,16:45,PHYS,215,false,true,false,true,false,false,Rabih,Salloum
+12486,PHIL,208A,1,App Ethics: Ethics of AI,3,AS,9,1,14:00,15:15,NICELY,325,true,false,true,false,false,false,Hans D.,Muller
+12487,PHIL,209,1,Environmental Ethics,3,AS,20,3,15:30,16:45,PHYS,333,true,false,true,false,false,false,Muhannad,Hariri
+12488,PHIL,209,2,Environmental Ethics,3,AS,22,1,17:00,18:15,PHYS,333,true,false,true,false,false,false,Muhannad,Hariri
+12489,PHIL,210,1,Ethics,3,AS,22,1,09:30,10:45,BLISS,206,false,true,false,true,false,false,Zainab,Sabra
+12490,PHIL,210,2,Ethics,3,AS,23,0,08:00,09:15,FISK,313,false,true,false,true,false,false,Zainab,Sabra
+12491,PHIL,210,3,Ethics,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12492,PHIL,210,4,Ethics,3,AS,23,0,14:00,15:15,NICELY,406,false,true,false,true,false,false,Muhannad,Hariri
+12493,PHIL,210,5,Ethics,3,AS,21,1,14:00,15:15,PHYS,333,true,false,true,false,false,false,Muhannad,Hariri
+12494,PHIL,210,6,Ethics,3,AS,22,0,15:30,16:45,NICELY,322,true,false,true,false,false,false,Bashshar,Haydar
+12495,PHIL,210,7,Ethics,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13113,PHIL,210,8,Ethics,3,AS,23,0,14:00,15:15,FISK,309,false,true,false,true,false,false,Bana,Bashour
+13114,PHIL,210,9,Ethics,3,AS,23,0,15:30,16:45,FISK,309,false,true,false,true,false,false,Bana,Bashour
+12496,PHIL,211,1,Introduction to Logic,3,AS,19,11,11:00,11:50,FISK,309,true,false,true,false,true,false,Hans D.,Muller
+12497,PHIL,213,1,Hist of Ancient& Medieval Phil,3,AS,18,4,11:00,12:15,FISK,337,false,true,false,true,false,false,Emma,Gannage
+12498,PHIL,216,1,Political Philosophy,3,AS,17,5,17:00,18:15,NICELY,325,false,true,false,true,false,false,Quinn,Gibson
+12499,PHIL,218,1,Metaphysics & Epistemology,3,AS,11,11,12:30,13:45,BLISS,205,false,true,false,true,false,false,Saleh,Agha
+12500,PHIL,219,1,Existentialism,3,AS,20,2,09:30,10:45,FISK,337,false,true,false,true,false,false,Hani,Hassan
+12501,PHIL,221,1,Philosophy of Mind,3,AS,15,7,18:30,19:45,FISK,313,false,true,false,true,false,false,Quinn,Gibson
+12502,PHIL,225,1,History of Moral Philosophy,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12503,PHIL,225,2,History of Moral Philosophy,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12504,PHIL,227,1,Marx and Philosophy,3,AS,15,7,17:00,18:15,NICELY,107,false,false,true,false,true,false,Raymond,Brassier
+12505,PHIL,230,1,Philosophy of Plato,3,AS,10,12,14:00,15:15,FISK,313,false,false,true,false,true,false,Christopher,Johns
+12506,PHIL,232,1,Islamic Philosophy,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12507,PHIL,249,1,Philosophy of Feminism,3,AS,20,2,15:30,16:45,NICELY,417,true,false,true,false,false,false,Fidaa,Chehayeb
+12508,PHIL,251L,1,ST. in Islamic Ethics,3,AS,7,15,15:30,16:45,BLISS,206,false,true,false,true,false,false,Bashshar,Haydar
+12509,PHIL,252O,1,ST:Pol Phil:What is Authority?,3,AS,7,3,14:00,15:15,NICELY,209,false,true,false,true,false,false,Nadia,Bou Ali
+13391,PHIL,301J,1,Sp.Tp: in Islamic Ethics,3,AS,1,0,15:30,16:45,BLISS,206,false,true,false,true,false,false,Bashshar,Haydar
+12510,PHIL,302K,1,ST:Pol Phil:What is Authority?,3,AS,6,-1,14:00,15:15,NICELY,209,false,true,false,true,false,false,Nadia,Bou Ali
+12511,PHIL,304G,1,ST:Metaphysics: Good&Evil,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12512,PHIL,310V,1,ST:Hist of Phil: Aristotle,3,AS,8,2,15:30,18:00,FISK,337,false,false,true,false,false,false,Emma,Gannage
+12513,PHIL,395A,1,Comprehensive Exam,0,AS,2,-2,.,.,.,.,false,false,false,false,false,false,Christopher,Johns
+12514,PHIL,399,1,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bana,Bashour
+12515,PHIL,399,2,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bashshar,Haydar
+12517,PHIL,399,4,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hans D.,Muller
+12518,PHIL,399,5,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Christopher,Johns
+12519,PHIL,399,6,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Raymond,Brassier
+12520,PHIL,399,7,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Quinn,Gibson
+12521,PHIL,399A,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bana,Bashour
+12522,PHIL,399A,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Raymond,Brassier
+12523,PHIL,399A,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Quinn,Gibson
+12524,PHIL,399A,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bashshar,Haydar
+12525,PHIL,399A,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Christopher,Johns
+12526,PHIL,399A,6,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hans D.,Muller
+12527,PHIL,399B,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Raymond,Brassier
+12528,PHIL,399B,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Christopher,Johns
+12529,PHIL,399B,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bana,Bashour
+12530,PHIL,399B,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Quinn,Gibson
+12531,PHIL,399B,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bashshar,Haydar
+12532,PHIL,399B,6,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hans D.,Muller
+12533,PHIL,399C,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bana,Bashour
+12534,PHIL,399C,2,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Raymond,Brassier
+12535,PHIL,399C,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Quinn,Gibson
+12536,PHIL,399C,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bashshar,Haydar
+12537,PHIL,399C,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Christopher,Johns
+12538,PHIL,399C,6,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hans D.,Muller
+12539,PHNU,300,1,Fundam.of Public Health Nutrit,3,AH,9,5,15:00,16:15,.,.,false,true,false,true,false,false,Lara,Nasreddine
+13179,PHNU,301,1,Nutrition in the Life Cycle,3,AH,4,6,09:00,10:15,.,.,false,true,false,true,false,false,Linda,Shaker
+12540,PHNU,302,1,Nutri.Related Chronic Disease,3,AH,3,5,14:00,15:15,AGRIC,325,true,false,true,false,false,false,Lara,Nasreddine
+13355,PHNU,391A,1,Integrative Learning Exper.I,1,AH,1,1,.,.,.,.,false,false,false,false,false,false,Lara,Nasreddine
+12541,PHNU,396,1,Comprehensive Exam,0,AH,0,4,.,.,.,.,false,false,false,false,false,false,Lara,Nasreddine
+12542,PHNU,399,1,Thesis,7.2,AH,2,2,.,.,.,.,false,false,false,false,false,false,Lara,Nasreddine
+12543,PHNU,399A,1,Thesis,0,AH,0,0,.,.,.,.,false,false,false,false,false,false,Lara,Nasreddine
+12544,PHNU,399B,1,Thesis,0,AH,0,0,.,.,.,.,false,false,false,false,false,false,Lara,Nasreddine
+13112,PHNU,399B,2,Thesis,0,AH,1,1,.,.,.,.,false,false,false,false,false,false,Farah,Naja
+13052,PHRM,240,0,Pharmacology & Therapeutics,3,FM,56,9,08:05,08:55,.,.,true,false,true,false,true,false,Fouad,Zouein
+12545,PHRM,300,0,Pharmacology & Toxicology,7,FM,4,21,01:01,01:02,.,.,true,false,false,false,false,false,Hana,Itani
+12546,PHRM,307,0,Tutorial in Pharmacology,3,FM,0,2,.,.,.,.,false,false,false,false,false,false,Ahmed Fawzi,El-Yazbi
+13141,PHRM,315,0,Principles of Pharmacology,2,FM,3,7,.,.,.,.,false,false,false,false,false,false,Fouad,Zouein
+12547,PHRM,395A,0,Comprehensive Exam,0,FM,0,25,.,.,.,.,false,false,false,false,false,false,Ramzi,Sabra
+12548,PHRM,399,0,MS Thesis,7.65,FM,0,25,.,.,.,.,false,false,false,false,false,false,Ramzi,Sabra
+12549,PHRM,399A,0,MS Thesis,0,FM,0,10,.,.,.,.,false,false,false,false,false,false,Ramzi,Sabra
+12550,PHRM,399B,0,MS Thesis,0,FM,1,9,.,.,.,.,false,false,false,false,false,false,Ramzi,Sabra
+12551,PHYL,310,0,Cell Physiol. and Biophysics,3,FM,19,31,.,.,.,.,false,false,false,false,false,false,Assaad,Eid
+12552,PHYL,395A,0,Comprehensive Exam,0,FM,6,19,.,.,.,.,false,false,false,false,false,false,Georges,Daoud
+12553,PHYL,399,0,M.S. Thesis,7.65,FM,11,14,.,.,.,.,false,false,false,false,false,false,Georges,Daoud
+12554,PHYL,399A,0,MS Thesis,0,FM,0,25,.,.,.,.,false,false,false,false,false,false,Georges,Daoud
+12555,PHYL,399B,0,MS Thesis,0,FM,5,20,.,.,.,.,false,false,false,false,false,false,Georges,Daoud
+12556,PHYS,103,1,Physics for the Life Sciences,3,AS,22,13,11:00,11:50,PHYS,219,true,false,true,false,true,false,Malek,Tabbal
+12557,PHYS,200,1,Understanding the Universe,3,AS,55,-5,13:00,13:50,PHYS,219,true,false,true,false,true,false,Ola,Hosseiky Malaeb
+12558,PHYS,204,E1,Classical Physics for Life Sc.,0,AS,30,0,10:00,10:50,PHYS,217,true,false,false,false,false,false,Samih,Isber
+12559,PHYS,204,E2,Classical Physics for Life Sc.,0,AS,27,3,10:00,10:50,PHYS,217,false,false,false,false,true,false,Samih,Isber
+12560,PHYS,204,E3,Classical Physics for Life Sc.,0,AS,17,13,09:30,10:20,PHYS,329,false,true,false,false,false,false,Samih,Isber
+12561,PHYS,204,E4,Classical Physics for Life Sc.,0,AS,30,0,11:00,11:50,PHYS,215,false,false,false,false,true,false,Samih,Isber
+12562,PHYS,204,E5,Classical Physics for Life Sc.,0,AS,28,2,12:30,13:20,PHYS,327,false,true,false,false,false,false,Samih,Isber
+12563,PHYS,204,E6,Classical Physics for Life Sc.,0,AS,31,-1,09:00,09:50,PHYS,329,false,false,false,false,true,false,Samih,Isber
+12564,PHYS,204,L1,Classical Physics for Life Sc.,3,AS,73,17,09:00,09:50,CHEM,001,true,false,true,false,false,false,Samih,Isber
+12565,PHYS,204,L2,Classical Physics for Life Sc.,3,AS,90,0,11:00,11:50,BIOL,SLH,true,false,true,false,false,false,Samih,Isber
+12566,PHYS,204L,B1,Classic.Phys.for Life Sc.Lab.,1,AS,14,0,12:00,13:59,PHYS,208,true,false,false,false,false,false,Samih,Isber
+12567,PHYS,204L,B10,Classic.Phys.for Life Sc.Lab.,1,AS,15,-1,14:00,15:59,PHYS,208,false,false,false,false,true,false,Samih,Isber
+12568,PHYS,204L,B2,Classic.Phys.for Life Sc.Lab.,1,AS,14,0,14:00,15:59,PHYS,208,true,false,false,false,false,false,Samih,Isber
+12569,PHYS,204L,B3,Classic.Phys.for Life Sc.Lab.,1,AS,13,1,12:00,13:59,PHYS,208,false,true,false,false,false,false,Samih,Isber
+12570,PHYS,204L,B4,Classic.Phys.for Life Sc.Lab.,1,AS,12,2,14:00,15:59,PHYS,208,false,true,false,false,false,false,Samih,Isber
+12571,PHYS,204L,B5,Classic.Phys.for Life Sc.Lab.,1,AS,14,0,12:00,13:59,PHYS,208,false,false,true,false,false,false,Samih,Isber
+12572,PHYS,204L,B6,Classic.Phys.for Life Sc.Lab.,1,AS,14,0,14:00,15:59,PHYS,208,false,false,true,false,false,false,Samih,Isber
+12573,PHYS,204L,B7,Classic.Phys.for Life Sc.Lab.,1,AS,14,0,12:00,13:59,PHYS,208,false,false,false,true,false,false,Samih,Isber
+12574,PHYS,204L,B8,Classic.Phys.for Life Sc.Lab.,1,AS,13,1,14:00,15:59,PHYS,208,false,false,false,true,false,false,Samih,Isber
+12575,PHYS,204L,B9,Classic.Phys.for Life Sc.Lab.,1,AS,14,0,12:00,13:59,PHYS,208,false,false,false,false,true,false,Samih,Isber
+12576,PHYS,210,E1,Introductory Physics II,0,AS,19,11,09:30,10:20,PHYS,329,false,false,false,true,false,false,Michel,Kazan
+12577,PHYS,210,E2,Introductory Physics II,0,AS,13,17,11:00,11:50,PHYS,215,false,false,true,false,false,false,Michel,Kazan
+12578,PHYS,210,E3,Introductory Physics II,0,AS,27,3,11:00,11:50,PHYS,215,false,false,false,true,false,false,Michel,Kazan
+12579,PHYS,210,E4,Introductory Physics II,0,AS,10,20,12:00,12:50,CHEM,101,false,false,false,false,true,false,Michel,Kazan
+12580,PHYS,210,E5,Introductory Physics II,0,AS,27,3,11:00,11:50,PHYS,215,true,false,false,false,false,false,Michel,Kazan
+12581,PHYS,210,E6,Introductory Physics II,0,AS,9,21,09:00,09:50,PHYS,327,false,false,true,false,false,false,Michel,Kazan
+12582,PHYS,210,E7,Introductory Physics II,0,AS,8,22,09:00,09:50,PHYS,327,true,false,false,false,false,false,Michel,Kazan
+12583,PHYS,210,E8,Introductory Physics II,0,AS,29,1,12:30,13:20,PHYS,327,false,false,false,true,false,false,Michel,Kazan
+12584,PHYS,210,E9,Introductory Physics II,0,AS,30,0,11:00,11:50,PHYS,215,false,true,false,false,false,false,Michel,Kazan
+12585,PHYS,210,L1,Introductory Physics II,3,AS,53,37,10:00,10:50,CHSC,AUDITORIUM,true,false,true,false,true,false,Michel,Kazan
+12586,PHYS,210,L2,Introductory Physics II,3,AS,70,20,12:00,12:50,BIOL,SLH,true,false,true,false,true,false,Michel,Kazan
+12587,PHYS,210,L3,Introductory Physics II,3,AS,49,41,13:00,13:50,CHEM,001,true,false,true,false,true,false,Michel,Kazan
+12588,PHYS,210L,B1,Introductory Phys.Lab.II.,1,AS,16,-2,12:00,13:59,PHYS,204,true,false,false,false,false,false,Michel,Kazan
+12589,PHYS,210L,B10,Introductory Phys.Lab.II.,1,AS,14,0,14:00,15:59,PHYS,204,false,false,false,false,true,false,Michel,Kazan
+12590,PHYS,210L,B2,Introductory Phys.Lab.II.,1,AS,14,0,14:00,15:59,PHYS,204,true,false,false,false,false,false,Michel,Kazan
+12591,PHYS,210L,B3,Introductory Phys.Lab.II.,1,AS,14,0,12:00,13:59,PHYS,204,false,true,false,false,false,false,Michel,Kazan
+12592,PHYS,210L,B4,Introductory Phys.Lab.II.,1,AS,14,0,14:00,15:59,PHYS,204,false,true,false,false,false,false,Michel,Kazan
+12593,PHYS,210L,B5,Introductory Phys.Lab.II.,1,AS,14,0,12:00,13:59,PHYS,204,false,false,true,false,false,false,Michel,Kazan
+12594,PHYS,210L,B6,Introductory Phys.Lab.II.,1,AS,15,-1,14:00,15:59,PHYS,204,false,false,true,false,false,false,Michel,Kazan
+12595,PHYS,210L,B7,Introductory Phys.Lab.II.,1,AS,14,0,12:00,13:59,PHYS,204,false,false,false,true,false,false,Michel,Kazan
+12596,PHYS,210L,B8,Introductory Phys.Lab.II.,1,AS,15,-1,14:00,15:59,PHYS,204,false,false,false,true,false,false,Michel,Kazan
+12597,PHYS,210L,B9,Introductory Phys.Lab.II.,1,AS,14,0,12:00,13:59,PHYS,204,false,false,false,false,true,false,Michel,Kazan
+12598,PHYS,211,E1,Electricity & Magnetism,0,AS,24,1,12:00,12:50,PHYS,329,false,false,false,false,true,false,Ghassan,Antar
+12599,PHYS,211,E2,Electricity & Magnetism,0,AS,22,3,09:00,09:50,PHYS,327,false,false,false,false,true,false,Ghassan,Antar
+12600,PHYS,211,E3,Electricity & Magnetism,0,AS,24,1,13:00,13:50,PHYS,327,true,false,false,false,false,false,Ghassan,Antar
+12601,PHYS,211,E4,Electricity & Magnetism,0,AS,24,1,10:00,10:50,PHYS,217,false,false,true,false,false,false,Ghassan,Antar
+12602,PHYS,211,L1,Electricity & Magnetism,3,AS,94,6,11:00,11:50,BIOL,SLH,false,true,false,true,false,false,Ghassan,Antar
+12603,PHYS,211L,B1,Electricity &Magnetism Lab.,1,AS,14,0,12:00,13:59,PHYS,202,false,true,false,false,false,false,Samih,Isber
+12604,PHYS,211L,B2,Electricity &Magnetism Lab.,1,AS,15,-1,14:00,15:59,PHYS,202,false,true,false,false,false,false,Samih,Isber
+12605,PHYS,211L,B3,Electricity &Magnetism Lab.,1,AS,12,2,12:00,13:59,PHYS,202,false,false,true,false,false,false,Samih,Isber
+12606,PHYS,211L,B4,Electricity &Magnetism Lab.,1,AS,13,1,14:00,15:59,PHYS,202,false,false,true,false,false,false,Samih,Isber
+12607,PHYS,211L,B5,Electricity &Magnetism Lab.,1,AS,14,0,12:00,13:59,PHYS,202,false,false,false,true,false,false,Samih,Isber
+12608,PHYS,211L,B6,Electricity &Magnetism Lab.,1,AS,14,0,14:00,15:59,PHYS,202,false,false,false,true,false,false,Samih,Isber
+12609,PHYS,212,1,Modern Physics,3,AS,21,14,09:00,09:50,PHYS,215,true,false,true,false,true,false,Wafic,Sabra
+12610,PHYS,216,1,Mathemat.Methods for Phys.,3,AS,14,11,12:30,13:45,PHYS,217,false,true,false,true,false,false,Ali,Chamseddine
+12611,PHYS,217,1,Mechanics,3,AS,14,11,12:00,12:50,PHYS,215,true,false,true,false,true,false,Wafic,Sabra
+12612,PHYS,221L,B1,Junior Laboratory,3,AS,14,0,14:00,17:00,PHYS,211,true,false,true,false,false,false,Theodore,Christidis
+12613,PHYS,222,1,Computational Physics,3,AS,12,13,09:00,09:50,PHYS,310,true,false,true,false,true,false,Sara,Najem
+12614,PHYS,228,1,Electronics,3,AS,11,14,11:00,11:50,PHYS,329,true,false,true,false,true,false,Verjouhi,Bodakian
+12615,PHYS,228L,B1,Electronics Laboratory,1,AS,11,1,14:00,15:59,PHYS,206,false,true,false,false,false,false,Verjouhi,Bodakian
+12616,PHYS,231J,1,ST. General Relativity,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12617,PHYS,235,1,Statistical Physics,3,AS,11,14,10:00,10:50,PHYS,333,true,false,true,false,true,false,Leonid,Klushin
+12618,PHYS,237,1,Intr.to Plasma Physics,3,AS,6,4,09:30,10:45,PHYS,215,false,true,false,true,false,false,Ghassan,Antar
+12619,PHYS,301,1,Classical Mechanics,3,AS,3,12,09:00,10:15,PHYS,310,false,true,false,true,false,false,Jihad,Touma
+12620,PHYS,303,1,Electromagnetic Theory,3,AS,3,12,10:30,11:45,PHYS,310,false,true,false,true,false,false,Ali,Chamseddine
+13240,PHYS,307,1,Adv.Mathemat.Methods of Physic,3,AS,1,-1,.,.,.,.,false,false,false,false,false,false,Wafic,Sabra
+12621,PHYS,310A,1,Computational Physics,3,AS,4,11,09:00,09:50,PHYS,310,true,false,true,false,true,false,Sara,Najem
+12622,PHYS,310R,1,ST. General Relativity,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13239,PHYS,310X,1,Sp.T:Adv.Statistical Mechanics,3,AS,5,2,11:00,11:50,PHYS,310,true,false,true,false,true,false,Leonid,Klushin
+13283,PHYS,322,1,Thin Films Physics,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13336,PHYS,391AB,1,Tut. Thin Films Physics,3,AS,1,0,.,.,.,.,false,false,false,false,false,false,Malek,Tabbal
+13335,PHYS,391AC,1,Tut. Physics of Active Matter,3,AS,1,0,.,.,.,.,false,false,false,false,false,false,Sara,Najem
+13334,PHYS,391AD,1,Tut.(Exo)-Planetary Physics,3,AS,1,0,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12623,PHYS,395A,1,Comprehensive Exam,0,AS,4,6,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12624,PHYS,399,1,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ghassan,Antar
+12625,PHYS,399,10,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wafic,Sabra
+12626,PHYS,399,11,M.S. Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Malek,Tabbal
+12627,PHYS,399,12,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12629,PHYS,399,3,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ali,Chamseddine
+12631,PHYS,399,5,M.S. Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Mohammad,Haidar
+12632,PHYS,399,6,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samih,Isber
+12633,PHYS,399,7,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Michel,Kazan
+12634,PHYS,399,8,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Leonid,Klushin
+12635,PHYS,399,9,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sara,Najem
+12636,PHYS,399A,1,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ghassan,Antar
+12637,PHYS,399A,10,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wafic,Sabra
+12638,PHYS,399A,11,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Malek,Tabbal
+12639,PHYS,399A,12,M.S.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12641,PHYS,399A,3,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ali,Chamseddine
+12643,PHYS,399A,5,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mohammad,Haidar
+12644,PHYS,399A,6,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samih,Isber
+12645,PHYS,399A,7,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Michel,Kazan
+12646,PHYS,399A,8,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Leonid,Klushin
+12647,PHYS,399A,9,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sara,Najem
+12648,PHYS,399B,1,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ghassan,Antar
+12649,PHYS,399B,10,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wafic,Sabra
+12650,PHYS,399B,11,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Malek,Tabbal
+12651,PHYS,399B,12,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12653,PHYS,399B,3,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ali,Chamseddine
+12655,PHYS,399B,5,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mohammad,Haidar
+12656,PHYS,399B,6,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samih,Isber
+12657,PHYS,399B,7,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Michel,Kazan
+12658,PHYS,399B,8,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Leonid,Klushin
+12659,PHYS,399B,9,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sara,Najem
+12660,PHYS,399C,1,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ghassan,Antar
+12661,PHYS,399C,10,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wafic,Sabra
+12662,PHYS,399C,11,M.S.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Malek,Tabbal
+12663,PHYS,399C,12,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12665,PHYS,399C,3,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ali,Chamseddine
+12667,PHYS,399C,5,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mohammad,Haidar
+12668,PHYS,399C,6,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samih,Isber
+12669,PHYS,399C,7,M.S.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Michel,Kazan
+12670,PHYS,399C,8,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Leonid,Klushin
+12671,PHYS,399C,9,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sara,Najem
+12672,PHYS,480,1,Qualifying Exam I:Compr.Exam,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12673,PHYS,481,1,Qualif.Exam II:Def.ThesisProp,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12674,PHYS,484,1,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ghassan,Antar
+12675,PHYS,484,10,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wafic,Sabra
+12676,PHYS,484,11,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Malek,Tabbal
+12677,PHYS,484,12,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12679,PHYS,484,3,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ali,Chamseddine
+12681,PHYS,484,5,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mohammad,Haidar
+12682,PHYS,484,6,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samih,Isber
+12683,PHYS,484,7,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Michel,Kazan
+12684,PHYS,484,8,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Leonid,Klushin
+12685,PHYS,484,9,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sara,Najem
+12686,PHYS,484A,1,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ghassan,Antar
+12687,PHYS,484A,10,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wafic,Sabra
+12688,PHYS,484A,11,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Malek,Tabbal
+12689,PHYS,484A,12,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12691,PHYS,484A,3,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ali,Chamseddine
+12693,PHYS,484A,5,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mohammad,Haidar
+12694,PHYS,484A,6,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samih,Isber
+12695,PHYS,484A,7,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Michel,Kazan
+12696,PHYS,484A,8,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Leonid,Klushin
+12697,PHYS,484A,9,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sara,Najem
+12698,PHYS,484B,1,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ghassan,Antar
+12699,PHYS,484B,10,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wafic,Sabra
+12700,PHYS,484B,11,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Malek,Tabbal
+12701,PHYS,484B,12,PhD Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12703,PHYS,484B,3,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ali,Chamseddine
+12705,PHYS,484B,5,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mohammad,Haidar
+12706,PHYS,484B,6,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samih,Isber
+12707,PHYS,484B,7,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Michel,Kazan
+12708,PHYS,484B,8,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Leonid,Klushin
+12709,PHYS,484B,9,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sara,Najem
+12710,PHYS,484C,1,PhD Thesis,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Ghassan,Antar
+12711,PHYS,484C,10,PhD Thesis,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Wafic,Sabra
+12712,PHYS,484C,11,PhD Thesis,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Malek,Tabbal
+12713,PHYS,484C,12,PhD Thesis,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Jihad,Touma
+12715,PHYS,484C,3,PhD Thesis,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Ali,Chamseddine
+12717,PHYS,484C,5,PhD Thesis,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Mohammad,Haidar
+12718,PHYS,484C,6,PhD Thesis,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Samih,Isber
+12719,PHYS,484C,7,PhD Thesis,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Michel,Kazan
+12720,PHYS,484C,8,PhD Thesis,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Leonid,Klushin
+12721,PHYS,484C,9,PhD Thesis,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Sara,Najem
+12722,PPIA,301,1,Public Policy,3,AS,25,-10,15:00,17:30,ISSAM,302,false,true,false,false,false,false,Charbel,Nahas
+12723,PPIA,302,1,International Affairs,3,AS,20,-5,15:30,17:59,NICELY,101,false,false,true,false,false,false,Nikolas,Kosmatopoulos
+13247,PPIA,310D,1,ST:Publ Pol:Middle East Cases,3,AS,6,-1,15:30,18:00,NICELY,321,false,true,false,false,false,false,Mahmoud,Youssef Haidar
+12724,PPIA,311G,1,ST:UN & International Politics,3,AS,9,-4,15:00,17:30,ISSAM,102,false,false,false,true,false,false,Karim,Makdisi
+12725,PPIA,311K,1,ST:Humanitarian Aid in Lebanon,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13231,PPIA,311M,1,ST.EastMed Gas Geopolitics Pol,3,AS,13,2,15:00,17:30,NICELY,209,true,false,false,false,false,false,Laurie,Haytayan
+12726,PPIA,311N,1,ST. International Law&Security,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12727,PPIA,395A,1,Comprehensive Exam,0,AS,6,-1,.,.,.,.,false,false,false,false,false,false,Karim,Makdisi
+12728,PPIA,397,1,Internship,3,AS,1,4,.,.,.,.,false,false,false,false,false,false,Karim,Makdisi
+12729,PPIA,398,1,Project,3,AS,2,3,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+12730,PPIA,398,2,Project,3,AS,1,4,.,.,.,.,false,false,false,false,false,false,Nikolas,Kosmatopoulos
+12731,PPIA,398,3,Project,3,AS,1,4,.,.,.,.,false,false,false,false,false,false,Ohannes,Geukjian
+12732,PPIA,398,4,Project,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Karim,Makdisi
+13064,PPIA,398,5,Project,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Shibli
+13392,PPIA,398,6,Project,3,AS,1,4,.,.,.,.,false,false,false,false,false,false,Jamil,Mouawad
+13271,PPIA,398A,1,Project,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Karim,Makdisi
+13295,PPIA,398A,2,Project,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Rabih,Shibli
+12733,PPIA,399,1,Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+12734,PPIA,399,2,Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Karim,Makdisi
+12735,PPIA,399,3,Thesis,7.2,AS,1,4,.,.,.,.,false,false,false,false,false,false,Nikolas,Kosmatopoulos
+13324,PPIA,399,4,Thesis,7.2,AS,1,4,.,.,.,.,false,false,false,false,false,false,Ohannes,Geukjian
+13397,PPIA,399,5,Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Carmen,Geha
+13463,PPIA,399,6,Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Coralie,Hindawi
+12739,PPIA,399A,1,Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Karim,Makdisi
+12740,PPIA,399A,2,Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Charlotte,Karam
+12741,PPIA,399A,3,Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+12742,PPIA,399A,4,Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13115,PPIA,399A,5,Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Giuliano,Martiniello
+13325,PPIA,399A,6,Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Hiba,Khodr
+13470,PPIA,399A,7,Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Nikolas,Kosmatopoulos
+13465,PPIA,399B,1,Thesis,1,AS,0,5,.,.,.,.,false,false,false,false,false,false,Coralie,Hindawi
+12743,PSPA,101,1,Issues in Contemporary Politic,3,AS,28,2,09:00,09:50,NICELY,320,true,false,true,false,true,false,Ghada,Awada
+12744,PSPA,201,1,Intro to Political Science,3,AS,25,0,08:00,08:50,NICELY,410,true,false,true,false,true,false,Vera,Choulhadjian
+12745,PSPA,201,2,Intro to Political Science,3,AS,24,1,11:00,12:15,NICELY,417,false,true,false,true,false,false,Rand,Al-Maleh
+12746,PSPA,201,3,Intro to Political Science,3,AS,24,1,09:00,09:50,NICELY,410,true,false,true,false,true,false,Vera,Choulhadjian
+12747,PSPA,201,4,Intro to Political Science,3,AS,32,-2,13:00,13:50,NICELY,416,true,false,true,false,true,false,Vera,Choulhadjian
+12749,PSPA,202,1,Intro to Public Administration,3,AS,28,-3,10:00,10:50,NICELY,411,true,false,true,false,true,false,Melissa,Ajamian
+12751,PSPA,202,3,Intro to Public Administration,3,AS,26,-1,08:00,08:50,NICELY,324,true,false,true,false,true,false,Rima,Shaar
+12753,PSPA,203,2,Research Methods,3,AS,31,-6,14:00,15:15,NICELY,206,false,true,false,true,false,false,Michel,Douaihy
+12754,PSPA,210,1,Intr.to Political Thought,3,AS,31,-1,14:00,15:15,NICELY,103,false,true,false,true,false,false,Samer,Frangie
+12755,PSPA,210,2,Intr.to Political Thought,3,AS,32,-2,17:00,18:15,NICELY,414,false,true,false,true,false,false,Rand,Al-Maleh
+12756,PSPA,211,1,Intr. to Comparative Politics,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12757,PSPA,211,2,Intr. to Comparative Politics,3,AS,23,7,12:30,13:45,NICELY,211,false,true,false,true,false,false,Tariq,Tell
+12758,PSPA,212,1,Contem.Trends in Publ.Adm&Mngt,3,AS,13,17,08:00,08:50,NICELY,318,true,false,true,false,true,false,Samer,Hankir
+12759,PSPA,213,1,Intr. to International Pol.,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12760,PSPA,213,2,Intr. to International Pol.,3,AS,25,5,11:00,11:50,NICELY,410,true,false,true,false,true,false,Dima,Smaira
+12761,PSPA,219,1,Arab Politic.Thought & Ideolog,3,AS,16,14,14:00,15:15,NICELY,214,true,false,true,false,false,false,Rand,Al-Maleh
+12762,PSPA,221,1,Theories & Hist.of the State,3,AS,18,12,15:30,16:45,NICELY,211,false,true,false,true,false,false,Tariq,Tell
+12763,PSPA,222,1,Democr Civic Engag.&Leadership,3,AS,27,-2,15:30,16:45,NICELY,406,false,true,false,true,false,false,Zeina,Mohanna
+12764,PSPA,223,1,Constitutional  Law,3,AS,22,3,17:00,18:15,NICELY,412,false,true,false,true,false,false,Rabih C,Maalouf
+12765,PSPA,225,1,Public International Law,3,AS,27,-2,14:00,14:50,NICELY,417,true,false,true,false,true,false,Dima,Smaira
+12766,PSPA,232,1,Conflict & Conflict Regulation,3,AS,25,0,10:00,10:50,NICELY,414,true,false,true,false,true,false,Ohannes,Geukjian
+12767,PSPA,235,1,Human Rights and Int'l Polit.,3,AS,26,-1,17:00,18:15,NICELY,108,false,true,false,true,false,false,Zeina,Mohanna
+12768,PSPA,236,1,The Arab-Israeli Conflict,3,AS,17,8,14:00,15:15,NICELY,415,false,true,false,true,false,false,Hilal,Khashan
+12769,PSPA,238,1,Internat'l Political Economy,3,AS,16,9,08:00,09:15,NICELY,324,false,true,false,true,false,false,Mohamad Hussein,Mansour
+12770,PSPA,253,1,Politics & Govern: Middle East,3,AS,17,8,14:00,15:15,NICELY,212,false,true,false,true,false,false,Jamil,Mouawad
+12771,PSPA,256,1,Politics in Lebanon,3,AS,20,5,09:30,10:45,NICELY,206,false,true,false,true,false,false,Jamil,Mouawad
+12772,PSPA,256,2,Politics in Lebanon,3,AS,9,16,18:30,20:59,NICELY,206,true,false,false,false,false,false,Jamil,Mouawad
+12773,PSPA,258,1,Comparative Public Adminstrat.,3,AS,9,16,17:00,18:15,NICELY,411,false,true,false,true,false,false,Samer,Hankir
+12774,PSPA,263,1,Publ.Policy & Legal Framework,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12775,PSPA,272,1,The Non-Profit Sector,3,AS,26,-1,11:00,12:15,NICELY,103,false,true,false,true,false,false,Tania,Haddad
+12776,PSPA,273,1,HR & Personnel Administration,3,AS,30,-5,12:30,13:45,NICELY,212,false,true,false,true,false,false,Tania,Haddad
+12777,PSPA,276,1,Public Policy,3,AS,24,1,11:00,12:15,NICELY,318,false,true,false,true,false,false,Mahmoud,Youssef Haidar
+12778,PSPA,277,1,Public Budgeting,3,AS,17,8,08:00,09:15,NICELY,321,false,true,false,true,false,false,Rima,Shaar
+13061,PSPA,289X,1,ST.Currnt Gender Issues inMENA,3,AS,28,-3,11:00,12:15,NICELY,210,false,true,false,true,false,false,Lina,Abou Habib
+13253,PSPA,289Y,1,ST.Pub.Policy MiddleEast Cases,3,AS,1,9,15:30,18:00,NICELY,321,false,true,false,false,false,false,Mahmoud,Youssef Haidar
+12781,PSPA,293N,1,Sn.Sm.The Politics of the Seas,3,AS,11,14,09:30,10:45,NICELY,321,false,true,false,true,false,false,Nikolas,Kosmatopoulos
+13270,PSPA,297,1,Sr Seminar in Organization Th.,3,AS,15,0,15:30,18:00,NICELY,318,true,false,false,false,false,false,Samer,Hankir
+12782,PSPA,298,1,Sen.Sem.Publ.Policy &Publ.Admi,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12783,PSPA,299,1,Internship Program,3,AS,13,2,.,.,.,.,false,false,false,false,false,false,Zeinab,Mirza
+12784,PSPA,300,1,Methodology & Research Design,3,AS,9,6,15:30,17:59,JESUP,207,true,false,false,false,false,false,Jamil,Mouawad
+12785,PSPA,301,1,Political Theory,3,AS,5,10,15:30,17:59,NICELY,214,false,true,false,false,false,false,Samer,Frangie
+12786,PSPA,312,1,International Law & Security,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12787,PSPA,314,1,The UN & International Polit.,3,AS,9,1,15:00,17:30,ISSAM,102,false,false,false,true,false,false,Karim,Makdisi
+12788,PSPA,320,1,Theories of Comparative Polit.,3,AS,5,10,15:30,17:59,NICELY,209,false,false,false,true,false,false,Hilal,Khashan
+12790,PSPA,395A,1,Comprehensive Exam,0,AS,7,-2,.,.,.,.,false,false,false,false,false,false,Ohannes,Geukjian
+12791,PSPA,399,1,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Danyel Tobias,Reiche
+12792,PSPA,399,10,M.A. Thesis,7.2,AS,1,4,.,.,.,.,false,false,false,false,false,false,Ohannes,Geukjian
+12793,PSPA,399,12,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Eric,Goodfield
+12794,PSPA,399,2,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Coralie,Hindawi
+12795,PSPA,399,3,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samer,Frangie
+12796,PSPA,399,4,M.A. Thesis,7.2,AS,2,3,.,.,.,.,false,false,false,false,false,false,Tania,Haddad
+12797,PSPA,399,5,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+12798,PSPA,399,6,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Carmen,Geha
+12799,PSPA,399,7,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hilal,Khashan
+12800,PSPA,399,8,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hiba,Khodr
+12801,PSPA,399,9,M.A. Thesis,7.2,AS,1,4,.,.,.,.,false,false,false,false,false,false,Karim,Makdisi
+12802,PSPA,399A,1,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Tania,Haddad
+12803,PSPA,399A,10,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Ohannes,Geukjian
+12804,PSPA,399A,12,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Eric,Goodfield
+12805,PSPA,399A,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+12806,PSPA,399A,3,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Hilal,Khashan
+12807,PSPA,399A,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hiba,Khodr
+12808,PSPA,399A,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Karim,Makdisi
+12809,PSPA,399A,6,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Danyel Tobias,Reiche
+12810,PSPA,399A,7,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Coralie,Hindawi
+12811,PSPA,399A,8,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samer,Frangie
+12812,PSPA,399A,9,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Carmen,Geha
+12813,PSPA,399B,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tania,Haddad
+12814,PSPA,399B,10,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ohannes,Geukjian
+12815,PSPA,399B,12,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Eric,Goodfield
+12816,PSPA,399B,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+12817,PSPA,399B,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hilal,Khashan
+12818,PSPA,399B,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hiba,Khodr
+12819,PSPA,399B,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Karim,Makdisi
+12821,PSPA,399B,7,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Coralie,Hindawi
+12822,PSPA,399B,8,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samer,Frangie
+12823,PSPA,399B,9,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Carmen,Geha
+12824,PSPA,399C,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tania,Haddad
+12825,PSPA,399C,10,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ohannes,Geukjian
+12826,PSPA,399C,12,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Eric,Goodfield
+12827,PSPA,399C,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+12828,PSPA,399C,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hilal,Khashan
+12829,PSPA,399C,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hiba,Khodr
+12830,PSPA,399C,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Danyel Tobias,Reiche
+12831,PSPA,399C,6,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Karim,Makdisi
+12832,PSPA,399C,7,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Coralie,Hindawi
+12833,PSPA,399C,8,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samer,Frangie
+12834,PSPA,399C,9,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Carmen,Geha
+13400,PSPA,399E,1,M.A.Thesis,1,AS,1,-1,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+12835,PSYC,101,1,Fresh.Int. to Psychologi.Sc.,3,AS,27,-2,12:30,13:45,NICELY,320,false,true,false,true,false,false,Hana,Majzoub
+12836,PSYC,201,1,Int. to Psychological Science,3,AS,32,-7,10:00,10:50,NICELY,325,true,false,true,false,true,false,May,Awaida
+12837,PSYC,201,2,Int. to Psychological Science,3,AS,29,-4,12:00,12:50,NICELY,210,true,false,true,false,true,false,May,Awaida
+12838,PSYC,201,3,Int. to Psychological Science,3,AS,54,-1,09:30,10:45,HSON,102,false,true,false,true,false,false,Lana,Seguias
+12839,PSYC,201,4,Int. to Psychological Science,3,AS,28,-3,12:30,13:45,NICELY,210,false,true,false,true,false,false,Lea,Merhi
+12840,PSYC,210,1,Lifespan Development Psych.,3,AS,21,4,15:30,16:45,NICELY,210,true,false,true,false,false,false,May,Awaida
+12841,PSYC,210,2,Lifespan Development Psych.,3,AS,16,9,17:00,18:15,NICELY,210,true,false,true,false,false,false,May,Awaida
+12842,PSYC,212,1,Social Psychology,3,AS,36,-11,14:00,15:15,NICELY,323,false,true,false,true,false,false,Vivienne,Badaan
+12843,PSYC,214,1,Adult Abnormal Psychology,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13057,PSYC,215,1,Child Abnormal Psychology,3,AS,26,-1,18:30,19:45,NICELY,324,false,true,false,true,false,false,Sabine,Saade
+13166,PSYC,216,1,Personality Psychology,3,AS,28,-3,09:00,09:50,NICELY,322,true,false,true,false,true,false,Mona,Ayoub
+13058,PSYC,220,1,Psychol.of Learning & Behavior,3,AS,33,-8,17:00,18:15,NICELY,324,false,true,false,true,false,false,Sabine,Saade
+13167,PSYC,220,2,Psychol.of Learning & Behavior,3,AS,20,-6,14:00,14:50,NICELY,103,true,false,true,false,true,false,Jennifer,Fisher
+12844,PSYC,222,1,Behavioral Neuroscience,3,AS,33,-8,11:00,12:15,NICELY,214,false,true,false,true,false,false,Arne,Dietrich
+13065,PSYC,229,1,Cognitive Neuroscience,3,AS,22,3,09:30,10:45,NICELY,212,false,true,false,true,false,false,Julien,Besle
+13168,PSYC,230,1,Clinical Psychology,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13242,PSYC,230,2,Clinical Psychology,3,AS,17,-7,15:30,16:45,NICELY,323,false,true,false,true,false,false,Nadia Tina,Dandan
+12847,PSYC,240K,1,ST. Psychology of Gender,3,AS,18,-3,14:00,16:29,NICELY,209,false,false,true,false,false,false,Vivienne,Badaan
+12848,PSYC,240Q,1,ST. Animal Behavior,3,AS,6,4,13:00,13:50,PHYS,217,true,false,true,false,true,false,Riyad,Sadek
+12849,PSYC,280,1,History & Systems of Psychol.,3,AS,36,-11,09:30,10:45,NICELY,211,false,true,false,true,false,false,Arne,Dietrich
+12850,PSYC,282,1,Research Design in Psychology,3,AS,20,5,12:00,12:50,NICELY,103,true,false,true,false,true,false,Jennifer,Fisher
+12851,PSYC,282,2,Research Design in Psychology,3,AS,10,15,11:00,11:50,NICELY,325,true,false,true,false,true,false,Jennifer,Fisher
+12852,PSYC,284,1,Statistical Analysis in Psyc.,3,AS,31,-6,15:30,16:45,NICELY,108,false,true,false,true,false,false,Julien,Besle
+12854,PSYC,288,1,Undergrad.Sem.in Psychology,3,AS,16,-6,14:00,16:29,NICELY,324,true,false,false,false,false,false,Mona,Ayoub
+12855,PSYC,318F,1,ST: Gender &Psychology,3,AS,10,-5,14:00,16:29,NICELY,209,false,false,true,false,false,false,Vivienne,Badaan
+13087,PSYC,358,1,Clinical Interventions II,3,AS,5,10,16:30,18:59,JESUP,107,true,false,false,false,false,false,Ghena,Ismail
+12858,PSYC,362A,1,Clinical Practicum,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12859,PSYC,362B,1,Clinical Practicum,3,AS,7,-5,.,.,.,.,false,false,false,false,false,false,Ghena,Ismail
+12860,PSYC,399,1,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Fatimah,El Jamil
+12861,PSYC,399,2,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Arne,Dietrich
+12862,PSYC,399,3,M.A. Thesis,7.2,AS,1,4,.,.,.,.,false,false,false,false,false,false,Vivienne,Badaan
+12863,PSYC,399,4,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ghena,Ismail
+13467,PSYC,399,5,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mona,Ayoub
+12865,PSYC,399,6,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tania,Bosqui
+12866,PSYC,399,7,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Pia,Zeinoun
+12867,PSYC,399,8,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Julien,Besle
+12868,PSYC,399,9,M.A. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zahra,Hussain
+12869,PSYC,399A,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Arne,Dietrich
+12870,PSYC,399A,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Pia,Zeinoun
+13345,PSYC,399A,3,M.A.Thesis,0,AS,2,3,.,.,.,.,false,false,false,false,false,false,Vivienne,Badaan
+12873,PSYC,399A,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ghena,Ismail
+12875,PSYC,399A,7,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Julien,Besle
+12876,PSYC,399A,8,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tania,Bosqui
+12877,PSYC,399A,9,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zahra,Hussain
+12879,PSYC,399B,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Pia,Zeinoun
+12880,PSYC,399B,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Arne,Dietrich
+12882,PSYC,399B,5,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Ghena,Ismail
+12884,PSYC,399B,7,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Julien,Besle
+12885,PSYC,399B,8,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tania,Bosqui
+12886,PSYC,399B,9,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Zahra,Hussain
+13133,PSYC,399C,1,M.A.Thesis,0,AS,2,3,.,.,.,.,false,false,false,false,false,false,Vivienne,Badaan
+12888,PSYC,399C,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Pia,Zeinoun
+12889,PSYC,399C,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Arne,Dietrich
+12891,PSYC,399C,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ghena,Ismail
+12892,PSYC,399C,6,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rim,Saab
+12893,PSYC,399C,7,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Julien,Besle
+12894,PSYC,399C,8,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Tania,Bosqui
+12895,PSYC,399C,9,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zahra,Hussain
+12896,PSYT,300,1,Clin.Psychology Practicum I,4,FM,4,1,.,.,.,.,false,false,false,false,false,false,Brigitte,Khoury
+12897,PSYT,302,1,Clin.Psychology Practicum III,6,FM,4,1,.,.,.,.,false,false,false,false,false,false,Brigitte,Khoury

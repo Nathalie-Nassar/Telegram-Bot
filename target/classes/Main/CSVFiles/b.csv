@@ -1,0 +1,395 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+10211,BIOC,246,0,Biochemistry for Nursing,4,FM,60,1,10:01,10:59,.,.,false,false,false,false,true,false,Julnar,Usta
+10212,BIOC,305A,0,Biochemistry Research Seminar,0,FM,0,50,.,.,.,.,false,false,false,false,false,false,Pierre,Khoueiry
+10213,BIOC,305B,0,Biochemistry Research Seminar,0,FM,3,17,.,.,.,.,false,false,false,false,false,false,Pierre,Khoueiry
+10214,BIOC,305C,0,Biochemistry Research Seminar,1,FM,10,30,.,.,.,.,false,false,false,false,false,false,Pierre,Khoueiry
+10215,BIOC,317,0,Sel. Topics in Biochemistry,1,FM,0,25,.,.,.,.,false,false,false,false,false,false,Firas,Kobaissy
+10216,BIOC,321,0,Nucleic Acids &Basic Genetics,1,FM,34,26,10:31,11:59,.,.,true,false,false,false,false,false,Nadine,Darwiche
+10217,BIOC,322,0,Protein Biochemistry,1,FM,37,23,11:01,12:29,.,.,false,true,false,true,false,false,Firas,Kobaissy
+10218,BIOC,323,0,Cellular Metabol.& Regulation,2,FM,19,36,13:01,14:29,.,.,false,true,false,true,false,false,Aida,Habib Abdul Karim
+10219,BIOC,325,0,Receptors & Signal Transduct,2,FM,22,8,13:01,14:29,.,.,true,false,true,false,false,false,Ayad A,Jaffa
+10220,BIOC,327,0,Cancer Genomics,1,FM,0,55,11:01,12:29,.,.,true,false,true,false,false,false,.,STAFF
+10221,BIOC,395A,0,Comprehensive Exam,0,FM,2,23,.,.,.,.,false,false,false,false,false,false,Aida,Habib Abdul Karim
+10222,BIOC,399,0,MS Thesis,7.65,FM,2,23,.,.,.,.,false,false,false,false,false,false,Ayad A,Jaffa
+10223,BIOC,399A,0,MS Thesis,0,FM,3,22,.,.,.,.,false,false,false,false,false,false,Ayad A,Jaffa
+10224,BIOC,399B,0,MS Thesis,0,FM,4,21,.,.,.,.,false,false,false,false,false,false,Ayad A,Jaffa
+10225,BIOL,101,1,Basic Concepts in Biology,3,AS,31,4,10:00,10:50,PHYS,219,true,false,true,false,true,false,Nada,Sinnu
+10226,BIOL,101,2,Basic Concepts in Biology,3,AS,26,9,12:00,12:50,PHYS,327,true,false,true,false,true,false,Nada,Sinnu
+10227,BIOL,104,1,Introduct.to Organismal Biolo.,3,AS,31,-1,11:00,11:50,PHYS,331,true,false,true,false,true,false,Hind,Rizkallah
+10228,BIOL,104,2,Introduct.to Organismal Biolo.,3,AS,16,14,11:00,12:15,PHYS,331,false,true,false,true,false,false,Hala,Muhtasib
+10229,BIOL,106,1,Contemp Issues in Biology,3,AS,34,1,09:30,10:45,PHYS,331,false,true,false,true,false,false,Imad,Saoud
+10230,BIOL,200,B1,Diversity of Life,0,AS,5,4,10:00,12:50,BIOL,108,true,false,false,false,false,false,Hind,Rizkallah
+10231,BIOL,200,B2,Diversity of Life,0,AS,9,0,13:00,15:50,BIOL,108,true,false,false,false,false,false,Hind,Rizkallah
+10232,BIOL,200,B3,Diversity of Life,0,AS,8,1,11:00,13:50,BIOL,108,false,true,false,false,false,false,Hind,Rizkallah
+10233,BIOL,200,B4,Diversity of Life,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10234,BIOL,200,B5,Diversity of Life,0,AS,8,1,14:00,16:50,BIOL,108,false,true,false,false,false,false,Hind,Rizkallah
+10235,BIOL,200,B6,Diversity of Life,0,AS,10,-1,13:00,15:50,BIOL,108,false,false,true,false,false,false,Hind,Rizkallah
+10236,BIOL,200,B7,Diversity of Life,0,AS,10,-1,16:00,18:50,BIOL,108,true,false,false,false,false,false,Hind,Rizkallah
+10237,BIOL,200,B8,Diversity of Life,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10238,BIOL,200,B9,Diversity of Life,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10239,BIOL,200,L1,Diversity of Life,4,AS,31,5,09:30,10:45,CHSC,AUDITORIUM,false,true,false,true,false,false,Hind,Rizkallah
+10240,BIOL,200,L2,Diversity of Life,4,AS,19,16,08:00,09:15,PHYS,217,false,true,false,true,false,false,Hind,Rizkallah
+10241,BIOL,201,B1,General Biology I,0,AS,11,-1,11:00,13:50,BIOL,210,true,false,false,false,false,false,Mohammad,Al-Zein
+10242,BIOL,201,B10,General Biology I,0,AS,10,0,11:00,13:50,BIOL,210,false,false,false,false,true,false,Mohammad,Al-Zein
+10243,BIOL,201,B11,General Biology I,0,AS,11,-1,14:00,16:50,BIOL,210,false,false,false,false,true,false,Mohammad,Al-Zein
+10244,BIOL,201,B12,General Biology I,0,AS,12,-2,11:00,13:50,BIOL,206,true,false,false,false,false,false,Mohammad,Al-Zein
+10245,BIOL,201,B13,General Biology I,0,AS,8,2,14:00,16:50,BIOL,206,true,false,false,false,false,false,Mohammad,Al-Zein
+10246,BIOL,201,B14,General Biology I,0,AS,12,-2,11:00,13:50,BIOL,206,false,false,false,false,true,false,Mohammad,Al-Zein
+10247,BIOL,201,B15,General Biology I,0,AS,10,0,14:00,16:50,BIOL,206,false,false,false,false,true,false,Mohammad,Al-Zein
+10248,BIOL,201,B16,General Biology I,0,AS,10,0,11:00,13:50,BIOL,208,true,false,false,false,false,false,Mohammad,Al-Zein
+10249,BIOL,201,B17,General Biology I,0,AS,12,-2,14:00,16:50,BIOL,208,true,false,false,false,false,false,Mohammad,Al-Zein
+10250,BIOL,201,B18,General Biology I,0,AS,11,-1,11:00,13:50,BIOL,208,false,true,false,false,false,false,Mohammad,Al-Zein
+10251,BIOL,201,B19,General Biology I,0,AS,9,1,14:00,16:50,BIOL,208,false,true,false,false,false,false,Mohammad,Al-Zein
+10252,BIOL,201,B2,General Biology I,0,AS,10,0,14:00,16:50,BIOL,210,true,false,false,false,false,false,Mohammad,Al-Zein
+10253,BIOL,201,B20,General Biology I,0,AS,11,-1,11:00,13:50,BIOL,208,false,false,true,false,false,false,Mohammad,Al-Zein
+10254,BIOL,201,B21,General Biology I,0,AS,11,-1,14:00,16:50,BIOL,208,false,false,true,false,false,false,Mohammad,Al-Zein
+10255,BIOL,201,B22,General Biology I,0,AS,10,0,11:00,13:50,BIOL,208,false,false,false,true,false,false,Mohammad,Al-Zein
+10256,BIOL,201,B23,General Biology I,0,AS,11,-1,14:00,16:50,BIOL,208,false,false,false,true,false,false,Mohammad,Al-Zein
+10257,BIOL,201,B24,General Biology I,0,AS,10,0,08:00,10:50,BIOL,208,false,false,false,false,true,false,Mohammad,Al-Zein
+10258,BIOL,201,B25,General Biology I,0,AS,11,-1,11:00,13:50,BIOL,208,false,false,false,false,true,false,Mohammad,Al-Zein
+10259,BIOL,201,B26,General Biology I,0,AS,12,-2,14:00,16:50,BIOL,208,false,false,false,false,true,false,Mohammad,Al-Zein
+10260,BIOL,201,B27,General Biology I,0,AS,11,-1,11:00,13:50,BIOL,206,false,true,false,false,false,false,Mohammad,Al-Zein
+10261,BIOL,201,B28,General Biology I,0,AS,11,-1,11:00,13:50,BIOL,206,false,false,true,false,false,false,Mohammad,Al-Zein
+10262,BIOL,201,B29,General Biology I,0,AS,9,1,11:00,13:50,BIOL,206,false,false,false,true,false,false,Mohammad,Al-Zein
+10263,BIOL,201,B3,General Biology I,0,AS,11,-1,11:00,13:50,BIOL,210,false,true,false,false,false,false,Mohammad,Al-Zein
+10264,BIOL,201,B30,General Biology I,0,AS,11,-1,08:00,10:50,BIOL,206,false,false,false,false,true,false,Mohammad,Al-Zein
+13338,BIOL,201,B31,General Biology I,0,AS,6,0,14:00,16:50,BIOL,206,false,false,false,true,false,false,Mohammad,Al-Zein
+13339,BIOL,201,B32,General Biology I,0,AS,5,1,14:00,16:50,BIOL,206,false,false,false,true,false,false,Mohammad,Al-Zein
+13340,BIOL,201,B33,General Biology I,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13341,BIOL,201,B34,General Biology I,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10265,BIOL,201,B4,General Biology I,0,AS,12,-2,14:00,16:50,BIOL,210,false,true,false,false,false,false,Mohammad,Al-Zein
+10266,BIOL,201,B5,General Biology I,0,AS,10,0,11:00,13:50,BIOL,210,false,false,true,false,false,false,Mohammad,Al-Zein
+10267,BIOL,201,B6,General Biology I,0,AS,12,-2,14:00,16:50,BIOL,210,false,false,true,false,false,false,Mohammad,Al-Zein
+10268,BIOL,201,B7,General Biology I,0,AS,9,1,11:00,13:50,BIOL,210,false,false,false,true,false,false,Mohammad,Al-Zein
+10269,BIOL,201,B8,General Biology I,0,AS,9,1,14:00,16:50,BIOL,210,false,false,false,true,false,false,Mohammad,Al-Zein
+10270,BIOL,201,B9,General Biology I,0,AS,12,-2,08:00,10:50,BIOL,210,false,false,false,false,true,false,Mohammad,Al-Zein
+10271,BIOL,201,L1,General Biology I,4,AS,165,-3,09:30,10:45,BIOL,SLH,false,true,false,true,false,false,Noel,Ghanem
+10272,BIOL,201,L2,General Biology I,4,AS,165,-3,08:00,09:15,BIOL,SLH,false,true,false,true,false,false,Zakaria,Kambris
+10273,BIOL,202,B1,General Biology II,0,AS,10,-1,14:00,16:50,BIOL,206,false,true,false,false,false,false,Mohammad,Al-Zein
+10274,BIOL,202,B2,General Biology II,0,AS,8,1,14:00,16:50,BIOL,206,false,false,true,false,false,false,Mohammad,Al-Zein
+10275,BIOL,202,B3,General Biology II,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10276,BIOL,202,L1,General Biology II,4,AS,18,9,12:00,12:50,PHYS,217,true,false,true,false,true,false,Sawsan,Kuraydiyyah
+10277,BIOL,209,1,Concepts and Connections,3,AS,33,2,10:00,10:50,PHYS,329,true,false,true,false,true,false,Hind,Rizkallah
+10278,BIOL,209,2,Concepts and Connections,3,AS,35,0,11:00,11:50,PHYS,217,true,false,true,false,true,false,Heinrich,Dohna
+10279,BIOL,210,1,Human Biology,3,AS,36,-1,08:00,08:50,BIOL,004,true,false,true,false,true,false,Nada,Sinnu
+10280,BIOL,210,2,Human Biology,3,AS,35,0,11:00,12:15,PHYS,329,false,true,false,true,false,false,Nada,Sinnu
+10281,BIOL,210,3,Human Biology,3,AS,35,0,11:00,12:15,BIOL,004,false,true,false,true,false,false,Rabih,Talhouk
+10282,BIOL,220,1,Introductory Biochemistry,3,AS,22,3,09:30,10:45,BIOL,004,false,true,false,true,false,false,Elias,Baydoun
+10284,BIOL,223,B1,Genetics,0,AS,10,-1,11:00,13:50,BIOL,310,false,true,false,false,false,false,Layane,Hajjar
+10285,BIOL,223,B2,Genetics,0,AS,10,-1,14:00,16:50,BIOL,310,false,true,false,false,false,false,Layane,Hajjar
+10286,BIOL,223,B3,Genetics,0,AS,10,-1,11:00,13:50,BIOL,310,false,false,false,false,true,false,Layane,Hajjar
+10287,BIOL,223,B4,Genetics,0,AS,7,2,10:00,12:50,BIOL,310,false,false,true,false,false,false,Layane,Hajjar
+10288,BIOL,223,B5,Genetics,0,AS,8,1,13:00,15:50,BIOL,310,false,false,true,false,false,false,Layane,Hajjar
+10289,BIOL,223,B6,Genetics,0,AS,9,0,11:00,13:50,BIOL,310,false,false,false,true,false,false,Layane,Hajjar
+10290,BIOL,223,B7,Genetics,0,AS,10,-1,14:00,16:50,BIOL,310,false,false,false,true,false,false,Layane,Hajjar
+10291,BIOL,223,B8,Genetics,0,AS,8,1,08:00,10:50,BIOL,310,false,false,false,false,true,false,Layane,Hajjar
+10292,BIOL,223,L1,Genetics,4,AS,29,-2,09:00,09:50,BIOL,SLH,true,false,true,false,false,false,Colin Andrew,Smith
+10293,BIOL,223,L2,Genetics,4,AS,19,-1,09:00,09:50,BIOL,SLH,true,false,true,false,false,false,Colin Andrew,Smith
+10294,BIOL,223,L3,Genetics,4,AS,24,3,09:00,09:50,BIOL,SLH,true,false,true,false,false,false,Colin Andrew,Smith
+10295,BIOL,224,B1,Microbiology,0,AS,12,-2,14:00,16:50,BIOL,312,false,true,false,false,false,false,Layane,Hajjar
+10296,BIOL,224,B2,Microbiology,0,AS,12,-2,14:00,16:50,BIOL,312,false,false,true,false,false,false,Layane,Hajjar
+10297,BIOL,224,B3,Microbiology,0,AS,11,-1,14:00,16:50,BIOL,312,false,false,false,true,false,false,Layane,Hajjar
+10298,BIOL,224,B4,Microbiology,0,AS,12,-2,14:00,16:50,BIOL,312,false,false,false,false,true,false,Layane,Hajjar
+10299,BIOL,224,L1,Microbiology,4,AS,47,-7,11:00,11:50,CHEM,101,true,false,true,false,true,false,Mike,Osta
+10300,BIOL,240,1,Animal Behavior,3,AS,17,8,13:00,13:50,PHYS,217,true,false,true,false,true,false,Riyad,Sadek
+10301,BIOL,241,B1,Biology of Invertebrates,0,AS,7,2,11:00,13:50,BIOL,108,false,false,false,true,false,false,Layane,Hajjar
+10302,BIOL,241,B2,Biology of Invertebrates,0,AS,9,0,14:00,16:50,BIOL,108,false,false,false,true,false,false,Layane,Hajjar
+10303,BIOL,241,B3,Biology of Invertebrates,0,AS,11,-2,13:00,15:50,BIOL,108,false,false,false,false,true,false,Layane,Hajjar
+10304,BIOL,241,B4,Biology of Invertebrates,0,AS,9,-9,16:00,18:50,BIOL,108,false,false,false,false,true,false,Layane,Hajjar
+10305,BIOL,241,L1,Biology of Invertebrates,4,AS,36,-9,12:00,12:50,BIOL,004,true,false,true,false,true,false,Khouzama,Knio
+10306,BIOL,244,1,Introduction to Neurobiology,3,AS,4,16,12:30,13:45,PHYS,219,false,true,false,true,false,false,Noel,Ghanem
+10307,BIOL,244L,B1,Neurobiology Lab,1,AS,5,3,14:00,16:50,BIOL,306,false,false,false,true,false,false,Noel,Ghanem
+10309,BIOL,246,B1,Marine Biology,0,AS,9,0,14:00,16:50,BIOL,110,false,false,false,true,false,false,Mohammad,Al-Zein
+10310,BIOL,246,B2,Marine Biology,0,AS,3,6,08:00,10:50,BIOL,110,false,false,false,true,false,false,Mohammad,Al-Zein
+10311,BIOL,246,B3,Marine Biology,0,AS,9,0,14:00,16:50,BIOL,110,false,false,false,false,true,false,Mohammad,Al-Zein
+10312,BIOL,246,L1,Marine Biology,4,AS,21,6,12:30,13:45,PHYS,331,false,true,false,true,false,false,Michel,Bariche
+10313,BIOL,247,1,Animal Physiology,3,AS,25,0,10:00,10:50,PHYS,215,true,false,true,false,true,false,Sawsan,Kuraydiyyah
+10314,BIOL,252,B1,Ecology,0,AS,7,2,14:00,16:50,BIOL,110,false,true,false,false,false,false,Riyad,Sadek
+10315,BIOL,252,B2,Ecology,0,AS,8,1,14:00,16:50,BIOL,110,false,false,true,false,false,false,Riyad,Sadek
+10316,BIOL,252,B3,Ecology,0,AS,4,5,14:00,16:50,BIOL,110,true,false,false,false,false,false,Riyad,Sadek
+10317,BIOL,252,B4,Ecology,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10318,BIOL,252,L1,Ecology,4,AS,19,17,09:00,09:50,BIOL,004,true,false,true,false,true,false,Riyad,Sadek
+10319,BIOL,256,1,Conservation Biology,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10320,BIOL,260,B1,Cell Biology,0,AS,12,-6,14:00,16:50,BIOL,106,false,true,false,false,false,false,Layane,Hajjar
+10321,BIOL,260,B2,Cell Biology,0,AS,10,-4,14:00,16:50,BIOL,106,false,false,true,false,false,false,Layane,Hajjar
+10322,BIOL,260,B3,Cell Biology,0,AS,10,-4,14:00,16:50,BIOL,106,false,false,false,true,false,false,Layane,Hajjar
+10323,BIOL,260,L1,Cell Biology,4,AS,32,-14,11:00,11:50,BIOL,004,true,false,true,false,true,false,Rabih,Talhouk
+10324,BIOL,261,1,Biology of Cancer,3,AS,35,-10,10:00,10:50,PHYS,331,true,false,true,false,true,false,Diana,Jaalouk
+10325,BIOL,263,1,Immunology,3,AS,12,13,09:00,09:50,PHYS,217,true,false,true,false,true,false,Mike,Osta
+10326,BIOL,266,1,Oceanography,3,AS,9,6,08:00,09:15,PHYS,215,false,true,false,true,false,false,Imad,Saoud
+10327,BIOL,266L,1,Oceanography Lab,1,AS,1,0,14:00,16:50,BIOL,306,false,false,false,false,true,false,Imad,Saoud
+10328,BIOL,266L,2,Oceanography Lab,1,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10329,BIOL,268,1,Introduction To Biotechnology,3,AS,17,8,11:00,11:50,PHYS,327,true,false,true,false,true,false,Hala,Muhtasib
+10330,BIOL,270,B1,Plant Physiology,0,AS,9,-1,14:00,16:50,BIOL,306,true,false,false,false,false,false,Elias,Baydoun
+10331,BIOL,270,B2,Plant Physiology,0,AS,7,1,14:00,16:50,BIOL,306,false,true,false,false,false,false,Elias,Baydoun
+10332,BIOL,270,B3,Plant Physiology,0,AS,8,0,11:00,13:50,BIOL,306,false,true,false,false,false,false,Elias,Baydoun
+10333,BIOL,270,L1,Plant Physiology,4,AS,24,0,08:00,09:15,BIOL,004,false,true,false,true,false,false,Elias,Baydoun
+10334,BIOL,281,1,Ichthyology,3,AS,28,-3,11:00,12:15,PHYS,217,false,true,false,true,false,false,Michel,Bariche
+10335,BIOL,290AO,1,Sp.Tp. Cardiovascular Research,3,AS,25,-10,17:00,18:15,BIOL,004,true,false,true,false,false,false,Diana,Jaalouk
+10336,BIOL,291,1,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10337,BIOL,291,10,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10338,BIOL,291,11,Undergraduate Tutorial,2,AS,1,0,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10339,BIOL,291,12,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10340,BIOL,291,13,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Riyad,Sadek
+10341,BIOL,291,14,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10342,BIOL,291,2,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10343,BIOL,291,3,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10344,BIOL,291,4,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10345,BIOL,291,5,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10346,BIOL,291,6,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Heinrich,Dohna
+10347,BIOL,291,7,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10348,BIOL,291,8,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Khouzama,Knio
+10349,BIOL,291,9,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Michel,Bariche
+10350,BIOL,291A,1,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10351,BIOL,291A,10,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10352,BIOL,291A,11,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10353,BIOL,291A,12,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10354,BIOL,291A,13,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Riyad,Sadek
+10355,BIOL,291A,14,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10356,BIOL,291A,2,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10357,BIOL,291A,3,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10358,BIOL,291A,4,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10359,BIOL,291A,5,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10360,BIOL,291A,6,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Heinrich,Dohna
+10361,BIOL,291A,7,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10362,BIOL,291A,8,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Khouzama,Knio
+10363,BIOL,291A,9,Undergraduate Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Michel,Bariche
+10364,BIOL,293,1,Undergraduate Seminar,1,AS,8,2,13:00,13:50,BIOL,002,true,false,false,false,false,false,Mike,Osta
+10365,BIOL,293,2,Undergraduate Seminar,1,AS,10,0,12:00,12:50,BIOL,002,false,false,true,false,false,false,Zakaria,Kambris
+10366,BIOL,293,3,Undergraduate Seminar,1,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10367,BIOL,293,4,Undergraduate Seminar,1,AS,1,9,12:30,13:20,BIOL,113,false,true,false,false,false,false,Riyad,Sadek
+10368,BIOL,310,B1,Biostatistics,0,AS,6,6,10:00,12:50,BIOL,113,false,false,false,false,true,false,Riyad,Sadek
+10369,BIOL,310,L1,Biostatistics,3,AS,6,6,10:00,10:50,BIOL,002,true,false,true,false,false,false,Riyad,Sadek
+10370,BIOL,330,1,Molecular Genetics,3,AS,7,5,08:00,09:15,BIOL,002,false,true,false,true,false,false,Colin Andrew,Smith
+13169,BIOL,370,1,Bioinformatics,3,AS,7,3,09:30,10:45,BIOL,002,false,true,false,true,false,false,Heinrich,Dohna
+10371,BIOL,390AC,1,Sp.Tp. Ichthyology,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10372,BIOL,390J,1,Sp.Tp:Gr.Cardiovascular Resear,3,AS,1,6,17:00,18:15,BIOL,004,true,false,true,false,false,false,Diana,Jaalouk
+13119,BIOL,390R,1,Sp.Tp: in Conservation Biology,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10373,BIOL,390V,1,Sp.Tp. Marine Biology,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10374,BIOL,390Z,1,Sp.Tp:Introd. to Neurobiology,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10375,BIOL,391A,1,Tutorial,2,AS,1,0,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10376,BIOL,391A,10,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10377,BIOL,391A,11,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10378,BIOL,391A,12,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10379,BIOL,391A,13,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Riyad,Sadek
+10380,BIOL,391A,14,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10381,BIOL,391A,2,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10382,BIOL,391A,3,Tutorial,2,AS,1,0,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10383,BIOL,391A,4,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10384,BIOL,391A,5,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10385,BIOL,391A,6,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Heinrich,Dohna
+10386,BIOL,391A,7,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10387,BIOL,391A,8,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Khouzama,Knio
+10388,BIOL,391A,9,Tutorial,2,AS,0,0,.,.,.,.,false,false,false,false,false,false,Michel,Bariche
+10389,BIOL,393,1,Seminar,1,AS,1,11,13:00,14:50,BIOL,004,true,false,false,false,false,false,Colin Andrew,Smith
+10390,BIOL,395A,1,Comprehensive Exam,0,AS,6,-6,.,.,.,.,false,false,false,false,false,false,Khouzama,Knio
+10391,BIOL,399,1,M.S. Thesis,7.28,AS,2,3,.,.,.,.,false,false,false,false,false,false,Michel,Bariche
+10392,BIOL,399,10,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10393,BIOL,399,11,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10394,BIOL,399,12,M.S. Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Heinrich,Dohna
+10395,BIOL,399,13,M.S. Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10396,BIOL,399,2,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10397,BIOL,399,3,M.S. Thesis,7.28,AS,1,4,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10398,BIOL,399,4,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10399,BIOL,399,5,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Khouzama,Knio
+10400,BIOL,399,6,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10401,BIOL,399,7,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10402,BIOL,399,8,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10403,BIOL,399,9,M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10404,BIOL,399A,1,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10405,BIOL,399A,10,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Khouzama,Knio
+10406,BIOL,399A,11,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10407,BIOL,399A,12,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10408,BIOL,399A,13,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10409,BIOL,399A,2,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10410,BIOL,399A,3,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10411,BIOL,399A,4,M.S.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10412,BIOL,399A,5,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Michel,Bariche
+10413,BIOL,399A,6,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10414,BIOL,399A,7,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Heinrich,Dohna
+10415,BIOL,399A,8,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10416,BIOL,399A,9,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10417,BIOL,399B,1,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10418,BIOL,399B,10,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10419,BIOL,399B,11,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10420,BIOL,399B,12,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10421,BIOL,399B,13,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10422,BIOL,399B,2,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10423,BIOL,399B,3,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Michel,Bariche
+10424,BIOL,399B,4,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10425,BIOL,399B,5,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Heinrich,Dohna
+10426,BIOL,399B,6,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10427,BIOL,399B,7,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10428,BIOL,399B,8,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10429,BIOL,399B,9,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Khouzama,Knio
+10430,BIOL,399C,1,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10431,BIOL,399C,10,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Khouzama,Knio
+10432,BIOL,399C,11,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10433,BIOL,399C,12,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10434,BIOL,399C,13,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10435,BIOL,399C,2,M.S.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Michel,Bariche
+10436,BIOL,399C,3,M.S.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10437,BIOL,399C,4,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10438,BIOL,399C,5,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Heinrich,Dohna
+10439,BIOL,399C,6,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10440,BIOL,399C,7,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10441,BIOL,399C,8,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10442,BIOL,399C,9,M.S.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10443,BIOL,480,1,Qualifying Exam I:Compr.Exam,0,AS,2,3,.,.,.,.,false,false,false,false,false,false,Khouzama,Knio
+10444,BIOL,481,1,Qual.Exam II:Def.Thesis Prop,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Khouzama,Knio
+10445,BIOL,484,1,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10446,BIOL,484,10,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10447,BIOL,484,2,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10448,BIOL,484,3,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10449,BIOL,484,4,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10450,BIOL,484,5,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10451,BIOL,484,6,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10452,BIOL,484,7,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10453,BIOL,484,8,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10454,BIOL,484,9,PhD Thesis,30,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10455,BIOL,484A,1,PH.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10456,BIOL,484A,10,PH.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10457,BIOL,484A,2,PH.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10458,BIOL,484A,3,PH.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10459,BIOL,484A,4,PH.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10460,BIOL,484A,5,PH.D Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10461,BIOL,484A,6,PH.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10462,BIOL,484A,7,PH.D Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10463,BIOL,484A,8,PH.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10464,BIOL,484A,9,PH.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10465,BIOL,484B,1,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10466,BIOL,484B,10,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10467,BIOL,484B,2,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10468,BIOL,484B,3,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10469,BIOL,484B,4,PhD Thesis,0,AS,2,3,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10470,BIOL,484B,5,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10471,BIOL,484B,6,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10472,BIOL,484B,7,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10473,BIOL,484B,8,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10474,BIOL,484B,9,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10475,BIOL,484C,1,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10476,BIOL,484C,10,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10477,BIOL,484C,2,PhD Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10478,BIOL,484C,3,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10479,BIOL,484C,4,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10480,BIOL,484C,5,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10481,BIOL,484C,6,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10482,BIOL,484C,7,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10483,BIOL,484C,8,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10484,BIOL,484C,9,PhD Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10485,BIOL,484D,1,Ph.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10486,BIOL,484D,10,Ph.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10487,BIOL,484D,2,Ph.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10488,BIOL,484D,3,Ph.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10489,BIOL,484D,4,Ph.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10490,BIOL,484D,5,Ph.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10491,BIOL,484D,6,Ph.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10492,BIOL,484D,7,Ph.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10493,BIOL,484D,8,Ph.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10494,BIOL,484D,9,Ph.D Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10495,BIOL,484E,1,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10496,BIOL,484E,10,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10497,BIOL,484E,2,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10498,BIOL,484E,3,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10499,BIOL,484E,4,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10500,BIOL,484E,5,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10501,BIOL,484E,6,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10502,BIOL,484E,7,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10503,BIOL,484E,8,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10504,BIOL,484E,9,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10505,BIOL,484F,1,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10506,BIOL,484F,10,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10507,BIOL,484F,2,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10508,BIOL,484F,3,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10509,BIOL,484F,4,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10510,BIOL,484F,5,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10511,BIOL,484F,6,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10512,BIOL,484F,7,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10513,BIOL,484F,8,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10514,BIOL,484F,9,PhD thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10515,BIOL,491,1,Tutorial,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,Elias,Baydoun
+10516,BIOL,491,10,Tutorial,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,Imad,Saoud
+10517,BIOL,491,2,Tutorial,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,Noel,Ghanem
+10518,BIOL,491,3,Tutorial,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,Diana,Jaalouk
+10519,BIOL,491,4,Tutorial,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,Zakaria,Kambris
+10520,BIOL,491,5,Tutorial,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,Sawsan,Kuraydiyyah
+10521,BIOL,491,6,Tutorial,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,Hala,Muhtasib
+10522,BIOL,491,7,Tutorial,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,Mike,Osta
+10523,BIOL,491,8,Tutorial,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,Rabih,Talhouk
+10524,BIOL,491,9,Tutorial,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,Colin Andrew,Smith
+10525,BIOL,493,1,CMBL Seminar,1,AS,2,3,13:00,14:50,BIOL,004,true,false,false,false,false,false,Colin Andrew,Smith
+10526,BIOL,493A,1,CMBL Seminar,0,AS,10,10,13:00,14:50,BIOL,004,true,false,false,false,false,false,Colin Andrew,Smith
+10527,BIOL,494,1,CMBL Laboratory Rotation,3,AS,0,5,.,.,.,.,false,false,false,false,false,false,Khouzama,Knio
+10528,BIOM,315,0,Seminar,0,FM,8,2,.,.,.,.,false,false,false,false,false,false,Nadine,Darwiche
+13265,BIOM,385,0,Research Ethics,1,FM,1,14,.,.,.,.,false,false,false,false,false,false,Thalia,Arawi
+10529,BIOM,398,0,Sp.Proj.in Biomedical Sciences,3,FM,3,-2,.,.,.,.,false,false,false,false,false,false,Ali,Nabbouh
+10530,BIOM,480,0,Qualifying Exam I:Compreh.Exam,0,FM,1,9,.,.,.,.,false,false,false,false,false,false,Nadine,Darwiche
+13255,BIOM,481,0,Qualifying Exam II:Def.Thes.Pr,0,FM,2,3,.,.,.,.,false,false,false,false,false,false,Nadine,Darwiche
+10531,BIOM,482,0,PhD Thesis,24,FM,7,-2,.,.,.,.,false,false,false,false,false,false,Nadine,Darwiche
+10532,BIOM,482A,0,PhD. Thesis,0,FM,1,4,.,.,.,.,false,false,false,false,false,false,Nadine,Darwiche
+10533,BIOM,482B,0,PhD Thesis,0,FM,1,9,.,.,.,.,false,false,false,false,false,false,Nadine,Darwiche
+10534,BIOM,482C,0,PhD Thesis,0,FM,0,10,.,.,.,.,false,false,false,false,false,false,Nadine,Darwiche
+13159,BIOM,482E,0,PhD. Thesis,1,FM,1,4,.,.,.,.,false,false,false,false,false,false,Nadine,Darwiche
+10535,BIOM,491,0,PhD Laboratory Rotations,1,FM,3,22,.,.,.,.,false,false,false,false,false,false,Nadine,Darwiche
+10536,BMEN,501,1,Bioengineering Design Fundamen,3,EM,11,34,12:30,13:45,MAMC,207,false,true,false,true,false,false,Massoud,Khraiche
+10537,BMEN,600,1,Biomedical Eng.Applications,3,EM,23,7,14:00,15:15,IOEC,224C,true,false,true,false,false,false,Jason,Amatoury
+10538,BMEN,604,1,Eng'g of Drug Delivery Systems,3,EM,2,13,15:30,16:45,BECHTA,202,false,true,false,true,false,false,Rami,Mhanna
+13122,BMEN,604,2,Eng'g of Drug Delivery Systems,3,EM,3,12,15:30,16:45,MAMC,207,true,false,true,false,false,false,Rami,Mhanna
+10539,BMEN,605,1,Biomedical Imaging,3,EM,11,19,14:00,15:15,IOEC,224C,false,true,false,true,false,false,Jason,Amatoury
+10540,BMEN,610,1,Micro & Nano Neural Interfaces,3,EM,6,24,17:11,18:25,BECHTA,107,false,true,false,true,false,false,Massoud,Khraiche
+10541,BMEN,671,1,PhD Lab Rotation,1,EM,0,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+13124,BMEN,796,1,ML to Predict Heart Failure,3,EA,1,0,.,.,.,.,false,false,false,false,false,false,Imad,Elhajj
+10542,BMEN,799,1,MS Thesis,7.14,EM,7,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10543,BMEN,799A,1,MS Thesis,0,EM,5,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10544,BMEN,799B,1,MS Thesis,0,EM,1,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10545,BMEN,799C,1,MS Thesis,0,EM,1,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10546,BMEN,799D,1,MS Thesis,1,EM,0,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10547,BMEN,799T,1,MS Comprehensive Exam,0,EM,15,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10548,BMEN,980,1,Qualifying Exam I:Compr.Exam,0,EM,0,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10549,BMEN,981,1,Qualif.Exam II:Def.ThesisProp,0,EM,0,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10550,BMEN,982B,1,PhD Thesis,3,EA,1,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10551,BMEN,982D,1,PH Thesis,3,EA,1,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10552,BMEN,983,1,PhD Thesis,6,EM,2,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10553,BMEN,985A,1,PhD Thesis,12,EM,1,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10554,BMEN,986A,1,PhD Thesis,0,EM,4,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+13378,BMEN,986C,1,PhD Thesis,0,EM,1,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10555,BMEN,986D,1,PhD Thesis,0,EM,1,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+13390,BMEN,987,1,PhD Thesis Defense,0,EM,1,0,.,.,.,.,false,false,false,false,false,false,Rami,Mhanna
+10556,BUSS,200,1,Business Data Analysis,3,SB,29,1,09:30,10:45,OSB,230,false,true,false,true,false,false,Rita,Geutcherian
+10557,BUSS,200,2,Business Data Analysis,3,SB,29,1,11:00,12:15,OSB,226,false,true,false,true,false,false,Rita,Geutcherian
+10558,BUSS,200,3,Business Data Analysis,3,SB,31,-1,14:00,15:15,OSB,236,false,true,false,true,false,false,Rita,Geutcherian
+10559,BUSS,200,4,Business Data Analysis,3,SB,28,2,15:30,16:45,OSB,236,false,true,false,true,false,false,Rita,Geutcherian
+10560,BUSS,200,5,Business Data Analysis,3,SB,33,-3,08:00,09:15,OSB,334,true,false,true,false,false,false,Ibrahim,Kebbe
+10561,BUSS,200,6,Business Data Analysis,3,SB,35,-5,09:30,10:45,OSB,334,true,false,true,false,false,false,Ibrahim,Kebbe
+10562,BUSS,211,1,Business Law,2,SB,0,0,08:00,09:15,OSB,226,true,false,true,false,false,false,.,STAFF
+10563,BUSS,211,2,Business Law,2,SB,37,-2,15:30,16:45,OSB,227,true,false,true,false,false,false,Khaled,Abdallah
+10564,BUSS,211,3,Business Law,2,SB,34,1,17:00,18:15,OSB,230,true,false,true,false,false,false,Khaled,Abdallah
+10565,BUSS,211,4,Business Law,2,SB,30,5,17:00,18:15,OSB,226,false,true,false,true,false,false,Sylvain,Massaad
+10566,BUSS,211,5,Business Law,2,SB,35,0,12:30,13:45,OSB,238,false,true,false,true,false,false,Rima,Akoum
+10567,BUSS,211,6,Business Law,2,SB,36,-1,15:30,16:45,OSB,230,false,true,false,true,false,false,Jad,Maalouf
+10568,BUSS,215,1,Business Ethics,3,SB,34,-4,18:30,19:45,.,.,true,false,false,false,false,false,Jay,Joseph
+13221,BUSS,215,2,Business Ethics,3,SB,34,-4,18:30,19:45,.,.,true,false,false,false,false,false,Daoud,Matta
+13222,BUSS,215,3,Business Ethics,3,SB,34,-4,18:30,19:45,.,.,true,false,false,false,false,false,Nathalie,Saade
+13223,BUSS,215,4,Business Ethics,3,SB,33,-3,18:30,19:45,.,.,true,false,false,false,false,false,Nathalie,Saade
+13224,BUSS,215,5,Business Ethics,3,SB,34,-4,18:30,19:45,.,.,true,false,false,false,false,false,Daoud,Matta
+10569,BUSS,239,1,Busines.Commun.Skills Workshop,0,SB,28,-3,09:00,11:30,OSB,230,false,false,false,false,false,true,Rima,Shaar
+10570,BUSS,239,2,Busines.Commun.Skills Workshop,0,SB,29,-4,11:31,14:00,OSB,230,false,false,false,false,false,true,Rima,Shaar
+10571,BUSS,239,3,Busines.Commun.Skills Workshop,0,SB,30,-5,14:01,16:30,OSB,230,false,false,false,false,false,true,Rima,Shaar
+10572,BUSS,239,4,Busines.Commun.Skills Workshop,0,SB,29,-4,09:00,11:30,OSB,230,false,false,false,false,false,true,Rima,Shaar
+10573,BUSS,239,5,Busines.Commun.Skills Workshop,0,SB,29,-4,11:31,14:00,OSB,230,false,false,false,false,false,true,Rima,Shaar
+10574,BUSS,239,6,Busines.Commun.Skills Workshop,0,SB,28,-3,14:01,16:30,OSB,230,false,false,false,false,false,true,Rima,Shaar
+10575,BUSS,240,1,Strat.Career Planning Workshop,0,SB,28,-3,09:00,11:30,OSB,226,false,false,false,false,false,true,Carol,Baddoura
+10576,BUSS,240,2,Strat.Career Planning Workshop,0,SB,28,-3,11:31,14:00,OSB,226,false,false,false,false,false,true,Carol,Baddoura
+10577,BUSS,240,3,Strat.Career Planning Workshop,0,SB,28,-3,14:01,16:30,OSB,226,false,false,false,false,false,true,Carol,Baddoura
+10578,BUSS,240,4,Strat.Career Planning Workshop,0,SB,0,0,09:00,11:30,OSB,226,false,false,false,false,false,true,.,STAFF
+10579,BUSS,240,5,Strat.Career Planning Workshop,0,SB,0,0,11:31,14:00,OSB,226,false,false,false,false,false,true,.,STAFF
+10580,BUSS,240,6,Strat.Career Planning Workshop,0,SB,0,0,14:01,16:30,OSB,226,false,false,false,false,false,true,.,STAFF
+10581,BUSS,245,1,Internship/Practicum,1,SB,4,-4,08:00,13:59,.,.,true,true,true,true,true,false,Leila,Khauli Hanna
+10582,BUSS,248,1,Developing Bus. Plans Workshop,0,SB,34,-9,17:01,19:30,OSB,236,true,false,false,false,false,false,Antoine,Sabbagh
+10583,BUSS,248,2,Developing Bus. Plans Workshop,0,SB,34,-9,17:01,19:30,OSB,236,false,true,false,false,false,false,Antoine,Sabbagh
+10584,BUSS,248,3,Developing Bus. Plans Workshop,0,SB,35,-10,17:01,19:30,OSB,226,false,false,false,false,true,false,Antoine,Sabbagh
+10585,BUSS,249,1,Strategic Management,3,SB,41,-6,11:00,12:15,OSB,241,true,false,true,false,false,false,Riad,Dimechkie
+10586,BUSS,249,2,Strategic Management,3,SB,41,-6,14:00,15:15,OSB,334,false,true,false,true,false,false,Rida,Elias
+13219,BUSS,315,1,Prices Markets &Econ.Environm.,3,SB,12,28,18:00,20:30,OSB,227,true,false,false,false,false,false,Yassar,Nasser
+10588,BUSS,399,1,Gr.Prof.Career Developm.,0,SB,43,2,18:00,20:30,OSB,238,false,false,true,false,false,false,Carol,Baddoura
+10589,BUSS,399,2,Gr.Prof.Career Developm.,0,SB,20,25,18:00,20:30,OSB,238,false,false,false,false,true,false,Carol,Baddoura

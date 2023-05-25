@@ -1,0 +1,52 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+11712,GEOL,101,1,The Earth  Present and Past,3,AS,21,4,09:30,10:45,POST,203,false,true,false,true,false,false,Ali,Haidar
+11713,GEOL,102,1,Environment Physical Geography,3,AS,15,10,10:00,10:50,POST,203,true,false,true,false,true,false,Wisam,Khadra
+11714,GEOL,201,1,Physical Geology,3,AS,20,5,15:00,16:15,POST,203,true,false,true,false,false,false,A.,Abdel-Rahman
+11715,GEOL,201,2,Physical Geology,3,AS,25,0,11:00,12:15,POST,207,false,true,false,true,false,false,Mohamed,Salah
+11716,GEOL,204,1,Dinosaurs and Life History,3,AS,28,2,14:00,15:15,POST,203,false,true,false,true,false,false,Ali,Haidar
+11717,GEOL,205,1,Earth Resources & Energy,3,AS,21,5,13:00,13:50,POST,203,true,false,true,false,true,false,Raghida,Oueida
+11718,GEOL,205,2,Earth Resources & Energy,3,AS,17,8,14:00,14:50,POST,203,true,false,true,false,true,false,Raghida,Oueida
+11719,GEOL,206,1,Planetary Geology,3,AS,23,2,09:30,10:45,POST,210,false,true,false,true,false,false,Mohamed,Salah
+11720,GEOL,206,2,Planetary Geology,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11721,GEOL,212,1,Optical Mineralogy,3,AS,5,7,09:00,10:50,POST,210,true,false,true,false,false,false,A.,Abdel-Rahman
+11722,GEOL,221,1,Petrology,3,AS,4,8,11:00,12:50,POST,210,true,false,true,false,false,false,A.,Abdel-Rahman
+11723,GEOL,222,1,Sedimentology,3,AS,8,4,14:00,15:50,POST,210,true,false,true,false,false,false,Ali,Haidar
+11724,GEOL,225,1,Petroleum Geology,3,AS,1,11,11:00,12:15,POST,203,false,true,false,true,false,false,Ali,Haidar
+11725,GEOL,290A,1,Water in A Changing World,3,AS,8,2,09:00,09:50,POST,207,true,false,true,false,true,false,Joanna,Doummar
+11726,GEOL,318,1,Hydrogeology,3,AS,3,3,10:00,13:00,POST,203,false,false,false,false,false,true,Joanna,Doummar
+11727,GEOL,330F,1,Petroleum Reservoir Engineerin,3,AS,3,2,14:00,17:01,POST,207,false,false,false,false,false,true,Ali,Haidar
+11728,GEOL,395A,1,Comprehensive Exam,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,Joanna,Doummar
+11730,GEOL,399,2,M.S Thesis,7.28,AS,0,2,.,.,.,.,false,false,false,false,false,false,A.,Abdel-Rahman
+11731,GEOL,399,3,M.S Thesis,7.28,AS,1,1,.,.,.,.,false,false,false,false,false,false,Joanna,Doummar
+11732,GEOL,399,4,M.S Thesis,7.28,AS,0,2,.,.,.,.,false,false,false,false,false,false,Mohamed,Salah
+11733,GEOL,399,5,M.S Thesis,7.28,AS,2,0,.,.,.,.,false,false,false,false,false,false,Tony,Nemer
+11735,GEOL,399A,2,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,A.,Abdel-Rahman
+11736,GEOL,399A,3,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,Joanna,Doummar
+11737,GEOL,399A,4,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,Mohamed,Salah
+11738,GEOL,399A,5,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,Tony,Nemer
+11740,GEOL,399B,2,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,A.,Abdel-Rahman
+11741,GEOL,399B,3,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,Joanna,Doummar
+11742,GEOL,399B,4,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,Mohamed,Salah
+11743,GEOL,399B,5,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,Tony,Nemer
+11745,GEOL,399C,2,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,A.,Abdel-Rahman
+11746,GEOL,399C,3,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,Joanna,Doummar
+11747,GEOL,399C,4,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,Mohamed,Salah
+11748,GEOL,399C,5,M.S.Thesis,0,AS,0,2,.,.,.,.,false,false,false,false,false,false,Tony,Nemer
+11749,GEOL,399D,1,M.S.Thesis,1,AS,0,2,.,.,.,.,false,false,false,false,false,false,A.,Abdel-Rahman
+11750,GEOL,399D,2,M.S.Thesis,1,AS,0,2,.,.,.,.,false,false,false,false,false,false,Joanna,Doummar
+11751,GEOL,399D,3,M.S.Thesis,1,AS,0,2,.,.,.,.,false,false,false,false,false,false,Tony,Nemer
+11752,GEOL,399D,4,Thesis,1,AS,0,2,.,.,.,.,false,false,false,false,false,false,Mohamed,Salah
+11754,GERM,201,1,Elementary German I,3,AS,23,0,10:00,10:50,NICELY,206,true,false,true,false,true,false,Klaus Ulrich,Wieland
+11755,GERM,201,2,Elementary German I,3,AS,22,1,11:00,11:50,NICELY,206,true,false,true,false,true,false,Klaus Ulrich,Wieland
+13249,GERM,201,3,Elementary German I,3,AS,21,2,12:00,12:50,FISK,313,true,false,true,false,true,false,Klaus Ulrich,Wieland
+13072,GRDS,066,1,Alternative Comics,3,EA,23,-3,14:00,16:50,.,.,true,false,true,false,false,false,Lina,Ghaibeh
+13073,GRDS,067,1,Fanzines,3,EA,21,-1,14:00,16:50,.,.,false,true,false,false,false,false,Leila,Musfi
+11756,GRDS,111,1,Drawing,3,EA,25,1,11:00,13:50,ANNEX,201,true,false,true,false,false,false,Shawki,Youssef
+11757,GRDS,202,1,Graphic Design II,6,EA,13,17,14:00,18:00,ANNEX,301,true,false,true,false,true,false,Ahmad,El-Gharbie'
+11758,GRDS,213,1,Illustration,3,EA,14,2,14:00,16:50,.,.,false,true,false,true,false,false,Fouad,Mezher
+11759,GRDS,252,1,Typography II,3,EA,12,4,09:30,11:20,ANNEX,301,false,true,false,true,false,false,Yara (Nammour),Khoury
+11760,GRDS,304,1,Graphic Design IV,6,EA,23,7,14:00,18:00,STUDYS,101,true,false,true,false,true,false,Yara (Nammour),Khoury
+11761,GRDS,331,1,Introd.to Visual Theory,3,EA,25,5,10:00,12:50,IOEC,225,false,false,true,false,false,false,Omar,Mismar
+13068,GRDS,343,1,Interaction Design I,3,EA,25,0,09:30,12:20,.,.,false,true,false,true,false,false,Maher,Berro
+11762,GRDS,361,1,Professional  Practice,3,EA,23,7,14:00,16:50,SRB,413,false,false,false,true,false,false,Leila,Musfi
+11763,GRDS,406,1,Final Proj.Design & Research I,4,EA,29,1,09:00,12:50,STUDYS,201,true,false,false,false,true,false,Omar,Mismar

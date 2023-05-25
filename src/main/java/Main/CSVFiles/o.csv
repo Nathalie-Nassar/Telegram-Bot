@@ -1,0 +1,9 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+12417,ODFO,301,0,Craciofacial Growth &Develpmnt,3,FM,3,7,.,.,.,.,false,false,false,false,false,false,Anthony,Macari
+12418,ODFO,302A,0,Craniofacial Imaging I,1,FM,3,7,.,.,.,.,false,false,false,false,false,false,Anthony,Macari
+12419,ODFO,303X,0,Biol&Mechanics of Tooth Movmnt,1.5,FM,3,7,.,.,.,.,false,false,false,false,false,false,Anthony,Macari
+12420,ODFO,395A,0,Comprehensive exams,0,FM,3,7,.,.,.,.,false,false,false,false,false,false,Anthony,Macari
+12421,ODFO,399,0,Thesis,7.65,FM,3,7,.,.,.,.,false,false,false,false,false,false,Anthony,Macari
+12422,ODFO,399A,0,Thesis,0,FM,0,5,.,.,.,.,false,false,false,false,false,false,Anthony,Macari
+12423,ODFO,399B,0,Thesis,0,FM,1,4,.,.,.,.,false,false,false,false,false,false,Anthony,Macari
+12424,ORLG,240,1,Advan.Clinical Procedures Lab.,5,FM,10,0,.,.,.,.,false,false,false,false,false,false,Malek,Abu-Safieh

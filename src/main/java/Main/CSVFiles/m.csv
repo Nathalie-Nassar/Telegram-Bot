@@ -1,0 +1,444 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+11890,MATH,101,E1,Calculus & Analytic Geometry I,0,AS,29,-4,15:00,15:50,NICELY,415,false,false,true,false,false,false,Rana,Nassif
+11891,MATH,101,E2,Calculus & Analytic Geometry I,0,AS,29,-4,14:00,14:50,NICELY,320,false,false,false,false,true,false,Fatima,Mroue
+11892,MATH,101,E3,Calculus & Analytic Geometry I,0,AS,33,-8,14:00,14:50,NICELY,320,false,false,true,false,false,false,Rana,Nassif
+11893,MATH,101,L1,Calculus & Analytic Geometry I,3,AS,28,-3,10:00,10:50,NICELY,320,true,false,true,false,true,false,Fatima,Mroue
+11894,MATH,101,L2,Calculus & Analytic Geometry I,3,AS,32,-7,13:00,13:50,NICELY,320,true,false,true,false,true,false,Zahi,Fawaz
+11895,MATH,101,L3,Calculus & Analytic Geometry I,3,AS,31,-6,10:00,10:50,NICELY,321,true,false,true,false,true,false,Hassan,Yamani
+11896,MATH,102,E1,Calculus & Analytical Geom. II,0,AS,11,9,09:30,10:20,NICELY,103,false,true,false,false,false,false,Joumana,Tannous
+11897,MATH,102,E2,Calculus & Analytical Geom. II,0,AS,19,1,11:00,11:50,NICELY,320,false,true,false,false,false,false,Joumana,Tannous
+11898,MATH,102,E3,Calculus & Analytical Geom. II,0,AS,8,12,08:00,08:50,NICELY,320,false,true,false,false,false,false,Joumana,Tannous
+11899,MATH,102,L1,Calculus & Analytical Geom. II,3,AS,38,22,12:00,12:50,NICELY,415,true,false,true,false,true,false,Hassan,Yamani
+11900,MATH,201,E1,Calculus & Analytical Geom.III,0,AS,26,-4,15:30,16:20,NICELY,214,false,false,false,true,false,false,Zahi,Fawaz
+11901,MATH,201,E10,Calculus & Analytical Geom.III,0,AS,24,-1,16:00,16:50,NICELY,214,false,false,false,false,true,false,Lina,Rahhal
+11902,MATH,201,E11,Calculus & Analytical Geom.III,0,AS,24,-2,17:00,17:50,NICELY,214,false,false,false,false,true,false,Lina,Rahhal
+11903,MATH,201,E12,Calculus & Analytical Geom.III,0,AS,25,-2,11:00,11:50,NICELY,412,false,false,false,false,true,false,Lina,Rahhal
+11904,MATH,201,E13,Calculus & Analytical Geom.III,0,AS,26,-4,11:00,11:50,NICELY,412,false,false,true,false,false,false,Lina,Rahhal
+11905,MATH,201,E14,Calculus & Analytical Geom.III,0,AS,23,0,12:00,12:50,NICELY,412,false,false,true,false,false,false,Rana,Nassif
+11906,MATH,201,E15,Calculus & Analytical Geom.III,0,AS,25,-3,13:00,13:50,NICELY,210,false,false,true,false,false,false,Rana,Nassif
+11907,MATH,201,E16,Calculus & Analytical Geom.III,0,AS,25,-2,10:00,10:50,NICELY,210,false,false,true,false,false,false,Lina,Rahhal
+11908,MATH,201,E17,Calculus & Analytical Geom.III,0,AS,24,-2,10:00,10:50,NICELY,214,false,false,false,false,true,false,Rana,Nassif
+11909,MATH,201,E18,Calculus & Analytical Geom.III,0,AS,21,2,08:00,08:50,NICELY,416,false,false,false,false,true,false,Hagop,Karakazian
+11910,MATH,201,E19,Calculus & Analytical Geom.III,0,AS,27,-5,12:00,12:50,NICELY,214,false,false,false,false,true,false,Rana,Nassif
+11911,MATH,201,E2,Calculus & Analytical Geom.III,0,AS,26,-3,09:30,10:20,NICELY,103,false,false,false,true,false,false,Zahi,Fawaz
+11912,MATH,201,E20,Calculus & Analytical Geom.III,0,AS,24,-1,09:00,09:50,NICELY,416,false,false,false,false,true,false,Hagop,Karakazian
+11913,MATH,201,E21,Calculus & Analytical Geom.III,0,AS,23,-1,16:00,16:50,BLISS,105,false,false,true,false,false,false,Hagop,Karakazian
+11914,MATH,201,E22,Calculus & Analytical Geom.III,0,AS,27,-4,12:00,12:50,NICELY,214,false,false,true,false,false,false,Zahi,Fawaz
+11915,MATH,201,E23,Calculus & Analytical Geom.III,0,AS,25,-3,15:00,15:50,BLISS,105,false,false,true,false,false,false,Hagop,Karakazian
+11916,MATH,201,E24,Calculus & Analytical Geom.III,0,AS,25,-2,17:00,17:50,NICELY,214,false,false,true,false,false,false,Hagop,Karakazian
+11917,MATH,201,E3,Calculus & Analytical Geom.III,0,AS,24,-2,11:00,11:50,NICELY,320,false,false,false,true,false,false,Zahi,Fawaz
+11918,MATH,201,E4,Calculus & Analytical Geom.III,0,AS,24,-1,14:00,14:50,BLISS,205,false,false,false,true,false,false,Zahi,Fawaz
+11919,MATH,201,E5,Calculus & Analytical Geom.III,0,AS,22,0,15:30,16:20,PHYS,329,false,true,false,false,false,false,Rana,Nassif
+11920,MATH,201,E6,Calculus & Analytical Geom.III,0,AS,29,-6,12:30,13:20,NICELY,412,false,true,false,false,false,false,Rana,Nassif
+11921,MATH,201,E7,Calculus & Analytical Geom.III,0,AS,24,-2,14:00,14:50,BLISS,205,false,true,false,false,false,false,Rana,Nassif
+11922,MATH,201,E8,Calculus & Analytical Geom.III,0,AS,24,-1,17:00,17:50,BLISS,105,false,true,false,false,false,false,Rana,Nassif
+11923,MATH,201,E9,Calculus & Analytical Geom.III,0,AS,29,-7,15:00,15:50,NICELY,214,false,false,false,false,true,false,Lina,Rahhal
+11924,MATH,201,L1,Calculus & Analytical Geom.III,3,AS,100,-10,11:00,11:50,NICELY,415,true,false,true,false,true,false,Giuseppe,Della Sala
+11925,MATH,201,L2,Calculus & Analytical Geom.III,3,AS,100,-10,12:00,12:50,BLISS,203,true,false,true,false,true,false,Ahmad A,Sabra
+11926,MATH,201,L3,Calculus & Analytical Geom.III,3,AS,101,-11,14:00,14:50,BLISS,203,true,false,true,false,true,false,Hassan,Yamani
+11927,MATH,201,L4,Calculus & Analytical Geom.III,3,AS,99,-9,09:00,09:50,NICELY,415,true,false,true,false,true,false,Wissam,Raji
+11928,MATH,201,L5,Calculus & Analytical Geom.III,3,AS,96,-6,13:00,13:50,BLISS,203,true,false,true,false,true,false,Rafael Benedikt,Andrist
+11929,MATH,201,L6,Calculus & Analytical Geom.III,3,AS,100,-10,10:00,10:50,BLISS,203,true,false,true,false,true,false,Bassam,Shayya
+13017,MATH,201,L7,Calculus & Analytical Geom.III,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11930,MATH,202,E1,Differential Equations,0,AS,16,6,14:00,14:50,NICELY,210,false,false,false,false,true,false,Rana,Nassif
+11931,MATH,202,E2,Differential Equations,0,AS,15,7,15:00,15:50,NICELY,210,false,false,false,false,true,false,Rana,Nassif
+11932,MATH,202,E3,Differential Equations,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11933,MATH,202,E4,Differential Equations,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11934,MATH,202,E5,Differential Equations,0,AS,22,0,10:00,10:50,NICELY,322,false,false,false,false,true,false,Tamer,Tlas
+13229,MATH,202,E6,Differential Equations,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11935,MATH,202,L1,Differential Equations,3,AS,54,56,09:00,09:50,BLISS,203,true,false,true,false,true,false,Tamer,Tlas
+13228,MATH,202,L2,Differential Equations,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11936,MATH,203,1,Math for Social Sciences I,3,AS,29,1,09:30,10:45,NICELY,325,false,true,false,true,false,false,Maha,Itani
+11937,MATH,203,2,Math for Social Sciences I,3,AS,29,1,11:00,12:15,NICELY,323,false,true,false,true,false,false,Maha,Itani
+11938,MATH,203,3,Math for Social Sciences I,3,AS,32,-2,12:00,12:50,NICELY,325,true,false,true,false,true,false,Najwa,Fuleihan
+11939,MATH,203,4,Math for Social Sciences I,3,AS,31,-1,13:00,13:50,NICELY,323,true,false,true,false,true,false,Najwa,Fuleihan
+11940,MATH,203,5,Math for Social Sciences I,3,AS,32,-2,14:00,15:15,NICELY,320,false,true,false,true,false,false,Joumana,Tannous
+13274,MATH,203,6,Math for Social Sciences I,3,AS,28,-1,17:00,18:15,NICELY,416,false,true,false,true,false,false,Joumana,Tannous
+11941,MATH,204,1,Math for Social Sciences II,3,AS,24,1,14:00,15:15,NICELY,211,false,true,false,true,false,false,Maha,Itani
+11942,MATH,204,2,Math for Social Sciences II,3,AS,25,0,15:30,16:45,NICELY,325,false,true,false,true,false,false,Maha,Itani
+11943,MATH,204,3,Math for Social Sciences II,3,AS,28,-3,09:00,09:50,NICELY,321,true,false,true,false,true,false,Najwa,Fuleihan
+11944,MATH,204,4,Math for Social Sciences II,3,AS,27,-2,10:00,10:50,NICELY,318,true,false,true,false,true,false,Najwa,Fuleihan
+11945,MATH,204,5,Math for Social Sciences II,3,AS,25,0,15:00,15:50,NICELY,327,true,false,true,false,true,false,Michella,Bou Eid
+11946,MATH,204,6,Math for Social Sciences II,3,AS,24,1,16:00,16:50,NICELY,327,true,false,true,false,true,false,Michella,Bou Eid
+11947,MATH,204,7,Math for Social Sciences II,3,AS,25,0,15:30,16:45,BLISS,203,false,true,false,true,false,false,Joumana,Tannous
+11948,MATH,204,8,Math for Social Sciences II,3,AS,26,-1,12:30,13:45,NICELY,415,false,true,false,true,false,false,Joumana,Tannous
+11949,MATH,210,1,Introduction to Analysis,3,AS,15,10,10:00,10:50,NICELY,327,true,false,true,false,true,false,Siamak,Taati
+11950,MATH,210,2,Introduction to Analysis,3,AS,22,3,09:00,09:50,NICELY,103,true,false,true,false,true,false,Farouk,Abi Khuzam
+11951,MATH,211,E1,Discrete Mathematics,0,AS,32,-7,13:00,13:50,NICELY,210,true,false,false,false,false,false,Fatima,Mroue
+11952,MATH,211,E2,Discrete Mathematics,0,AS,28,-3,14:00,14:50,NICELY,323,true,false,false,false,false,false,Fatima,Mroue
+11953,MATH,211,L1,Discrete Mathematics,3,AS,60,-10,11:00,11:50,BLISS,203,true,false,true,false,true,false,Fatima,Mroue
+11954,MATH,212,1,Introd.Partial Different.Equat,3,AS,24,1,12:00,12:50,NICELY,323,true,false,true,false,true,false,Tristan Cyrus,Roy
+11955,MATH,212,2,Introd.Partial Different.Equat,3,AS,25,0,11:00,11:50,NICELY,322,true,false,true,false,true,false,Ahmad A,Sabra
+11956,MATH,212,3,Introd.Partial Different.Equat,3,AS,24,1,13:00,13:50,NICELY,412,true,false,true,false,true,false,Sophie,Moufawad
+11957,MATH,214,1,Topology I,3,AS,19,6,08:00,08:50,NICELY,210,true,false,true,false,true,false,Tamer,Tlas
+11958,MATH,218,E1,Elem Linear Algebra w Applica.,0,AS,24,1,13:00,13:50,NICELY,414,false,false,true,false,false,false,Michella,Bou Eid
+11959,MATH,218,E2,Elem Linear Algebra w Applica.,0,AS,25,0,14:00,14:50,NICELY,323,false,false,true,false,false,false,Michella,Bou Eid
+11960,MATH,218,E3,Elem Linear Algebra w Applica.,0,AS,24,1,17:00,17:50,NICELY,411,false,false,true,false,false,false,Michella,Bou Eid
+11961,MATH,218,E4,Elem Linear Algebra w Applica.,0,AS,25,0,11:00,11:50,NICELY,416,false,false,false,false,true,false,Michella,Bou Eid
+11962,MATH,218,E5,Elem Linear Algebra w Applica.,0,AS,26,-1,12:00,12:50,NICELY,202,false,false,false,false,true,false,Michella,Bou Eid
+11963,MATH,218,E6,Elem Linear Algebra w Applica.,0,AS,24,1,13:00,13:50,NICELY,417,false,false,false,false,true,false,Michella,Bou Eid
+11964,MATH,218,L1,Elem Linear Algebra w Applica.,3,AS,73,2,12:00,12:50,NICELY,211,true,false,true,false,true,false,Hazar,Abu Khuzam
+11965,MATH,218,L2,Elem Linear Algebra w Applica.,3,AS,75,0,09:30,10:45,NICELY,415,false,true,false,true,false,false,Sabine,El Khoury
+11966,MATH,219,1,Linear Algebra I,3,AS,11,14,09:00,09:50,NICELY,210,true,false,true,false,true,false,Ahmad A,Sabra
+11967,MATH,224,1,Fourier Series & Applicat.,3,AS,7,18,11:00,11:50,NICELY,210,true,false,true,false,true,false,Tristan Cyrus,Roy
+11968,MATH,241,1,Intr.to Abstract Algebra,3,AS,13,17,14:00,14:50,BLISS,205,true,false,true,false,true,false,Florian,Bertrand
+11969,MATH,251,E1,Numerical Computing,0,AS,14,6,15:00,15:50,NICELY,318,false,false,true,false,false,false,Dolly,Fayyad
+11970,MATH,251,E2,Numerical Computing,0,AS,20,0,16:00,16:50,NICELY,214,false,false,true,false,false,false,Dolly,Fayyad
+11971,MATH,251,E3,Numerical Computing,0,AS,19,1,17:00,17:50,NICELY,202,false,false,true,false,false,false,Dolly,Fayyad
+11972,MATH,251,E4,Numerical Computing,0,AS,16,4,15:00,15:50,NICELY,417,false,false,false,false,true,false,Dolly,Fayyad
+11973,MATH,251,E5,Numerical Computing,0,AS,11,9,12:00,12:50,NICELY,417,false,false,false,false,true,false,Fatima,Mroue
+11974,MATH,251,E6,Numerical Computing,0,AS,15,5,12:00,12:50,NICELY,417,false,false,true,false,false,false,Fatima,Mroue
+11975,MATH,251,E7,Numerical Computing,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11976,MATH,251,E8,Numerical Computing,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11977,MATH,251,L1,Numerical Computing,3,AS,33,7,13:00,13:50,BLISS,205,true,false,true,false,true,false,Dolly,Fayyad
+11978,MATH,251,L2,Numerical Computing,3,AS,36,4,12:00,12:50,BLISS,205,true,false,true,false,true,false,Dolly,Fayyad
+11979,MATH,251,L3,Numerical Computing,3,AS,26,14,10:00,10:50,BLISS,205,true,false,true,false,true,false,Nabil,Nassif
+11980,MATH,251,L4,Numerical Computing,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+11981,MATH,261,1,Number Theory,3,AS,19,11,10:00,10:50,NICELY,410,true,false,true,false,true,false,Wissam,Raji
+11982,MATH,281,1,Numerical Linear Algebra,3,AS,12,8,12:00,12:50,NICELY,322,true,false,true,false,true,false,Sophie,Moufawad
+11983,MATH,304,1,Complex Analysis,3,AS,13,2,11:00,11:50,BLISS,206,true,false,true,false,true,false,Farouk,Abi Khuzam
+11984,MATH,338,1,Int. to Stochastic Processes,3,AS,7,8,15:00,15:50,BLISS,205,true,false,true,false,true,false,Abbas,Alhakim
+11985,MATH,341,1,Modules and Rings I,3,AS,8,7,10:00,10:50,BLISS,206,true,false,true,false,true,false,Hazar,Abu Khuzam
+11986,MATH,350,1,Discrete Models for Differ.Equ,3,AS,11,4,13:00,13:50,BLISS,206,true,false,true,false,true,false,Nabil,Nassif
+11987,MATH,395A,1,Comprehensive Exam,0,AS,4,-4,.,.,.,.,false,false,false,false,false,false,Florian,Bertrand
+11988,MATH,399,1,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Farouk,Abi Khuzam
+11989,MATH,399,10,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ahmad A,Sabra
+11990,MATH,399,11,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Florian,Bertrand
+11991,MATH,399,12,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Giuseppe,Della Sala
+11992,MATH,399,13,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hazar,Abu Khuzam
+11993,MATH,399,14,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Richard,Aoun
+11994,MATH,399,15,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Stefano,Monni
+11995,MATH,399,16,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sophie,Moufawad
+11996,MATH,399,17,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rafael Benedikt,Andrist
+11998,MATH,399,2,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Abbas,Alhakim
+11999,MATH,399,20,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tristan Cyrus,Roy
+12000,MATH,399,3,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sabine,El Khoury
+12001,MATH,399,4,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Kamal,Khuri Makdisi
+12003,MATH,399,6,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Nabil,Nassif
+12004,MATH,399,7,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wissam,Raji
+12005,MATH,399,8,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bassam,Shayya
+12006,MATH,399,9,M.A. Or M.S. Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tamer,Tlas
+12007,MATH,399A,1,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Florian,Bertrand
+12008,MATH,399A,10,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Giuseppe,Della Sala
+12009,MATH,399A,11,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Kamal,Khuri Makdisi
+12010,MATH,399A,12,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ahmad A,Sabra
+12011,MATH,399A,13,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Nabil,Nassif
+12014,MATH,399A,16,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sophie,Moufawad
+12015,MATH,399A,17,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tamer,Tlas
+12016,MATH,399A,18,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rafael Benedikt,Andrist
+12017,MATH,399A,19,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tristan Cyrus,Roy
+12018,MATH,399A,2,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Richard,Aoun
+12020,MATH,399A,3,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bassam,Shayya
+12021,MATH,399A,4,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Farouk,Abi Khuzam
+12022,MATH,399A,5,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hazar,Abu Khuzam
+12023,MATH,399A,6,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wissam,Raji
+12024,MATH,399A,7,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Abbas,Alhakim
+12025,MATH,399A,8,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sabine,El Khoury
+12026,MATH,399A,9,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Stefano,Monni
+12027,MATH,399B,1,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Farouk,Abi Khuzam
+12029,MATH,399B,11,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tamer,Tlas
+12030,MATH,399B,12,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Nabil,Nassif
+12031,MATH,399B,13,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bassam,Shayya
+12032,MATH,399B,14,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sophie,Moufawad
+12034,MATH,399B,16,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Stefano,Monni
+12035,MATH,399B,17,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ahmad A,Sabra
+12036,MATH,399B,18,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Wissam,Raji
+12037,MATH,399B,19,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tristan Cyrus,Roy
+12038,MATH,399B,2,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hazar,Abu Khuzam
+12039,MATH,399B,3,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Abbas,Alhakim
+12040,MATH,399B,4,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rafael Benedikt,Andrist
+12041,MATH,399B,5,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Richard,Aoun
+12042,MATH,399B,6,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Giuseppe,Della Sala
+12043,MATH,399B,7,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Florian,Bertrand
+12044,MATH,399B,8,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sabine,El Khoury
+12045,MATH,399B,9,M.A. or M.S. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Kamal,Khuri Makdisi
+13402,MATH,399C,1,M.A. or M.S. Thesis,0,AS,1,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13217,MAUD,203,1,Pediatric Audiology,3,HS,1,0,.,.,.,.,false,false,false,false,false,false,Malek,Abu-Safieh
+12046,MAUD,206,1,Amplification II,3,HS,10,0,08:00,09:15,.,.,false,false,true,true,false,false,4,Visiting Professor
+12047,MAUD,209,1,Vestibular-Balance Asses.&Mana,3,HS,10,0,09:30,10:45,.,.,false,false,true,true,false,false,Malek,Abu-Safieh
+12048,MAUD,210,1,Aural Rehabilitation &Counsel.,3,HS,10,0,14:00,15:15,.,.,false,true,false,true,false,false,Malek,Abu-Safieh
+12049,MBIM,399,0,MS Thesis,7.65,FM,10,10,.,.,.,.,false,false,false,false,false,false,Ghassan,Matar
+12050,MBIM,399B,0,M.S. Thesis,0,FM,0,5,.,.,.,.,false,false,false,false,false,false,Ghassan,Matar
+12051,MCOM,201,1,Introduction to Media Studies,3,AS,27,-9,15:30,16:45,NICELY,327,false,true,false,true,false,false,Sarah,Hamdar
+12052,MCOM,202,1,Communication Theory,3,AS,27,-9,12:30,13:45,NICELY,411,false,true,false,true,false,false,Gregory Allen,Burris
+12053,MCOM,215,1,Media Law and Ethics,3,AS,26,-1,17:00,18:15,NICELY,327,true,false,true,false,false,false,Rabie,Barakat
+12054,MCOM,216,1,Public Opinion,3,AS,24,1,09:30,10:45,NICELY,416,false,true,false,true,false,false,Sarah,Hamdar
+12055,MCOM,217,1,Political Communic.Campaigns,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12056,MCOM,222,1,Intr.to Visual Culture Studies,3,AS,22,3,14:00,15:15,NICELY,325,false,true,false,true,false,false,Josh,Carney
+12057,MCOM,223,1,On Television,3,AS,14,11,09:30,10:45,NICELY,411,false,true,false,true,false,false,Josh,Carney
+12058,MCOM,224,1,Palestinian Film and Media,3,AS,26,-1,11:00,12:15,NICELY,327,false,true,false,true,false,false,Gregory Allen,Burris
+12059,MCOM,225,1,Intr.to to Photojournalism,3,AS,21,-1,14:30,16:59,ISSAM,102,false,false,true,false,false,false,George,Azar
+12060,MCOM,226,1,Journalism and Society,3,AS,17,3,15:30,16:45,NICELY,410,true,false,true,false,false,false,Rabie,Barakat
+12061,MCOM,240,1,News Reporting & Writing,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12062,MCOM,243,1,Advertising,3,AS,24,1,08:00,09:15,NICELY,103,false,true,false,true,false,false,Mark,Daou
+12063,MCOM,246,1,Digital & Multimedia News,3,AS,17,8,14:30,16:59,ISSAM,102,false,false,false,false,true,false,George,Azar
+12064,MCOM,247,1,Trauma Journalism,3,AS,14,1,11:00,12:15,ISSAM,102,false,true,false,true,false,false,Nora,Boustany
+12065,MCOM,252,1,Digital Media Practices,3,AS,20,0,14:30,16:59,NICELY,207,true,false,false,false,false,false,Jad,Youssef
+12066,MCOM,253,1,Social Media Strategies,3,AS,27,-2,12:00,14:29,NICELY,207,false,false,false,false,true,false,Nidal,Mawas
+12067,MCOM,260,1,Sr.Seminar in Media Studies,3,AS,16,4,15:30,17:59,NICELY,207,false,true,false,false,false,false,Suzanne,Enzerink
+12068,MCOM,292I,1,ST. Gender and Communication,3,AS,24,1,12:30,13:45,NICELY,209,false,true,false,true,false,false,Sarah,Hamdar
+13262,MCOM,292I,2,ST. Gender and Communication,3,AS,16,9,17:00,18:15,NICELY,323,false,true,false,true,false,false,Sarah,Hamdar
+12069,MCOM,294,1,Media Brown Bag,0,AS,14,11,12:00,13:59,ISSAM,102,false,false,true,false,false,false,George,Azar
+12070,MCOM,296,1,Internship,3,AS,8,17,.,.,.,.,false,false,false,false,false,false,George,Azar
+12071,MCOM,390W,1,ST. Underground Media,3,AS,12,0,15:00,17:29,NICELY,204,false,false,true,false,false,false,Blake Robert,Atwood
+13164,MCOM,390X,1,ST.Social and Cultural Theory,3,AS,7,-2,15:30,17:59,NICELY,108,true,false,false,false,false,false,Kirsten,Scheid
+13294,MCOM,391S,1,Tut. Music Distribution,3,AS,1,0,.,.,.,.,false,false,false,false,false,false,Blake Robert,Atwood
+13406,MCOM,395A,1,Comprehensive Exam,0,AS,6,-6,.,.,.,.,false,false,false,false,false,false,Gregory Allen,Burris
+13282,MCOM,398A,1,M.A. Project 2nd time,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,May,Farah
+12072,MCOM,399,1,MA Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Blake Robert,Atwood
+12073,MCOM,399,2,MA Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Gregory Allen,Burris
+12074,MCOM,399,3,MA Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Josh,Carney
+12075,MCOM,399,4,MA Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Suzanne,Enzerink
+12076,MCOM,399,5,MA Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,May,Farah
+12077,MCOM,399,6,MA Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sara,Mourad
+12078,MCOM,399,7,MA Thesis,7.28,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zeina,Tarraf
+12079,MCOM,399A,1,MA Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Blake Robert,Atwood
+12080,MCOM,399A,2,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Gregory Allen,Burris
+12081,MCOM,399A,3,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Josh,Carney
+12082,MCOM,399A,4,MA Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Suzanne,Enzerink
+12083,MCOM,399A,5,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,May,Farah
+12084,MCOM,399A,6,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sara,Mourad
+12085,MCOM,399A,7,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zeina,Tarraf
+12086,MCOM,399B,1,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Blake Robert,Atwood
+12087,MCOM,399B,2,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Gregory Allen,Burris
+12088,MCOM,399B,3,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Josh,Carney
+12089,MCOM,399B,4,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Suzanne,Enzerink
+12090,MCOM,399B,5,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,May,Farah
+12091,MCOM,399B,6,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sara,Mourad
+12092,MCOM,399B,7,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zeina,Tarraf
+12093,MCOM,399C,1,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Blake Robert,Atwood
+12094,MCOM,399C,2,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Gregory Allen,Burris
+12095,MCOM,399C,3,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Josh,Carney
+12096,MCOM,399C,4,MA Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Suzanne,Enzerink
+12097,MCOM,399C,5,MA Thesis,0,AS,2,3,.,.,.,.,false,false,false,false,false,false,May,Farah
+12098,MCOM,399C,6,MA Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Sara,Mourad
+12099,MCOM,399C,7,MA Thesis,0,AS,2,3,.,.,.,.,false,false,false,false,false,false,Zeina,Tarraf
+13471,MCOM,399D,1,MA Thesis,1,AS,0,0,.,.,.,.,false,false,false,false,false,false,May,Farah
+12100,MECH,220,1,Engineering Graphics,1,EA,16,0,13:00,13:50,BECHTA,211,false,true,false,false,false,false,Abed Alkader,Alsaidi
+12101,MECH,220,2,Engineering Graphics,1,EA,17,-1,13:00,13:50,BECHTA,211,false,true,false,false,false,false,Abed Alkader,Alsaidi
+12102,MECH,220,3,Engineering Graphics,1,EA,6,10,13:00,13:50,BECHTA,211,false,true,false,false,false,false,Abed Alkader,Alsaidi
+12103,MECH,230,1,Dynamics,3,EA,16,9,09:00,09:50,BECHTA,208,true,false,true,false,true,false,Asghar,Aryanfar
+12104,MECH,230,2,Dynamics,3,EA,5,20,09:00,09:50,BECHTA,208,true,false,true,false,true,false,Asghar,Aryanfar
+12105,MECH,310,1,Thermodynamics I,3,EA,37,3,10:00,10:50,BECHTA,208,true,false,true,false,true,false,Asghar,Aryanfar
+12106,MECH,310,2,Thermodynamics I,3,EA,46,-1,11:00,12:15,BECHTA,203,false,true,false,true,false,false,Issam,Lakkis
+12108,MECH,320,1,MECH 320,3,EA,27,18,08:00,08:50,BECHTA,201,true,false,true,false,true,false,Rami,Mhanna
+12112,MECH,340,1,Engineering Materials,3,EA,36,9,14:00,15:15,BECHTA,201,false,true,false,true,false,false,Ramsey,Hamade
+12113,MECH,341,1,Materials Lab.,1,EA,14,0,12:00,12:25,SRB,413,false,false,true,false,false,false,Rami,Fayad
+12114,MECH,341,2,Materials Lab.,1,EA,7,7,12:00,12:25,SRB,413,false,false,true,false,false,false,Rami,Fayad
+12115,MECH,410L,1,Thermal/Fluid Systems Lab.,1,EA,13,1,10:00,11:45,IOEC,321,true,false,false,false,false,false,Lina,Kassis
+12116,MECH,410L,2,Thermal/Fluid Systems Lab.,1,EA,7,7,10:00,11:45,IOEC,321,false,true,false,false,false,false,Lina,Kassis
+12117,MECH,410L,3,Thermal/Fluid Systems Lab.,1,EA,15,-1,10:00,11:45,IOEC,321,false,false,true,false,false,false,Lina,Kassis
+12118,MECH,410L,4,Thermal/Fluid Systems Lab.,1,EA,14,0,12:00,12:50,MAMC,207,false,false,false,false,true,false,Elie,Kfoury
+12119,MECH,410L,5,Thermal/Fluid Systems Lab.,1,EA,16,-2,10:00,11:45,IOEC,321,false,false,false,false,true,false,Elie,Kfoury
+12120,MECH,410L,6,Thermal/Fluid Systems Lab.,1,EA,14,0,08:00,09:45,IOEC,321,false,false,false,false,true,false,Elie,Kfoury
+12121,MECH,414,1,Thermodynamics II,3,EA,48,-3,14:00,15:15,BECHTA,111,true,false,true,false,false,false,Fadl,Moukalled
+13021,MECH,414,2,Thermodynamics II,3,EA,35,10,15:30,16:45,BECHTA,111,true,false,true,false,false,false,Fadl,Moukalled
+12122,MECH,420,1,Mechanical Design I,3,EA,53,-8,09:30,10:45,BECHTA,204,false,true,false,true,false,false,Elie,Shammas
+12123,MECH,420,2,Mechanical Design I,3,EA,34,11,08:00,09:15,BECHTA,201,false,true,false,true,false,false,Elie,Shammas
+12125,MECH,421,1,Manufacturing Processes I,3,EA,7,9,08:00,09:45,SRB,104,true,false,false,false,false,false,Mohammad S,Harb
+12126,MECH,421,2,Manufacturing Processes I,3,EA,16,0,08:00,09:45,SRB,104,false,false,true,false,false,false,Mohammad S,Harb
+12127,MECH,421,3,Manufacturing Processes I,3,EA,10,6,08:00,09:45,SRB,104,false,false,false,false,true,false,Mohammad S,Harb
+12128,MECH,421,4,Manufacturing Processes I,3,EA,13,3,14:00,15:45,SRB,104,false,true,false,false,false,false,Mohammad S,Harb
+12129,MECH,421,5,Manufacturing Processes I,3,EA,10,6,14:00,15:45,SRB,104,false,false,false,true,false,false,Mohammad S,Harb
+12130,MECH,421,6,Manufacturing Processes I,3,EA,18,-2,14:00,15:45,SRB,104,false,false,false,false,true,false,Mohammad S,Harb
+12133,MECH,436,1,Control Systems,3,EA,8,6,09:30,12:15,SRB,215,false,true,false,false,false,false,Dany,Abou Jaoude
+12134,MECH,436,2,Control Systems,3,EA,16,-2,12:30,15:15,SRB,302,false,false,false,true,false,false,Dany,Abou Jaoude
+12135,MECH,436,3,Control Systems,3,EA,7,7,12:30,15:15,SRB,207,false,false,false,false,true,false,Dany,Abou Jaoude
+12136,MECH,499,1,Undergraduate Research,3,EA,1,-1,.,.,.,.,false,false,false,false,false,false,Naseem,Daher
+12137,MECH,499,2,Undergraduate Research,3,EA,1,-1,.,.,.,.,false,false,false,false,false,false,Daniel,Asmar
+12138,MECH,499,3,Undergraduate Research,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12139,MECH,499,4,Undergraduate Research,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12140,MECH,499,5,Undergraduate Research,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12141,MECH,499,6,Undergraduate Research,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12142,MECH,501,1,Final Year Project I,1,EA,103,17,19:00,19:50,MAMC,ELH,false,false,false,true,false,false,Elie,Shammas
+12143,MECH,510,1,Design of Thermal Systems,3,EA,20,-4,08:00,08:50,BECHTA,111,true,false,true,false,true,false,Kamel,Aboughali
+12144,MECH,510,2,Design of Thermal Systems,3,EA,14,2,08:00,08:50,BECHTA,111,true,false,true,false,true,false,Kamel,Aboughali
+12145,MECH,510,3,Design of Thermal Systems,3,EA,20,-4,09:00,09:50,BECHTA,203,true,false,true,false,true,false,Kamel,Aboughali
+12146,MECH,510,4,Design of Thermal Systems,3,EA,15,1,09:00,09:50,BECHTA,203,true,false,true,false,true,false,Kamel,Aboughali
+12147,MECH,510,5,Design of Thermal Systems,3,EA,22,-6,09:30,10:45,BECHTA,107,false,true,false,true,false,false,Nesreene,Ghaddar
+12148,MECH,510,6,Design of Thermal Systems,3,EA,23,-7,09:30,10:45,BECHTA,107,false,true,false,true,false,false,Nesreene,Ghaddar
+12150,MECH,516,1,Aerodynamics,3,EA,19,11,11:00,12:15,BECHTA,208,false,true,false,true,false,false,Ghanem,Oweis
+12151,MECH,550,1,Computer Appl.in Mechanical En,3,EA,30,0,15:30,16:45,IOEC,402,true,false,true,false,false,false,Marwan,Darwish
+12152,MECH,624,1,Mechanics of Compos. Materials,3,EA,21,-6,14:00,15:15,BECHTA,212,true,false,true,false,false,false,Ramsey,Hamade
+12153,MECH,624,2,Mechanics of Compos. Materials,3,EA,2,3,14:00,15:15,BECHTA,212,true,false,true,false,false,false,Ramsey,Hamade
+12154,MECH,632,1,Structural Health Monitoring,3,EA,2,13,14:00,15:15,BECHTA,204,false,true,false,true,false,false,Samir,Mustapha
+12155,MECH,632,2,Structural Health Monitoring,3,EA,3,12,14:00,15:15,BECHTA,204,false,true,false,true,false,false,Samir,Mustapha
+12156,MECH,637,1,Micromechan.&Crystal Plastici,3,EA,16,-1,15:30,16:45,BECHTA,212,true,false,true,false,false,false,Mu'Tasem,Shehadeh
+12157,MECH,637,2,Micromechan.&Crystal Plastici,3,EA,2,13,15:30,16:45,BECHTA,212,true,false,true,false,false,false,Mu'Tasem,Shehadeh
+12158,MECH,642,1,Computer Vision,3,EA,12,3,14:00,15:15,BECHTA,109,false,true,false,true,false,false,Daniel,Asmar
+12159,MECH,642,2,Computer Vision,3,EA,5,10,14:00,15:15,BECHTA,109,false,true,false,true,false,false,Daniel,Asmar
+12160,MECH,653,1,System Analysis and Design,3,EA,8,7,14:00,15:15,BECHTA,211,true,false,true,false,false,false,Naseem,Daher
+12161,MECH,653,2,System Analysis and Design,3,EA,2,8,14:00,15:15,BECHTA,211,true,false,true,false,false,false,Naseem,Daher
+13126,MECH,657,1,Vehicle Dynamics and Control,3,EA,16,-1,15:30,16:45,MAMC,207,false,true,false,true,false,false,Naseem,Daher
+13127,MECH,657,2,Vehicle Dynamics and Control,3,EA,3,12,15:30,16:45,MAMC,207,false,true,false,true,false,false,Naseem,Daher
+13137,MECH,673E,1,Eff.Bldg.w.Good Indoor Air Qlt,3,EA,3,12,09:00,09:50,.,.,true,false,true,false,true,false,Nesreene,Ghaddar
+12162,MECH,674,1,Energy Economics and Policy,3,EA,37,-22,16:00,18:30,BECHTA,211,false,false,false,false,true,false,Hassan,Harajli
+12163,MECH,674,2,Energy Economics and Policy,3,EA,9,0,16:00,18:30,BECHTA,211,false,false,false,false,true,false,Hassan,Harajli
+13139,MECH,674E,1,Energy Economics and Policy,3,EA,3,12,11:00,11:50,.,.,true,false,true,false,true,false,Hassan,Harajli
+13138,MECH,677E,1,Refrigeration and Heat Pumps,3,EA,2,13,10:00,10:50,.,.,true,false,true,false,true,false,Kamel,Aboughali
+13140,MECH,682E,1,Princ.of Integrative Build.Des,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12164,MECH,691,1,Convex Optimization,3,EA,9,6,11:00,12:15,SRB,413,false,true,false,true,false,false,Dany,Abou Jaoude
+12165,MECH,691,2,Convex Optimization,3,EA,5,10,11:00,12:15,SRB,413,false,true,false,true,false,false,Dany,Abou Jaoude
+12166,MECH,761,1,Convection Heat Transfer,3,EA,15,5,15:30,16:45,MAMC,206,false,true,false,true,false,false,Nesreene,Ghaddar
+12169,MECH,788,1,Thesis in Applied Energy,7.14,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12170,MECH,788A,1,Thesis in Applied Energy,0,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12171,MECH,788B,1,Thesis in Applied Energy,0,EA,1,9,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12172,MECH,788C,1,Thesis in Applied Energy,0,EA,1,9,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12173,MECH,788D,1,Thesis in Applied Energ,1,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12174,MECH,796,1,Sp.Project in Mechanical Eng'g,3,EA,1,-1,.,.,.,.,false,false,false,false,false,false,Alissar,Yehya
+12175,MECH,796,2,Sp.Project in Mechanical Eng'g,3,EA,1,-1,.,.,.,.,false,false,false,false,false,false,Dany,Abou Jaoude
+12176,MECH,796,3,Sp.Project in Mechanical Eng'g,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12177,MECH,796,4,Sp.Project in Mechanical Eng'g,3,EA,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12178,MECH,797,1,Seminar,0,EA,51,19,12:30,13:59,BECHTA,202,false,true,false,false,false,false,Asghar,Aryanfar
+12179,MECH,799,1,Thesis in Mechanical Eng'g,7.14,EA,4,6,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12180,MECH,799A,1,Thesis,0,EA,3,7,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12181,MECH,799B,1,Thesis,0,EA,2,8,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12182,MECH,799C,1,Thesis,0,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12183,MECH,799D,1,Thesis,1,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12184,MECH,799T,1,Comprehensive Exam,0,EA,11,-1,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12185,MECH,799TR,1,Comprehensive Exam,0,EA,2,8,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12186,MECH,980,1,Qualifying Exam I:Compr.Exam,0,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12187,MECH,981,1,Qualif.Exam II:Def.ThesisProp,0,EA,4,6,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12188,MECH,982,1,PhD Thesis,3,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12189,MECH,982A,1,PhD Thesis,3,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12190,MECH,982B,1,PhD Thesis,3,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12191,MECH,982C,1,PhD Thesis,3,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12192,MECH,983,1,PhD Thesis,6,EA,2,8,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12193,MECH,983A,1,PhD Thesis,6,EA,2,8,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12194,MECH,983B,1,PhD Thesis,6,EA,2,8,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12195,MECH,984,1,PhD Thesis,9,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12196,MECH,984A,1,PhD Thesis,9,EA,1,9,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12197,MECH,984B,1,PhD Thesis,9,EA,0,10,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+13143,MECH,984C,1,PhD Thesis,9,EA,1,9,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12198,MECH,985,1,PhD Thesis,12,EA,3,7,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12199,MECH,986,1,PhD Thesis,0,EA,5,5,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12200,MECH,987,1,PhD Thesis Defense,0,EA,4,6,.,.,.,.,false,false,false,false,false,false,Issam,Lakkis
+12201,MEST,240,1,Introduction to Leb. Arabic,3,AS,3,-3,14:00,15:59,NICELY,406,true,false,false,false,false,false,Safaa,Ibrahim
+12202,MEST,241,1,Intermediate Lebanese Arabic,3,AS,4,0,14:00,15:59,ADAD,212,true,false,false,false,false,false,Yomna,Chami
+12203,MEST,242,1,Advanced Lebanese Arabic,3,AS,3,0,16:00,17:29,ADAD,212,true,false,true,false,false,false,Yomna,Chami
+12204,MEST,300,1,Making of the Modern Mid.East,3,AS,11,7,16:00,18:29,ADAD,212,false,false,false,false,true,false,Tariq,Tell
+13230,MEST,302AE,1,Tut:Gender&Political Particip.,3,AS,1,0,.,.,.,.,false,false,false,false,false,false,Lina,Abou Habib
+12205,MEST,321,1,Arab.as a Foreign Lang.I,3,AS,1,-1,11:30,12:59,ADAD,209,false,false,false,false,true,false,Rima,Sultani  Kanawaty
+12206,MEST,322,1,Arab.as a Foreign Lang. II,3,AS,1,0,10:00,11:59,ADAD,212,true,false,false,false,false,false,Rima,Sultani  Kanawaty
+12207,MEST,323,1,Arab as Foreign Lang.III,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12208,MEST,324,1,Arab.as A Foreign Lang.IV,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12209,MEST,325,1,Arab as Foreign Lang.V,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12210,MEST,327,1,Arab.as A Foreign Lang. VII,3,AS,1,0,12:00,13:29,ADAD,212,true,false,true,false,false,false,Rima,Semaan
+13104,MEST,329G,1,ST.Readings in Arab Literature,3,AS,1,0,14:00,15:15,REYNOL,533,true,false,true,false,false,false,Sina,Moukaled
+12211,MEST,340,1,Introd.to Lebanese Arabic,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12212,MEST,341,1,Intermediate Lebanese Arabic,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12213,MEST,342,1,Advanced Lebanese Arabic,3,AS,2,0,16:00,17:29,ADAD,212,true,false,true,false,false,false,Yomna,Chami
+13349,MEST,395A,1,Middle Eastern Stud.Compr.Exam,0,AS,2,-2,.,.,.,.,false,false,false,false,false,false,Sari,Hanafi
+13298,MEST,398,1,M.A.Middle Eastern Stu.Project,3,AS,1,4,.,.,.,.,false,false,false,false,false,false,Jamil,Mouawad
+12214,MEST,399,1,M.A. Middle Eastern Stu.Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samer,Frangie
+13117,MEST,399,2,M.A. Middle Eastern Stu.Thesis,7.2,AS,1,4,.,.,.,.,false,false,false,false,false,false,Mona,Harb
+13376,MEST,399,3,M.A. Middle Eastern Stu.Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Gregory Allen,Burris
+12215,MEST,399A,1,MEST Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Samer,Frangie
+12216,MEST,399A,2,MEST Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+13383,MEST,399A,3,MEST Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elizabeth,Matta Saleh
+13462,MEST,399A,4,MEST Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Gregory Allen,Burris
+12217,MEST,399B,1,MEST Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+12218,MEST,399B,2,MEST Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Blake Robert,Atwood
+13377,MEST,399B,3,MEST Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Coralie,Hindawi
+12219,MEST,399B,4,MEST Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Sara,Mourad
+13399,MEST,399C,1,MEST Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Ilham,Khuri-Makdisi
+12220,MEST,399C,2,MEST Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+13405,MEST,399C,3,MEST Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,May,Farah
+12221,MEST,399D,1,MEST Thesis,1,AS,0,1,.,.,.,.,false,false,false,false,false,false,Tariq,Tell
+13082,MEST,399F,1,Thesis,1,AS,1,-1,.,.,.,.,false,false,false,false,false,false,Sari,Hanafi
+13394,MEST,399F,2,Thesis,1,AS,1,0,.,.,.,.,false,false,false,false,false,false,Blake Robert,Atwood
+12222,MFIN,301,1,Financial Statement Analysis,3,SB,8,27,18:00,20:30,OSB,216,false,true,false,false,false,false,Mosbah,Majzoub
+12223,MFIN,301,2,Financial Statement Analysis,3,SB,24,11,15:00,17:30,OSB,216,false,true,false,false,false,false,Mosbah,Majzoub
+12224,MFIN,303,1,Structured Finance,3,SB,25,10,15:30,17:59,OSB,334,false,false,true,false,false,false,Assem,Safieddine
+12225,MFIN,303,2,Structured Finance,3,SB,11,24,18:00,20:30,OSB,334,false,false,true,false,false,false,Assem,Safieddine
+12226,MFIN,305,1,Quantitave Methods of Finance,3,SB,23,7,15:00,17:30,OSB,334,true,false,false,false,false,false,Ibrahim,Jamali
+12227,MFIN,305,2,Quantitave Methods of Finance,3,SB,11,24,18:00,20:30,OSB,334,true,false,false,false,false,false,Ibrahim,Jamali
+12228,MFIN,306,1,Portfolio Management,3,SB,22,13,15:00,17:30,OSB,.,false,false,false,true,false,false,Neveen,Ahmed
+12229,MFIN,306,2,Portfolio Management,3,SB,12,23,18:30,21:00,OSB,227,false,false,false,true,false,false,Neveen,Ahmed
+12230,MFIN,399,1,Applied Investment Management,3,SB,7,13,13:00,15:30,OSB,226,false,false,false,false,true,false,Nadim,Kabbara
+12231,MHRM,301,1,Managing the Recruitment Proc.,3,SB,26,0,18:00,20:30,OSB,241,false,false,true,false,false,false,Yasmeen,Makarem
+12232,MHRM,302,1,Human Capital Traini&Developm,3,SB,15,10,18:00,20:30,OSB,340,false,false,true,false,false,false,Lina,Daouk-Oyry
+12233,MHRM,305,1,Leadership &Behav. in Organiza,3,SB,29,2,18:00,20:30,OSB,230,false,true,false,false,false,false,Rida,Elias
+13220,MHRM,310,1,Final Field Project-Hussein D.,3,SB,1,0,.,.,.,.,false,false,false,false,false,false,Yasmeen,Makarem
+13387,MHRM,310,2,Final Field Project-Anas Kh,3,SB,1,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12234,MHRM,311,1,HR Analytics,3,SB,15,5,18:00,20:30,OSB,340,true,false,false,false,false,false,Mona,Zoughaib
+12235,MHRM,312,1,HR Consulting Management,3,SB,14,6,18:00,20:30,OSB,333,false,false,false,true,false,false,Rawia,Kaissi
+12236,MIMG,201,1,Introd. to Medical Imaging,2,HS,18,2,10:30,11:20,VANDYK,201,false,true,false,true,false,false,Salem,Hannoun
+12237,MIMG,203,1,Medical Imaging Equipment I,3,HS,10,2,12:30,13:45,VANDYK,103,false,true,false,true,false,false,Salem,Hannoun
+12238,MIMG,207,1,Principle of Imaging II,3,HS,8,4,08:30,09:45,VANDYK,103,false,true,false,true,false,false,Hanane,Merhi
+12239,MKTG,210,1,Principles of Marketing,3,SB,34,1,08:00,09:15,OSB,216,false,true,false,true,false,false,Michel,Kfouri
+12240,MKTG,210,2,Principles of Marketing,3,SB,34,1,09:30,10:45,OSB,233,false,true,false,true,false,false,Hounaida,El Jurdi
+12241,MKTG,210,3,Principles of Marketing,3,SB,35,0,11:00,12:15,OSB,233,false,true,false,true,false,false,Abeer,Rawas
+12242,MKTG,210,4,Principles of Marketing,3,SB,37,-2,14:00,15:15,OSB,230,false,true,false,true,false,false,Zeina,Harfoush
+12243,MKTG,210,5,Principles of Marketing,3,SB,0,0,17:00,18:15,OSB,.,true,false,true,false,false,false,.,STAFF
+12244,MKTG,210,6,Principles of Marketing,3,SB,27,8,08:00,09:15,OSB,216,true,false,true,false,false,false,Michel,Kfouri
+12245,MKTG,210,7,Principles of Marketing,3,SB,33,2,11:00,12:15,OSB,226,true,false,true,false,false,false,Lama,Halwani
+12246,MKTG,210,8,Principles of Marketing,3,SB,35,0,14:00,15:15,OSB,230,true,false,true,false,false,false,Lama,Halwani
+12247,MKTG,225,1,Brand Strategy & Communication,3,SB,41,-1,12:30,13:45,OSB,236,true,false,true,false,false,false,Leila,Khauli Hanna
+12248,MKTG,227,1,Digital Management,3,SB,30,0,14:00,15:15,OSB,236,true,false,true,false,false,false,Leila,Khauli Hanna
+12249,MKTG,231,1,Customer Experience Design,3,SB,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12250,MKTG,240,1,Consumer Behavior,3,SB,35,0,09:30,10:45,OSB,216,false,true,false,true,false,false,Michel,Kfouri
+12251,MKTG,240,2,Consumer Behavior,3,SB,27,8,09:30,10:45,OSB,216,true,false,true,false,false,false,Michel,Kfouri
+13020,MKTG,250J,1,Digit.Content Creation for Bus,3,SB,40,0,14:00,15:15,OSB,238,false,true,false,true,false,false,Romy,Saber
+12252,MKTG,250K,1,Ethics of Crisis Communication,3,SB,40,0,15:30,16:45,OSB,238,false,true,false,true,false,false,Sally,Hammoud
+12253,MKTG,250L,1,Luxury&Fashion Brand Marketing,3,SB,41,-1,09:30,10:45,OSB,226,true,false,true,false,false,false,Manal,Khater
+13379,MKTG,251B,1,Advertisng&Creative Strateg.II,1.5,SB,1,0,.,.,.,.,false,false,false,false,false,false,Zeina,Harfoush
+12254,MKTG,306,1,Marketing Management,3,SB,26,14,18:00,20:30,OSB,241,true,false,false,false,false,false,Muhammad,Aljukhadar
+10002,MKTG,306,9,Marketing Management,3,SB,14,26,.,.,.,.,false,false,false,false,false,false,Muhammad,Aljukhadar
+12255,MLSP,201,1,Clinical Hematology I,3,HS,37,6,14:00,15:15,VANDYK,AUDT,true,false,true,false,false,false,Rula Alkhatib,Al-Jamal
+12256,MLSP,203,B1,General Microbiology,0,HS,26,-5,09:00,10:59,VANDYK,403,false,true,true,false,false,false,Mirna,Bou Hamdan
+12257,MLSP,203,B2,General Microbiology,0,HS,11,11,11:00,12:59,VANDYK,403,false,true,true,false,false,false,Mirna,Bou Hamdan
+12258,MLSP,203,L,General Microbiology,3,HS,37,6,09:00,09:50,VANDYK,AUDT,true,false,false,false,false,false,Mirna,Bou Hamdan
+12259,MLSP,207,1,Immunology & Blood Banking,2,HS,36,9,13:00,13:50,VANDYK,AUDT,false,true,false,true,false,false,Rula Alkhatib,Al-Jamal
+12260,MLSP,208,1,General & Diagnostic Virology,2,HS,36,9,13:00,13:50,VANDYK,201,true,false,true,false,false,false,Nada,Melhem
+12261,MNGT,215,1,Fundam.of Managmt.&Organ.Behav,3,SB,40,-5,11:00,12:15,OSB,233,true,false,true,false,false,false,Mahmoud,El-Bizri
+12262,MNGT,215,2,Fundam.of Managmt.&Organ.Behav,3,SB,33,2,12:30,13:45,OSB,216,true,false,true,false,false,false,Hagop,Panossian
+12263,MNGT,215,3,Fundam.of Managmt.&Organ.Behav,3,SB,37,-2,14:00,15:15,OSB,216,true,false,true,false,false,false,Hagop,Panossian
+12264,MNGT,215,4,Fundam.of Managmt.&Organ.Behav,3,SB,34,1,14:00,15:15,OSB,241,false,true,false,true,false,false,Hanin,Abdallah
+12265,MNGT,215,5,Fundam.of Managmt.&Organ.Behav,3,SB,0,0,09:30,10:45,OSB,.,true,false,true,false,false,false,.,STAFF
+12266,MNGT,215,6,Fundam.of Managmt.&Organ.Behav,3,SB,35,0,11:00,12:15,OSB,230,false,true,false,true,false,false,Hanin,Abdallah
+12267,MNGT,215,7,Fundam.of Managmt.&Organ.Behav,3,SB,38,-3,12:30,13:45,OSB,230,false,true,false,true,false,false,Hanin,Abdallah
+12268,MNGT,215,8,Fundam.of Managmt.&Organ.Behav,3,SB,0,0,15:30,16:45,OSB,.,false,true,false,true,false,false,.,STAFF
+12269,MNGT,220,1,Human Resource Management,3,SB,41,-6,12:30,13:45,OSB,236,false,true,false,true,false,false,Elizabeth,Kassab
+12270,MNGT,231,1,Judgment & Decision Making,3,SB,39,-4,14:00,15:15,OSB,226,true,false,true,false,false,false,Riad,Dimechkie
+12271,MNGT,250P,1,Strategic Managmnt of Innovat.,3,SB,0,0,15:30,18:00,OSB,216,false,false,true,false,false,false,.,STAFF
+12272,MNGT,250Q,1,Performance Managnt &Compensat,3,SB,22,13,17:00,18:15,OSB,334,false,true,false,true,false,false,Yasmeen,Makarem
+12273,MNGT,306,1,Leadershp &Behavior in Organiz,3,SB,44,1,18:00,20:30,OSB,227,false,true,false,false,false,false,Lina,Daouk-Oyry
+10004,MNGT,306,9,Leadershp &Behavior in Organiz,3,SB,7,33,.,.,.,.,false,false,false,false,false,false,Yusuf,Sidani
+13080,MNGT,350AD,1,Strategic Brand Management,3,SB,9,31,17:00,19:30,OSB,236,false,false,true,false,false,false,Leila,Khauli Hanna
+13081,MNGT,350AD,9,Strategic Brand Management,3,SB,3,47,.,.,.,.,false,false,false,false,false,false,Leila,Khauli Hanna
+12274,MSBA,000,1,Bootcamp & Orientation,0,SB,79,11,.,.,.,.,false,false,false,false,false,false,Krzysztof,Fleszar
+12275,MSBA,300,1,Business Understanding,3,SB,35,10,18:00,20:45,OSB,211,false,false,false,true,false,false,Bijan,Azad
+12276,MSBA,300,2,Business Understanding,3,SB,46,-1,11:00,13:45,OSB,211,false,false,false,true,false,false,Bijan,Azad
+12277,MSBA,305,1,Data Processing Framework,3,SB,46,-1,14:00,16:45,OSB,211,false,true,false,false,false,false,Elie,Semaan Nasr
+12278,MSBA,310,1,Applied Statistical Analysis,3,SB,35,10,18:00,20:45,OSB,211,true,false,false,false,false,false,Imad,Bou-Hamad
+12279,MSBA,310,2,Applied Statistical Analysis,3,SB,46,-1,14:00,16:45,OSB,211,true,false,false,false,false,false,Imad,Bou-Hamad
+12280,MSBA,320,1,Optimization & Simulation,3,SB,21,24,18:00,20:45,OSB,211,false,false,true,false,false,false,Krzysztof,Fleszar
+12281,MSBA,320,2,Optimization & Simulation,3,SB,46,-1,11:00,13:45,OSB,211,false,false,true,false,false,false,Walid,Nasr
+12282,MSBA,325,1,Data Visualization &Communicat,3,SB,20,25,18:00,20:45,OSB,211,false,true,false,false,false,false,Fouad,Zablith
+13362,MSBA,390A,1,Capstone Project-Yassar H,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13371,MSBA,390A,10,Capstone Project-Leen El M.,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13372,MSBA,390A,11,Capstone Project-Ghida El Ch.,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Bijan,Azad
+13373,MSBA,390A,12,Capstone Project-Nour Chaccour,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13388,MSBA,390A,13,Capstone Project-Vera Sh,0,SB,0,1,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13363,MSBA,390A,2,Capstone Project-Ibrahim Al Ba,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13364,MSBA,390A,3,Capstone Project-Kenan H,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13365,MSBA,390A,4,Capstone Project-Karim Al M,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13366,MSBA,390A,5,Capstone Project-Emily El H,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13367,MSBA,390A,6,Capstone Project-Jospeh El Kh,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13368,MSBA,390A,7,Capstone Project-Anthony-Joe Z,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13369,MSBA,390A,8,Capstone Project-Jihad H.,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13370,MSBA,390A,9,Capstone Project-Anna Maria A.,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13357,MSBA,395,1,Thesis Project-Fabienne K-4,1,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13358,MSBA,395,2,Thesis Project-Patricia T-3,1,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wissam,Sammouri
+13359,MSBA,395,3,Thesis Project-Rosa Azar,1,SB,1,0,.,.,.,.,false,false,false,false,false,false,Imad,Bou-Hamad
+13360,MSBA,395,4,Thesis Project-Jaafar Hoteit,6,SB,1,0,.,.,.,.,false,false,false,false,false,false,Imad,Bou-Hamad
+13393,MSBA,395,5,Thesis Project-Kenny B,0,SB,1,0,.,.,.,.,false,false,false,false,false,false,Wael,Khreich
+12283,MSCU,201,1,Coastal &Marine Env.:Intr.Crs,3,AS,25,0,09:30,10:45,NICELY,318,false,true,false,true,false,false,Naseem,Raad
+12284,MUSC,200,1,Elements & Notation of Music,3,AS,20,3,09:00,09:50,NICELY,B2,true,false,true,false,true,false,Joelle,Garro El Khoury
+12285,MUSC,220,1,Western Musical Traditions I,3,AS,24,-1,15:30,16:45,NICELY,202,false,true,false,true,false,false,Maya Berta,Maalouf
+12286,MUSC,225,1,Music Appreciat:Histor.Survey,3,AS,23,0,10:00,10:50,NICELY,B2,true,false,true,false,true,false,Joelle,Garro El Khoury
+12287,MUSC,230,1,Intr.to the World of Opera,3,AS,22,1,12:00,12:50,NICELY,B2,true,false,true,false,true,false,Joelle,Garro El Khoury
+12288,MUSC,230,2,Intr.to the World of Opera,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12289,MUSC,235,1,Listening to Jazz,3,AS,26,-4,11:00,12:15,NICELY,B2,false,true,false,true,false,false,Gheith,Al-Amine
+12290,MUSC,250,1,Arabic & Middle Eastern Music,3,AS,23,0,09:30,10:45,NICELY,409,false,true,false,true,false,false,Rima,Khcheich

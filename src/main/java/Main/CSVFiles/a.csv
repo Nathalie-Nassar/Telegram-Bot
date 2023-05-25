@@ -1,0 +1,229 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+10006,ACCT,210,1,Financial Accounting,3,SB,40,0,09:30,10:45,OSB,230,true,false,true,false,false,false,Bassima,Hout
+10007,ACCT,210,10,Financial Accounting,3,SB,39,1,14:00,15:15,OSB,227,false,true,false,true,false,false,Abdeljalil,Ghanem
+10008,ACCT,210,2,Financial Accounting,3,SB,39,1,11:00,12:15,OSB,216,true,false,true,false,false,false,Sana,El Hajj
+10009,ACCT,210,3,Financial Accounting,3,SB,40,0,12:30,13:45,OSB,233,true,false,true,false,false,false,Sana,El Hajj
+10010,ACCT,210,4,Financial Accounting,3,SB,40,0,15:30,16:45,OSB,226,true,false,true,false,false,false,Ali,Charif
+10011,ACCT,210,5,Financial Accounting,3,SB,34,6,15:30,16:45,OSB,233,false,true,false,true,false,false,Abdeljalil,Ghanem
+10012,ACCT,210,6,Financial Accounting,3,SB,38,2,17:00,18:15,OSB,233,false,true,false,true,false,false,Abdeljalil,Ghanem
+10013,ACCT,210,7,Financial Accounting,3,SB,37,3,09:30,10:45,OSB,227,false,true,false,true,false,false,Bassima,Hout
+10014,ACCT,210,8,Financial Accounting,3,SB,38,2,11:00,12:15,OSB,238,false,true,false,true,false,false,Bassima,Hout
+10015,ACCT,210,9,Financial Accounting,3,SB,38,2,12:30,13:45,OSB,241,false,true,false,true,false,false,Sana,El Hajj
+10016,ACCT,215,1,Management Accounting,3,SB,34,-4,09:30,10:45,OSB,233,true,false,true,false,false,false,Antoine,Wakim
+10017,ACCT,215,2,Management Accounting,3,SB,38,-8,12:30,13:45,OSB,241,true,false,true,false,false,false,Rania,Uwaydah Mardini
+10018,ACCT,215,3,Management Accounting,3,SB,37,-7,11:00,12:15,OSB,227,false,true,false,true,false,false,Mohamad,Mazboudi
+10019,ACCT,215,4,Management Accounting,3,SB,36,-6,12:30,13:45,OSB,227,false,true,false,true,false,false,Mohamad,Mazboudi
+10020,ACCT,221,1,Intermed. Financial Account. I,3,SB,7,28,11:00,12:15,OSB,230,true,false,true,false,false,false,Bassima,Hout
+10021,ACCT,223,1,Intermed.Financial Account.II,3,SB,18,17,12:30,13:45,OSB,233,false,true,false,true,false,false,Abdeljalil,Ghanem
+10022,ACCT,231,1,Fraud Examinat.&Internal Audit,3,SB,14,21,09:30,10:45,OSB,241,false,true,false,true,false,false,Rania,Uwaydah Mardini
+10023,ACCT,250R,1,Financial Statements Analysis,3,SB,14,1,14:00,15:15,OSB,241,true,false,true,false,false,false,Rania,Uwaydah Mardini
+10024,ACCT,301,1,Finan.Reporting & Analysis,3,SB,38,4,18:00,20:30,OSB,230,false,false,false,true,false,false,Rania,Uwaydah Mardini
+10001,ACCT,301,9,Finan.Reporting & Analysis,3,SB,9,31,.,.,.,.,false,false,false,false,false,false,Rania,Uwaydah Mardini
+10025,AGBU,211,1,Intr.to Agric.Issues &Policies,3,AG,22,18,12:00,12:50,AGRIC,211,true,false,true,false,true,false,Youssef,Doughan
+10026,AGBU,213,1,Legal Aspects of Agribusiness,3,AG,13,7,09:00,09:50,AGRIC,211,true,false,true,false,true,false,Hachem,El Housseini
+10027,AGBU,236,1,New Trends in Agr.&Food System,3,AG,6,9,10:00,10:50,AGRIC,209,true,false,true,false,true,false,Youssef,Doughan
+10028,AGBU,239,1,Agribusin.Comm.Skills Workshop,0,AG,15,5,14:00,15:59,AGRIC,209,false,false,true,false,false,false,Rachel Anne,Bahn
+13267,AGBU,240,1,Career Plann.Worksh.for Agribu,0,AG,11,1,09:00,09:50,.,.,false,false,false,false,false,true,Makram,Bou Nassar
+10029,AGSC,201,1,Orientat.to Agr.& Food Systems,2,AG,31,-6,12:00,12:50,AGRIC,203,false,true,false,true,false,false,Lina,Jaber
+10030,AGSC,204,1,Natural Scien. for Agribusin.,3,AG,20,-5,09:00,09:50,AGRIC,310,false,true,false,true,false,false,Hana,Sobh
+10031,AGSC,205,1,The Food Odyssey,3,AG,50,-20,12:30,13:45,AGRIC,102,true,false,true,false,false,false,Shady,Hamadeh
+10032,AGSC,207,1,Land and Water Resources,3,AG,18,7,10:00,10:50,AGRIC,325,false,true,false,true,false,false,Sandra,Yanni
+10033,AGSC,212,1,Microecono.Th.of Food& Farming,3,AG,32,-12,11:00,11:50,AGRIC,205,true,false,true,false,false,false,Ali,Chalak
+13237,AGSC,212,2,Microecono.Th.of Food& Farming,3,AG,10,0,11:00,11:50,.,.,true,false,true,false,true,false,Youssef,Doughan
+10034,AGSC,219,1,Apiculture,3,AG,10,2,13:00,13:50,AGRIC,203,false,true,false,true,false,false,Rami,Ollaik
+10035,AGSC,220,1,Principles of Plant Physiology,3,AG,25,-5,10:00,10:50,.,.,true,false,true,false,false,false,Walid,El Kayal
+10036,AGSC,230,1,Crop Systems,3,AG,29,1,10:00,11:15,AGRIC,203,false,false,false,false,true,false,Mustapha,Haidar
+10037,AGSC,233,1,Plant Health I,3,AG,25,0,11:00,11:50,AGRIC,211,false,true,false,true,false,false,Youssef,Abou Jawdeh
+10038,AGSC,234,1,Chemicals in Agriculture,3,AG,19,1,09:00,10:15,AGRIC,203,false,true,false,true,false,false,Youssef,Abou Jawdeh
+10039,AGSC,249,1,GIS for Agriculture,3,AG,15,10,09:00,09:50,.,.,false,true,false,true,false,false,Hadi,Jaafar
+10040,AGSC,252,1,Conservative Agriculture,3,AG,20,0,12:00,13:15,AGRIC,211,false,true,false,true,false,false,Sandra,Yanni
+10041,AGSC,257,1,Emerg.Iss.in Ag.Netw.w.Pr.Sect,1,AG,13,7,13:00,13:50,.,.,false,false,false,true,false,false,Hana,Sobh
+10042,AGSC,265,1,Soil Fertility,3,AG,10,5,11:00,12:30,AGRIC,203,false,false,true,false,false,false,Isam,Bashour
+13269,AGSC,299,1,Sp.Tp.in Agricultural Science,2,AG,1,3,.,.,.,.,false,false,false,false,false,false,Walid,El Kayal
+13346,AGSC,300A,1,Graduate Tutorial,1,AG,1,1,.,.,.,.,false,false,false,false,false,false,Rami,Zurayk
+10043,AGSC,300B,1,Graduate Tutorial,2,AG,0,2,.,.,.,.,false,false,false,false,false,false,Youssef,Abou Jawdeh
+13319,AGSC,307,1,Advanced Crop Production,3,AG,4,5,09:00,11:55,.,.,false,false,true,false,false,false,Walid,El Kayal
+10044,AGSC,308,1,Plant Tiss.Cult.&Crop Improvem,3,AG,0,10,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13173,AGSC,310,1,Advanced Soil Physics,3,AG,6,4,14:00,16:50,.,.,false,false,false,true,false,false,Hadi,Jaafar
+10045,AGSC,324,1,Method:Soil&Plant Tissue Analy,3,AG,7,3,10:00,11:55,AGRIC,310,false,false,false,false,true,false,Isam,Bashour
+10046,AGSC,334,0,Remote Sensing of the Environm,3,AG,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13235,AGSC,376,1,Resource & Environmental Econo,3,AG,4,6,14:15,15:29,.,.,false,true,false,false,false,false,Ali,Chalak
+10047,AGSC,388,1,Integrated Pest Management,3,AG,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13236,AGSC,389,1,Research Methods in Appl.Econ,3,AG,0,10,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10048,AGSC,395,1,Graduate Seminar in AGSC,1,AG,5,0,13:00,13:50,AGRIC,325,false,true,false,false,false,false,Lina,Jaber
+10049,AGSC,396,1,Comprehensive Exam,0,AG,0,5,.,.,.,.,false,false,false,false,false,false,Youssef,Abou Jawdeh
+10050,AGSC,396,2,Comprehensive Exam,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Walid,El Kayal
+10051,AGSC,396,3,Comprehensive Exam,0,AG,2,1,.,.,.,.,false,false,false,false,false,false,Hadi,Jaafar
+13337,AGSC,396,4,Comprehensive Exam,0,AG,1,1,.,.,.,.,false,false,false,false,false,false,Ali,Chalak
+10052,AGSC,399,1,MS Thesis,7.21,AG,0,3,.,.,.,.,false,false,false,false,false,false,Walid,El Kayal
+10053,AGSC,399,2,MS Thesis,7.21,AG,0,3,.,.,.,.,false,false,false,false,false,false,Youssef,Abou Jawdeh
+10054,AGSC,399,3,MS Thesis,7.21,AG,1,4,.,.,.,.,false,false,false,false,false,false,Ali,Chalak
+10055,AGSC,399A,1,MS Thesis,0,AG,0,3,.,.,.,.,false,false,false,false,false,false,Walid,El Kayal
+10056,AGSC,399A,2,MS Thesis,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Youssef,Abou Jawdeh
+10057,AGSC,399A,3,MS Thesis,0,AG,3,0,.,.,.,.,false,false,false,false,false,false,Hadi,Jaafar
+13408,AGSC,399A,4,MS Thesis,0,AG,1,1,.,.,.,.,false,false,false,false,false,false,Mustapha,Haidar
+10058,AGSC,399B,1,MS Thesis,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Hadi,Jaafar
+10059,AGSC,399B,2,MS Thesis,0,AG,0,3,.,.,.,.,false,false,false,false,false,false,Ali,Chalak
+10060,AGSC,399B,3,MS Thesis,0,AG,1,4,.,.,.,.,false,false,false,false,false,false,Youssef,Abou Jawdeh
+13121,AGSC,399B,4,MS Thesis,0,AG,1,2,.,.,.,.,false,false,false,false,false,false,Walid,El Kayal
+13129,AGSC,399B,5,MS Thesis,0,AG,1,1,.,.,.,.,false,false,false,false,false,false,Isam,Bashour
+13156,AGSC,399C,1,MS Thesis,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Hadi,Jaafar
+13351,AGSC,399C,2,MS Thesis,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Youssef,Abou Jawdeh
+10061,AGSC,399D,1,MS Thesis,1,AG,0,2,.,.,.,.,false,false,false,false,false,false,Youssef,Abou Jawdeh
+13289,AGSC,399F,1,MS Thesis,1,AG,1,3,.,.,.,.,false,false,false,false,false,false,Youssef,Abou Jawdeh
+10062,AHIS,150,1,Intr.to Art History for Freshm,3,AS,23,-1,12:30,13:45,NICELY,202,true,false,true,false,false,false,Joseph Richard,Hammond
+13050,AHIS,207,1,Early Islamic Art &Architectur,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10065,AHIS,225,1,Art Now,3,AS,25,-2,11:00,12:15,NICELY,202,false,true,false,true,false,false,Rayya,Badran
+10066,AHIS,226,1,Art After the Lebanese Wars,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10067,AHIS,227,1,Sound in Visual Culture,3,AS,26,-3,12:30,13:45,NICELY,B2,false,true,false,true,false,false,Rayya,Badran
+10068,AHIS,249I,1,ST: Feminist Art History,3,AS,11,14,14:00,15:15,NICELY,202,true,false,true,false,false,false,Joseph Richard,Hammond
+10069,AHIS,251,1,Theories of Modern Art,3,AS,18,2,14:00,15:15,NICELY,202,false,true,false,true,false,false,Anzhela,Harutyunyan
+10070,AHIS,252,1,Contemporary Art and Theory,3,AS,16,1,13:00,15:30,NICELY,202,false,false,false,false,true,false,Octavian,Esanu
+10071,AHIS,301,1,Sem:Practices of Art History,3,AS,4,11,15:30,17:50,NICELY,101,false,true,false,false,false,false,Anzhela,Harutyunyan
+10072,AHIS,311,1,Iss.Contemporary Art &Th.,3,AS,6,-1,13:00,15:30,NICELY,202,false,false,false,false,true,false,Octavian,Esanu
+13389,AHIS,313A,1,Tut.Feminist Art History,3,AS,1,-1,.,.,.,.,false,false,false,false,false,false,Joseph Richard,Hammond
+10073,AHIS,395A,1,Comprehensive Exam,0,AS,3,0,.,.,.,.,false,false,false,false,false,false,Anzhela,Harutyunyan
+10074,AHIS,399,1,Graduate Thesis & Exhibition,7.2,AS,0,3,.,.,.,.,false,false,false,false,false,false,Hala,Auji
+10075,AHIS,399,2,Graduate Thesis & Exhibition,7.2,AS,1,2,.,.,.,.,false,false,false,false,false,false,Anzhela,Harutyunyan
+10076,AHIS,399A,1,Graduate Thesis & Exhibition,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Hala,Auji
+10077,AHIS,399A,2,Graduate Thesis & Exhibition,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Anzhela,Harutyunyan
+10078,AHIS,399B,1,Graduate Thesis & Exhibition,0,AS,1,2,.,.,.,.,false,false,false,false,false,false,Hala,Auji
+10079,AHIS,399B,2,Graduate Thesis & Exhibition,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Anzhela,Harutyunyan
+10080,AHIS,399C,1,Graduate Thesis & Exhibition,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Hala,Auji
+10081,AHIS,399C,2,Graduate Thesis & Exhibition,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Anzhela,Harutyunyan
+10082,AMST,215,1,Intr. To American Studies,3,AS,24,-4,12:30,13:45,NICELY,323,false,true,false,true,false,false,Suzanne,Enzerink
+10083,AMST,275AV,1,ST: Intr. to Photojournalism,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10084,AMST,275AW,1,ST: Journalism and Society,3,AS,2,3,15:30,16:45,NICELY,410,true,false,true,false,false,false,Rabie,Barakat
+10085,AMST,275M,1,Sp.Tp:Drama,3,AS,1,4,15:30,16:45,NICELY,321,true,false,true,false,false,false,Robert,Myers
+10086,ARAB,101,1,Readings in Arabic Heritage I,3,AS,24,-1,09:30,10:45,NICELY,320,false,true,false,true,false,false,Tarif,Bazzi
+10087,ARAB,201,1,Issues in Contempor.Arab Cult.,3,AS,23,0,08:00,09:15,REYNOL,533,false,true,false,true,false,false,Raghda,Nahas El-Zein
+10088,ARAB,201,2,Issues in Contempor.Arab Cult.,3,AS,23,0,09:30,10:45,REYNOL,533,false,true,false,true,false,false,Raghda,Nahas El-Zein
+10089,ARAB,201,3,Issues in Contempor.Arab Cult.,3,AS,21,2,11:00,12:15,REYNOL,533,false,true,false,true,false,false,Raghda,Nahas El-Zein
+10090,ARAB,201,4,Issues in Contempor.Arab Cult.,3,AS,24,-1,14:00,15:15,REYNOL,533,true,false,true,false,false,false,Sina,Moukaled
+10091,ARAB,201,5,Issues in Contempor.Arab Cult.,3,AS,23,0,15:30,16:45,REYNOL,533,true,false,true,false,false,false,Sina,Moukaled
+10092,ARAB,201,6,Issues in Contempor.Arab Cult.,3,AS,24,-1,12:30,13:45,REYNOL,533,true,false,true,false,false,false,Sina,Moukaled
+10094,ARAB,202,1,Arab Technical Writing,3,AS,20,0,13:00,13:50,NICELY,107,true,false,true,false,true,false,Samir,Malti
+10095,ARAB,202,2,Arab Technical Writing,3,AS,21,-1,11:00,11:50,NICELY,107,true,false,true,false,true,false,Samir,Malti
+10096,ARAB,202,3,Arab Technical Writing,3,AS,20,0,12:00,12:50,NICELY,107,true,false,true,false,true,false,Samir,Malti
+10097,ARAB,203,1,Beg Arab as Foreign Lang. I,3,AS,11,0,12:00,13:59,ADAD,209,true,false,false,false,false,false,Rima,Sultani  Kanawaty
+10098,ARAB,204,1,Beg Arabic as Foreign Lang II,3,AS,7,-1,10:00,11:59,ADAD,212,true,false,false,false,false,false,Rima,Sultani  Kanawaty
+10099,ARAB,205,1,Interm Arab as Foreign LangIII,3,AS,3,-2,08:00,09:59,ADAD,212,true,false,false,false,false,false,Rima,Semaan
+10100,ARAB,206,1,Interm Arab as Foreign Lang IV,3,AS,4,-1,10:00,11:59,ADAD,209,true,false,false,false,false,false,Rima,Semaan
+10101,ARAB,207,1,Advan.Arab.as Foreign Lang.I,3,AS,2,0,09:30,10:45,ADAD,212,false,true,false,true,false,false,Rima,Sultani  Kanawaty
+10102,ARAB,209,1,Adv.Arab.as Foreign Lang.III,3,AS,2,0,12:00,13:29,ADAD,212,true,false,true,false,false,false,Rima,Semaan
+10103,ARAB,210A,1,Writing Prose,3,AS,13,-3,15:30,18:00,NICELY,105,false,true,false,false,false,false,Rachid,El Daif
+13147,ARAB,210A,2,Writing Prose,3,AS,11,-1,15:30,18:00,NICELY,108,false,false,true,false,false,false,Rachid,El Daif
+10104,ARAB,211,1,Survey of Arabic Grammar,3,AS,25,0,11:00,12:15,NICELY,101,false,true,false,true,false,false,Tarif,Bazzi
+10107,ARAB,223,1,Media Arabic,3,AS,19,1,12:30,13:45,NICELY,108,true,false,true,false,false,false,Jihad,El Mallah
+10110,ARAB,230,1,Themes & Genres of Arab Lit.,3,AS,23,0,17:00,18:15,REYNOL,533,true,false,true,false,false,false,Sina,Moukaled
+10113,ARAB,235,1,Andalusian Literature,3,AS,24,-1,11:00,12:15,NICELY,105,false,true,false,true,false,false,Maher,Jarrar
+10114,ARAB,236,1,Qur'anic Studies,3,AS,18,-3,15:30,17:59,NICELY,101,true,false,false,false,false,false,Radwan,El Sayed Ahmad
+10115,ARAB,237,1,Modern Arabic Poetry I,3,AS,24,1,15:30,16:45,NICELY,206,false,true,false,true,false,false,Jawdat,Fakhreddine
+10118,ARAB,244,1,Muslim Schools of Theology,3,AS,26,-1,14:00,15:15,NICELY,101,true,false,true,false,false,false,Radwan,El Sayed Ahmad
+10119,ARAB,245,1,Backgrnd Stud Mod Arab Litr I,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+10120,ARAB,249,1,Sufi Literature,3,AS,21,0,15:30,16:44,NICELY,107,true,false,true,false,false,false,Riccardo,Paredi
+10121,ARAB,251AA,1,Sp.Tp: Society in Literature,3,AS,22,1,10:00,10:50,NICELY,107,true,false,true,false,true,false,Samir,Malti
+10122,ARAB,251AF,1,ST History in Literature,3,AS,22,1,12:30,13:45,NICELY,101,false,true,false,true,false,false,Zeina,Halabi
+10124,ARAB,251AN,1,ST: Translation of Poetry,3,AS,8,0,17:00,18:15,NICELY,410,false,true,false,true,false,false,Rula,Baalbaki
+10125,ARAB,251AP,1,ST:Women Writers of Mid.East,3,AS,25,0,17:00,18:15,NICELY,107,false,true,false,true,false,false,Alireza,Korangy
+10126,ARAB,251AR,1,S.T:Satire in Arab literature,3,AS,23,0,14:00,15:15,NICELY,411,false,true,false,true,false,false,Maha,Abdelmegeed
+10127,ARAB,251W,1,Sp.Tp: Nahda in periodicals,3,AS,24,-1,12:30,13:45,REYNOL,533,false,true,false,true,false,false,Raghda,Nahas El-Zein
+10128,ARAB,254,1,The City in Arabic Literature,3,AS,23,0,15:30,16:45,NICELY,412,false,true,false,true,false,false,Zeina,Halabi
+10130,ARAB,303N,1,Sm.Visual&Literay Islamic West,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13238,ARAB,303O,1,GS:Approaches to Style& Voice,3,AS,6,4,17:00,19:30,COLL,406,false,false,false,true,false,false,Maha,Abdelmegeed
+10131,ARAB,317B,1,Grd.Sem:Adv.Semetics Or Lingui,3,AS,8,2,17:30,20:00,COLL,406,false,true,false,false,false,false,Ramzi,Baalbaki
+13333,ARAB,390X,1,Tut Jahliya in Arab.Lit.,3,AS,1,0,.,.,.,.,false,false,false,false,false,false,Bilal,Orfali
+13348,ARAB,390Y,1,Tut.Arab.Lexicographical texts,3,AS,1,0,.,.,.,.,false,false,false,false,false,false,Ramzi,Baalbaki
+10132,ARAB,395A,1,Comprehensive Exam,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,Bilal,Orfali
+10133,ARAB,399,1,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Maha,Abdelmegeed
+10134,ARAB,399,2,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bilal,Orfali
+10135,ARAB,399,3,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Maher,Jarrar
+10136,ARAB,399,4,M.A. Thesis,7.2,AS,1,4,.,.,.,.,false,false,false,false,false,false,Ramzi,Baalbaki
+10137,ARAB,399,5,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zeina,Halabi
+10138,ARAB,399,7,M.A. Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Enass,Khansa
+10139,ARAB,399A,1,M.A. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bilal,Orfali
+10140,ARAB,399A,2,M.A. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ramzi,Baalbaki
+10141,ARAB,399A,3,M.A. Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Maha,Abdelmegeed
+10142,ARAB,399A,4,M.A. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mahmoud,Al-Batal
+10143,ARAB,399A,5,M.A. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zeina,Halabi
+10144,ARAB,399A,6,M.A. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Enass,Khansa
+10145,ARAB,399A,7,M.A. Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Maher,Jarrar
+10146,ARAB,399B,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Maher,Jarrar
+10147,ARAB,399B,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ramzi,Baalbaki
+10148,ARAB,399B,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Maha,Abdelmegeed
+10149,ARAB,399B,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mahmoud,Al-Batal
+10150,ARAB,399B,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bilal,Orfali
+10151,ARAB,399B,6,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Enass,Khansa
+10152,ARAB,399B,7,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zeina,Halabi
+10153,ARAB,399C,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Bilal,Orfali
+10154,ARAB,399C,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Maha,Abdelmegeed
+10155,ARAB,399C,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mahmoud,Al-Batal
+10156,ARAB,399C,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Ramzi,Baalbaki
+10157,ARAB,399C,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Zeina,Halabi
+10158,ARAB,399C,6,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Enass,Khansa
+10159,ARAB,399C,7,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Maher,Jarrar
+13343,ARAB,399E,1,M.A.Thesis,1,AS,1,-1,.,.,.,.,false,false,false,false,false,false,Bilal,Orfali
+10160,ARAB,480,1,Qualifying Exam I:Compr.Exam,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Bilal,Orfali
+10161,ARAB,481,1,Qual.Exam II:Def.Thesis Prop.,0,AS,2,3,.,.,.,.,false,false,false,false,false,false,Bilal,Orfali
+10162,ARAB,484,1,PhD Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Bilal,Orfali
+13233,ARAB,484A,1,PhD Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Mahmoud,Al-Batal
+10163,ARAB,484B,1,PhD Thesis,0,AS,0,3,.,.,.,.,false,false,false,false,false,false,Kassim,Shaaban
+13069,ARCH,015,1,Micro Devices,3,EA,24,-4,11:00,12:20,.,.,false,true,false,true,false,false,Carla,Aramouny
+13070,ARCH,020A,1,Spatial Politics of Revolution,3,EA,22,-2,14:00,15:20,BECHTA,111,false,true,false,true,false,false,Ghazal,Abbasy-Asbagh
+13074,ARCH,023,1,From Urban Des.to Lands.Urbani,3,EA,7,3,15:30,18:20,.,.,false,true,false,false,false,false,Robert,Saliba
+13067,ARCH,040,1,Making It,3,EA,16,4,09:30,10:50,.,.,false,true,false,true,false,false,Karim,Najjar
+13071,ARCH,072,1,Earth: Design and Building,3,EA,17,3,15:30,18:20,BECHTA,203,false,false,false,true,false,false,Salma Samar,Damluji
+10164,ARCH,100,1,Basic Design,6,EA,73,2,14:00,19:00,ANNEX,101,false,true,false,false,true,false,Rana,Haddad
+10165,ARCH,111,1,Drawing I,3,EA,31,-1,09:45,12:45,ANNEX,101,true,false,true,false,false,false,Etienne,Bastormagi
+13214,ARCH,111,2,Drawing I,3,EA,17,8,12:45,15:45,.,.,true,false,true,false,false,false,Etienne,Bastormagi
+10166,ARCH,121,1,History of Art &Architecture I,3,EA,81,4,08:00,09:20,MAMC,ELH,true,false,true,false,false,false,Umit Firat,Acikgoz
+10167,ARCH,202,1,Architecture Design II,6,EA,29,16,14:00,18:00,FS1,206,true,false,true,false,true,false,Karim,Najjar
+10168,ARCH,223,1,History of Art & Archit. III,3,EA,43,37,10:00,11:20,MAMC,ELH,false,false,true,false,true,false,Umit Firat,Acikgoz
+10169,ARCH,242,1,Building Construction I,3,EA,17,0,13:00,15:30,.,.,false,true,false,true,false,false,Sany,Jamal
+13234,ARCH,242,2,Building Construction I,3,EA,16,0,16:00,18:30,.,.,false,true,false,true,false,false,Sany,Jamal
+10170,ARCH,252,1,Structural Systems,3,EA,29,6,12:00,13:20,BECHTA,111,true,false,true,false,false,false,Amer,Elsouri
+10171,ARCH,304,1,Architecture Design IV,6,EA,34,6,14:00,18:00,FS1,305,true,false,true,false,true,false,Serge,Yazigi
+10172,ARCH,313,1,Digital Tools,3,EA,20,-1,09:30,10:50,SRB,217,false,true,false,true,false,false,Ghazal,Abbasy-Asbagh
+10173,ARCH,313,2,Digital Tools,3,EA,15,3,11:00,12:20,SRB,207,false,true,false,true,false,false,Roland,Bou Nassr
+10174,ARCH,360,1,Environm.I  Climate Responsive,3,EA,35,3,11:00,12:20,IOEC,224A,true,false,true,false,false,false,Aram,Yeretzian
+10175,ARCH,406,1,Architecture Design V,6,EA,32,3,14:00,18:00,FS1,401,true,false,true,false,true,false,Aram,Yeretzian
+10176,ARCH,508,1,Design Thesis I,6,EA,27,1,08:00,08:50,FS1,406,false,false,false,false,false,true,Sinan,Hassan
+10177,ARCH,509,1,Design Thesis II,6,EA,0,0,08:00,08:50,FS1,406,false,false,false,false,false,false,.,STAFF
+10178,AROL,101,1,Introduction to Archaeology,3,AS,25,0,09:30,10:45,NICELY,108,false,true,false,true,false,false,Jack,Nurpetlian
+10179,AROL,101,2,Introduction to Archaeology,3,AS,26,-1,11:00,12:15,NICELY,415,false,true,false,true,false,false,Jack,Nurpetlian
+10180,AROL,201,1,Archaeology in Lebanon,3,AS,14,11,09:30,10:45,POST,207,false,true,false,true,false,false,Helene,Sader
+10181,AROL,211,1,Methodology,3,AS,25,0,12:30,13:45,POST,207,false,true,false,true,false,false,Jack,Nurpetlian
+10182,AROL,211,2,Methodology,3,AS,25,0,14:00,15:15,POST,207,false,true,false,true,false,false,Jack,Nurpetlian
+10183,AROL,213,1,Old Stone Age(Up to 10.000 BC),3,AS,23,2,08:00,08:50,POST,207,true,false,true,false,true,false,Hermann,Genz
+10184,AROL,220,1,Anc.Mesopotamia:Assyria&Babylo,3,AS,9,16,12:30,13:45,POST,203,false,true,false,true,false,false,Helene,Sader
+10185,AROL,223,1,Archaeol. of Hellenistic World,3,AS,22,3,11:00,12:15,NICELY,209,false,true,false,true,false,false,Paul Graham,Newson
+10186,AROL,225,1,Roman & Byzantine Near East,3,AS,19,6,14:00,15:15,NICELY,318,false,true,false,true,false,false,Paul Graham,Newson
+10187,AROL,232,1,Animals in Archaeology,3,AS,25,0,15:00,16:15,POST,207,false,false,true,false,true,false,Hermann,Genz
+10188,AROL,235AF,1,ST:Origins&Growth of Agricult.,3,AS,19,6,17:00,18:15,NICELY,327,false,true,false,true,false,false,Claire Joanna,Malleson
+10189,AROL,235AH,1,ST: Water in A Changing World,3,AS,13,2,09:00,09:50,POST,207,true,false,true,false,true,false,Hermann,Genz
+10190,AROL,235AI,1,ST.Farming in Ancient Egypt,3,AS,25,0,15:30,16:45,NICELY,411,false,true,false,true,false,false,Claire Joanna,Malleson
+13280,AROL,307B,1,Sem: Bronze Age on Leb.Coast,3,AS,1,0,.,.,.,.,false,false,false,false,false,false,Helene,Sader
+13260,AROL,321E,1,Tut. Archaeobotanical Research,3,AS,2,0,.,.,.,.,false,false,false,false,false,false,Claire Joanna,Malleson
+13321,AROL,322F,1,Tut. Roman Landscapes,3,AS,1,0,.,.,.,.,false,false,false,false,false,false,Paul Graham,Newson
+10191,AROL,395A,1,Comprehensive Exam,0,AS,0,0,.,.,.,.,false,false,false,false,false,false,Hermann,Genz
+10192,AROL,399,1,M.A Thesis.,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hermann,Genz
+10193,AROL,399,2,M.A Thesis.,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Helene,Sader
+10194,AROL,399,3,M.A Thesis.,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Claire Joanna,Malleson
+10195,AROL,399,4,M.A Thesis.,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Paul Graham,Newson
+10196,AROL,399A,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hermann,Genz
+10197,AROL,399A,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Helene,Sader
+10198,AROL,399B,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Hermann,Genz
+10199,AROL,399B,2,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Helene,Sader
+10200,AROL,399B,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Paul Graham,Newson
+13401,AROL,399C,1,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Paul Graham,Newson
+10201,AVSC,220,1,Livestock Production,3,AG,12,0,09:00,10:15,AGRIC,203,true,false,true,false,false,false,Mohamad Talal,Farran
+10202,AVSC,243,1,Genetics,3,AG,15,0,08:45,09:58,AGRIC,325,true,false,true,false,false,false,Walid,El Kayal
+10203,AVSC,271,1,Animal Nutrition,3,AG,19,-4,13:00,14:15,AGRIC,310,true,false,true,false,false,false,Mohamad Talal,Farran
+10204,AVSC,275,1,Anat & Physl of Farm Animals,3,AG,22,3,08:45,09:58,.,.,false,true,false,true,false,false,Lina,Jaber
+10205,AVSC,281,1,Product.of Novel Avian Species,3,AG,13,-1,11:00,12:15,AGRIC,310,true,false,true,false,false,false,Mohamad Talal,Farran
+13284,AVSC,305,1,Poultry Diseases,3,AG,4,2,14:00,16:50,.,.,false,true,false,false,false,false,Houssam,Shaib
+10206,AVSC,334,1,Advanced Poultry Nutrition,3,AG,2,8,12:00,15:00,AGRIC,201,false,true,false,false,false,false,Mohamad Talal,Farran
+10207,AVSC,395,1,Grad.Sem. in Animal Science,1,AG,0,5,13:00,13:50,AGRIC,325,false,true,false,false,false,false,Lina,Jaber
+10208,AVSC,399A,1,M.S.Thesis,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Mohamad Talal,Farran
+10209,AVSC,399B,1,M.S.Thesis,0,AG,1,4,.,.,.,.,false,false,false,false,false,false,Mohamad Talal,Farran
+10210,AVSC,399C,1,M.S.Thesis,0,AG,0,5,.,.,.,.,false,false,false,false,false,false,Mohamad Talal,Farran

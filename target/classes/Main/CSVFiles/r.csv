@@ -1,0 +1,11 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+12898,RCOD,341,1,Rural Devel:Th.eor Deb.&Chall.,3,AG,8,2,15:00,17:30,AGRIC,210,false,false,false,false,true,false,Giuliano,Martiniello
+13178,RCOD,342,1,Qualit.Resea. Meth.in Rural De,4,AG,4,6,15:00,17:30,.,.,true,false,false,false,false,false,Elias,Ghadban
+12899,RCOD,344,1,Practicum,4,AG,0,6,15:15,16:30,REYNOL,103,false,false,false,true,false,false,Shady,Hamadeh
+12900,RCOD,395,1,Comprehensive Exam,0,AG,4,1,.,.,.,.,false,false,false,false,false,false,Rami,Zurayk
+13380,RCOD,395,2,Comprehensive Exam,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Salma,Talhouk
+12901,RCOD,399,1,M.S. Thesis,7.21,AG,2,1,.,.,.,.,false,false,false,false,false,false,Rami,Zurayk
+13318,RCOD,399A,1,M.S. Thesis,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Rabi H.,Mohtar
+12902,RCOD,399B,1,M.S. Thesis,0,AG,1,2,.,.,.,.,false,false,false,false,false,false,Ali,Chalak
+13100,RCOD,399B,2,M.S. Thesis,0,AG,1,1,.,.,.,.,false,false,false,false,false,false,Shady,Hamadeh
+12903,RCOD,399C,1,M.S. Thesis,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Hadi,Jaafar

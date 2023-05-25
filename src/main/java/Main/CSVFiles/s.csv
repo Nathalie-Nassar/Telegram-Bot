@@ -1,0 +1,100 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+12904,SART,200,1,Drawing,3,AS,7,5,12:30,14:50,NICELY,408,false,true,false,true,false,false,Walid,Sadek
+12905,SART,202,1,Painting II,3,AS,4,8,15:30,17:50,NICELY,102,false,true,false,true,false,false,.,STAFF
+12906,SART,203,1,Sculpture,3,AS,7,5,09:30,11:50,NICELY,213,false,true,false,true,false,false,Walid,Sadek
+12907,SART,205,1,The Technological Imagination,3,AS,7,5,14:00,16:20,NICELY,102,true,false,true,false,false,false,Walid,Sadek
+12908,SART,206,1,Reproducible Image I,3,AS,11,1,09:00,11:20,NICELY,401,true,false,true,false,false,false,Paul Alexander,Gorra
+12909,SART,208,1,Reproducible Image III,3,AS,4,8,12:30,14:50,NICELY,.,false,true,false,true,false,false,Jad,Youssef
+13311,SHRP,310,1,Basic Biostatistics,3,MH,18,2,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13312,SHRP,315,1,Research Ethics &Resp.Conduct,0,MH,21,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13197,SHRP,321A,1,Clinical Trial Protocol,2,MH,4,21,16:00,17:25,.,.,false,false,false,true,false,false,Ghada,El-Hajj Fuleihan
+13313,SHRP,325,1,Library Science/Informatics,0,MH,18,2,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12910,SHRP,329A,1,Guideline Developmnt&Adaptatio,0,MH,0,5,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13243,SHRP,332,1,Applied Survival Analysis,0,MH,10,10,15:30,16:25,.,.,false,true,false,false,false,false,Ziyad,Mahfoud
+12911,SHRP,345,1,Survival analysis,0,MH,0,5,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13244,SHRP,360,1,Introduction to Data Science,0,MH,3,17,12:01,13:29,.,.,false,false,true,false,false,false,Rami,Farran
+12912,SHRP,400,1,Research Thesis,6,MH,2,3,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12913,SHRP,400A,1,Research Thesis,0,MH,0,5,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13198,SHRP,400B,1,Research Thesis,0,MH,2,8,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13199,SHRP,400C,1,Research Thesis,0,MH,0,10,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12914,SHRP,400D,1,Research Thesis,1,MH,1,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+13200,SHRP,400F,1,Research Thesis,1,MH,1,9,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12915,SOAN,101,1,Freshman Sociology,3,AS,24,1,09:30,10:45,NICELY,417,false,true,false,true,false,false,Dina,Hakim Hussein Agha
+12916,SOAN,101,2,Freshman Sociology,3,AS,24,1,12:30,13:45,NICELY,321,false,true,false,true,false,false,Dina,Hakim Hussein Agha
+12917,SOAN,103,1,Reading Other Cultures,3,AS,25,0,15:30,16:45,NICELY,320,false,true,false,true,false,false,Sylvain Jean Da,Perdigon
+12918,SOAN,103,2,Reading Other Cultures,3,AS,23,2,17:00,18:15,NICELY,320,false,true,false,true,false,false,Rana,Taher
+12919,SOAN,201,1,Introduction to Sociology,3,AS,28,0,12:30,13:45,NICELY,214,false,true,false,true,false,false,Anaheed,Al-Hardan
+12920,SOAN,201,2,Introduction to Sociology,3,AS,27,1,15:30,16:45,NICELY,410,false,true,false,true,false,false,Rima,Majed
+12921,SOAN,201,3,Introduction to Sociology,3,AS,29,-1,11:00,12:15,NICELY,416,false,true,false,true,false,false,Zeina,Fathallah
+12922,SOAN,201,4,Introduction to Sociology,3,AS,27,1,11:00,11:50,NICELY,324,true,false,true,false,true,false,Rana,Sukarieh
+12923,SOAN,201,5,Introduction to Sociology,3,AS,28,0,12:00,12:50,NICELY,318,true,false,true,false,true,false,Rana,Sukarieh
+12924,SOAN,201,6,Introduction to Sociology,3,AS,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12925,SOAN,201,7,Introduction to Sociology,3,AS,28,0,14:00,15:15,PHYS,327,false,true,false,true,false,false,Rima,Majed
+12926,SOAN,203,1,Introduction to Anthropology,3,AS,27,1,14:00,15:15,NICELY,322,false,true,false,true,false,false,Rana,Taher
+12927,SOAN,203,2,Introduction to Anthropology,3,AS,28,0,14:00,15:15,NICELY,411,true,false,true,false,false,false,Zeina,Osman
+12928,SOAN,203,3,Introduction to Anthropology,3,AS,28,0,15:30,16:45,NICELY,411,true,false,true,false,false,false,Zeina,Osman
+12929,SOAN,203,4,Introduction to Anthropology,3,AS,28,0,11:00,12:15,NICELY,322,false,true,false,true,false,false,Zeina,Osman
+12930,SOAN,203,5,Introduction to Anthropology,3,AS,28,0,12:30,13:45,NICELY,417,false,true,false,true,false,false,Mariana,Nakfour
+12931,SOAN,203,6,Introduction to Anthropology,3,AS,28,0,08:00,09:15,NICELY,318,false,true,false,true,false,false,Mariana,Nakfour
+12932,SOAN,210,1,Research Methods,3,AS,20,5,11:00,12:15,NICELY,324,false,true,false,true,false,false,Sari,Hanafi
+13106,SOAN,225,1,Gender and Culture,3,AS,25,0,12:30,13:45,NICELY,324,false,true,false,true,false,false,Livia Celine,Wick
+12933,SOAN,237,1,Arab Culture & Society,3,AS,18,7,12:30,13:45,NICELY,416,false,true,false,true,false,false,Kirsten,Scheid
+12934,SOAN,237,2,Arab Culture & Society,3,AS,15,10,15:30,16:45,NICELY,212,false,true,false,true,false,false,Kirsten,Scheid
+12935,SOAN,290BC,1,Sem.Sociology of Islam,3,AS,6,4,14:00,16:29,NICELY,412,false,false,true,false,false,false,Sari,Hanafi
+12936,SOAN,290BD,1,Sem.Applied Anthropology,3,AS,7,8,14:00,15:15,NICELY,210,false,true,false,true,false,false,Zeina,Osman
+12937,SOAN,309,1,Sociology of Islam,3,AS,4,-4,14:00,16:29,NICELY,412,false,false,true,false,false,false,Sari,Hanafi
+13163,SOAN,323AH,1,ST.Social and Cultural Theory,3,AS,7,3,15:30,17:59,NICELY,108,true,false,false,false,false,false,Kirsten,Scheid
+12940,SOAN,324AO,1,ST.Semiotics,3,AS,11,4,17:00,19:29,NICELY,206,false,false,false,true,false,false,Sylvain Jean Da,Perdigon
+13248,SOAN,395A,1,Comprehensive Exam Antropology,0,AS,4,-4,.,.,.,.,false,false,false,false,false,false,Blake Robert,Atwood
+12941,SOAN,399,1,M.A.Thesis,7.2,AS,1,4,.,.,.,.,false,false,false,false,false,false,Anaheed,Al-Hardan
+12942,SOAN,399,10,M.A.Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sari,Hanafi
+12943,SOAN,399,2,M.A.Thesis,7.2,AS,2,3,.,.,.,.,false,false,false,false,false,false,Rima,Majed
+12944,SOAN,399,3,M.A.Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mark,Michael
+12945,SOAN,399,4,M.A.Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Nikolas,Kosmatopoulos
+12946,SOAN,399,5,M.A.Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elizabeth,Matta Saleh
+12947,SOAN,399,6,M.A.Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sylvain Jean Da,Perdigon
+12948,SOAN,399,7,M.A.Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Kirsten,Scheid
+12949,SOAN,399,8,M.A.Thesis,7.2,AS,0,5,.,.,.,.,false,false,false,false,false,false,Livia Celine,Wick
+12950,SOAN,399A,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Anaheed,Al-Hardan
+12951,SOAN,399A,10,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Livia Celine,Wick
+12952,SOAN,399A,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sari,Hanafi
+12953,SOAN,399A,4,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Rima,Majed
+12954,SOAN,399A,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mark,Michael
+12955,SOAN,399A,6,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sylvain Jean Da,Perdigon
+12956,SOAN,399A,7,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Elizabeth,Matta Saleh
+12957,SOAN,399A,8,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Kirsten,Scheid
+12958,SOAN,399A,9,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Nikolas,Kosmatopoulos
+12959,SOAN,399B,1,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Nikolas,Kosmatopoulos
+12960,SOAN,399B,10,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Livia Celine,Wick
+12961,SOAN,399B,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Anaheed,Al-Hardan
+12962,SOAN,399B,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sari,Hanafi
+12963,SOAN,399B,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rima,Majed
+12964,SOAN,399B,5,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Mark,Michael
+12965,SOAN,399B,6,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Sylvain Jean Da,Perdigon
+12966,SOAN,399B,7,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Elizabeth,Matta Saleh
+12967,SOAN,399B,9,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Kirsten,Scheid
+12968,SOAN,399C,10,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Kirsten,Scheid
+12969,SOAN,399C,2,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Anaheed,Al-Hardan
+12970,SOAN,399C,3,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Sari,Hanafi
+12971,SOAN,399C,4,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Rima,Majed
+12972,SOAN,399C,5,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Mark,Michael
+12973,SOAN,399C,6,M.A.Thesis,0,AS,1,4,.,.,.,.,false,false,false,false,false,false,Sylvain Jean Da,Perdigon
+12974,SOAN,399C,7,M.A.Thesis,0,AS,2,3,.,.,.,.,false,false,false,false,false,false,Elizabeth,Matta Saleh
+12975,SOAN,399C,8,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Nikolas,Kosmatopoulos
+12976,SOAN,399C,9,M.A.Thesis,0,AS,0,5,.,.,.,.,false,false,false,false,false,false,Livia Celine,Wick
+13296,SOAN,399D,1,M.A.Thesis,1,AS,1,-1,.,.,.,.,false,false,false,false,false,false,Sylvain Jean Da,Perdigon
+12977,STAT,201,1,Elem.Statist.for the Social Sc,3,AS,23,2,13:00,13:50,NICELY,318,true,false,true,false,true,false,Lina,Rahhal
+12978,STAT,201,2,Elem.Statist.for the Social Sc,3,AS,19,6,14:00,14:50,NICELY,318,true,false,true,false,true,false,Lina,Rahhal
+12979,STAT,201,3,Elem.Statist.for the Social Sc,3,AS,18,7,14:00,15:15,NICELY,327,false,true,false,true,false,false,Alice,Ashkar
+12980,STAT,210,E1,Elem.Statist. for the Sciences,0,AS,26,-1,16:00,16:50,NICELY,206,true,false,false,false,false,false,Alice,Ashkar
+12981,STAT,210,E2,Elem.Statist. for the Sciences,0,AS,25,0,15:00,15:50,NICELY,206,true,false,false,false,false,false,Alice,Ashkar
+12982,STAT,210,E3,Elem.Statist. for the Sciences,0,AS,27,-2,12:30,13:20,NICELY,412,false,false,false,true,false,false,Alice,Ashkar
+12983,STAT,210,E4,Elem.Statist. for the Sciences,0,AS,27,-2,17:00,17:50,NICELY,210,false,false,false,true,false,false,Alice,Ashkar
+12984,STAT,210,E5,Elem.Statist. for the Sciences,0,AS,25,0,13:00,13:50,NICELY,417,false,false,true,false,false,false,Hagop,Karakazian
+12985,STAT,210,E6,Elem.Statist. for the Sciences,0,AS,23,2,14:00,14:50,NICELY,416,false,false,true,false,false,false,Hagop,Karakazian
+12986,STAT,210,L1,Elem.Statist. for the Sciences,3,AS,51,-1,15:30,16:20,BLISS,105,false,true,false,true,false,false,Alice,Ashkar
+12987,STAT,210,L2,Elem.Statist. for the Sciences,3,AS,54,-4,14:00,14:50,NICELY,212,true,false,true,false,false,false,Alice,Ashkar
+12988,STAT,210,L3,Elem.Statist. for the Sciences,3,AS,48,2,12:00,12:50,NICELY,212,true,false,true,false,false,false,Siamak,Taati
+12989,STAT,230,1,Introd. to Probab.& Random Var,3,AS,72,3,13:00,13:50,NICELY,415,true,false,true,false,true,false,Stefano,Monni
+12990,STAT,230,2,Introd. to Probab.& Random Var,3,AS,60,15,14:00,14:50,NICELY,415,true,false,true,false,true,false,Abbas,Alhakim
+12991,STAT,234,1,Intr.to Statistical Inference,3,AS,7,8,17:00,18:15,NICELY,410,true,false,true,false,false,false,Stefano,Monni

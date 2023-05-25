@@ -1,0 +1,150 @@
+CRN , Subject , Course Number , Section , Title ,  Credits , College , Actual Enroll , Seats Available ,Begin Time , End Time, Buildings, Room , Monday , Tuesday , Wednesday , Thursday , Friday , Saturday , Instructor First , Instructor Last
+12291,NFSC,210,1,Statist.in Nutrtion &Food Scie,3,AG,26,-6,08:00,09:59,AGRIC,102,false,true,false,false,false,false,Samer,Kharroubi
+13120,NFSC,210,2,Statist.in Nutrtion &Food Scie,3,AG,15,0,08:00,09:55,AGRIC,209,false,false,true,false,false,false,Samer,Kharroubi
+13056,NFSC,215,1,Gender  Food & Nutrition,3,AG,24,-12,09:00,09:50,AGRIC,201,true,false,true,false,true,false,Lara,Nasreddine
+12292,NFSC,220,1,Food & Nutrition Awareness,3,AG,42,-2,12:30,13:45,AGRIC,205,false,true,false,true,false,false,Carla,Habib Mourad
+12293,NFSC,220,2,Food & Nutrition Awareness,3,AG,39,-1,15:00,16:15,.,.,true,false,true,false,false,false,Laura,Hjeij
+12294,NFSC,221,1,Basic Nutrition,3,AG,26,14,11:00,12:15,AGRIC,102,false,true,false,true,false,false,Nahla C.,Hwalla
+12295,NFSC,222,1,Community Nutrition,3,AG,36,4,15:00,16:15,AGRIC,102,true,false,true,false,false,false,Lamis,Jomaa
+12296,NFSC,223,1,Nutrition & Physical Activity,3,AG,25,-10,15:30,16:45,AGRIC,205,false,true,false,true,false,false,Elie-Jacques,Fares
+12297,NFSC,229,1,Menu Planning,1,AG,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12298,NFSC,240,1,Nutritional Status Assessment,2,AG,15,0,10:00,10:50,AGRIC,205,false,true,false,false,false,false,Carla,El Mallah
+12299,NFSC,240,2,Nutritional Status Assessment,2,AG,16,-1,10:00,10:50,AGRIC,205,false,true,false,false,false,false,Carla,El Mallah
+12300,NFSC,240,3,Nutritional Status Assessment,2,AG,0,0,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12301,NFSC,252,1,Intr.to Food Processing,3,AG,30,-5,10:00,10:50,AGRIC,211,true,false,true,false,true,false,Basma,Diryan
+12302,NFSC,252,2,Intr.to Food Processing,3,AG,29,-4,12:00,12:50,.,.,true,false,true,false,true,false,Basma,Diryan
+12303,NFSC,261,1,Introductory Biochemistry,3,AG,28,7,12:00,12:50,AGRIC,205,true,false,true,false,true,false,Imad,Toufeili
+12304,NFSC,265,1,Food Chemistry,3,AG,16,14,10:00,10:50,AGRIC,205,true,false,true,false,true,false,Imad,Toufeili
+12305,NFSC,267,1,Food Analysis,2,AG,12,0,11:00,13:58,AGRIC,417,false,true,false,false,false,false,Basma,Diryan
+12306,NFSC,267,2,Food Analysis,2,AG,12,0,11:00,13:58,AGRIC,417,false,false,false,true,false,false,Basma,Diryan
+12307,NFSC,274,1,Human Nutrition & Metabolism,3,AG,28,12,09:00,09:50,AGRIC,205,true,false,true,false,true,false,Omar,Obeid
+12308,NFSC,277,1,Food Microbiology I,3,AG,40,-10,14:30,15:45,AGRIC,102,false,true,false,true,false,false,Christelle,Iskandar
+12309,NFSC,279,1,Med.Nut.Therapy Lab.I for NDCP,1,AG,7,8,10:00,12:30,AGRIC,210,false,false,false,false,true,false,Marie Claire,Chamieh
+12310,NFSC,282,1,Food Quality Management,3,AG,27,0,11:00,12:15,AGRIC,205,false,true,false,true,false,false,Christelle,Iskandar
+12311,NFSC,282,2,Food Quality Management,3,AG,20,5,08:45,09:58,.,.,true,false,true,false,false,false,Reem,Hamzeh
+12312,NFSC,283,1,Nutrition Education & Communic,3,AG,7,8,14:00,16:58,AGRIC,310,false,false,false,false,true,false,Lamis,Jomaa
+12313,NFSC,284A,1,Seminar in Clinical Dietetics,1,AG,7,8,13:00,13:58,AGRIC,310,false,false,false,false,true,false,Marie Claire,Chamieh
+12314,NFSC,287,1,Food Processing,2,AG,18,-3,10:00,10:50,AGRIC,210,true,false,true,false,false,false,Hamza,Daroub
+12315,NFSC,288,1,Technology of Food Products,3,AG,10,0,10:00,10:50,AGRIC,211,false,true,false,true,false,false,Hamza,Daroub
+12316,NFSC,288,2,Technology of Food Products,3,AG,11,-1,10:00,10:50,AGRIC,211,false,true,false,true,false,false,Hamza,Daroub
+12317,NFSC,289,1,Food Processing Lab.,1,AG,14,1,13:00,15:58,AGRIC,PILOT PLAN,false,false,false,false,true,false,Hamza,Daroub
+12318,NFSC,290,1,Food Service Management,3,AG,5,7,11:00,11:50,AGRIC,203,false,true,false,true,false,false,Jennifer,Ayoub
+12319,NFSC,290,2,Food Service Management,3,AG,8,4,11:00,11:50,AGRIC,203,false,true,false,true,false,false,Jennifer,Ayoub
+12320,NFSC,292,1,Medical Nutrition Therapy I,3,AG,39,1,07:45,08:59,AGRIC,205,true,false,true,false,false,false,Abir,Noureddine
+12321,NFSC,294,1,Med.Nut.Therapy Lab.I for NTDT,1,AG,19,-4,12:00,14:28,AGRIC,210,false,true,false,false,false,false,Marie Claire,Chamieh
+12322,NFSC,294,2,Med.Nut.Therapy Lab.I for NTDT,1,AG,13,2,12:00,14:28,AGRIC,210,false,false,false,true,false,false,Marie Claire,Chamieh
+12323,NFSC,296,1,Current Tp:Food Sc.& Nutrition,1,AG,19,21,17:00,17:50,AGRIC,205,false,true,false,false,false,false,Laura,Hjeij
+12324,NFSC,298F,1,Dietetics Internship,6.5,AG,7,13,.,.,.,.,false,false,false,false,false,false,Marie Claire,Chamieh
+12325,NFSC,298I,1,Internship,2,AG,8,7,.,.,.,.,false,false,false,false,false,false,Jennifer,Ayoub
+12326,NFSC,298IA,1,Internship,0,AG,10,5,.,.,.,.,false,false,false,false,false,false,Jennifer,Ayoub
+12327,NFSC,298IB,1,Internship,0,AG,0,5,.,.,.,.,false,false,false,false,false,false,Jennifer,Ayoub
+12328,NFSC,299,1,Projects:Nutrion & Food Sci.,2,AG,3,3,15:00,15:50,AGRIC,203,false,true,false,false,false,false,Mohamad Ghassan,Abiad
+12329,NFSC,299,2,Projects:Nutrion & Food Sci.,2,AG,0,6,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12330,NFSC,299,3,Projects:Nutrion & Food Sci.,2,AG,0,6,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12331,NFSC,299,4,Projects:Nutrion & Food Sci.,2,AG,0,6,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12332,NFSC,299,5,Projects:Nutrion & Food Sci.,2,AG,5,1,15:00,15:50,AGRIC,203,false,true,false,false,false,false,Mohamad Ghassan,Abiad
+12333,NFSC,299,6,Projects:Nutrion & Food Sci.,2,AG,0,6,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12334,NFSC,299,7,Projects:Nutrion & Food Sci.,2,AG,0,6,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12335,NFSC,299,8,Projects:Nutrion & Food Sci.,2,AG,0,5,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12336,NFSC,300A,1,Graduate Tutorial,1,AG,0,3,.,.,.,.,false,false,false,false,false,false,Issmat,Kassem
+12337,NFSC,300A,2,Graduate Tutorial,1,AG,0,5,.,.,.,.,false,false,false,false,false,false,Mohamad Ghassan,Abiad
+12338,NFSC,300B,1,Graduate Tutorial,2,AG,0,3,.,.,.,.,false,false,false,false,false,false,Issmat,Kassem
+13276,NFSC,300B,2,Graduate Tutorial,2,AG,1,3,.,.,.,.,false,false,false,false,false,false,Samer,Kharroubi
+12339,NFSC,300C,1,Graduate Tutorial,3,AG,0,3,.,.,.,.,false,false,false,false,false,false,Mohamad Ghassan,Abiad
+12340,NFSC,300C,2,Graduate Tutorial,3,AG,0,5,.,.,.,.,false,false,false,false,false,false,Lara,Nasreddine
+12341,NFSC,301,1,Stat.Methods for Nut.&Food Sc,3,AG,27,-12,10:00,11:58,AGRIC,209,false,true,false,false,false,false,Samer,Kharroubi
+12342,NFSC,308,1,Advanced Therapeutic Nutrition,3,AG,2,2,14:00,15:15,AGRIC,325,true,false,true,false,false,false,Lara,Nasreddine
+12343,NFSC,311,1,Adv.Nutrition:Macro Nutrients,3,AG,6,9,13:00,14:14,AGRIC,310,false,true,false,true,false,false,Nahla C.,Hwalla
+12344,NFSC,312,1,Sports Nutrition,3,AG,7,5,11:16,12:30,AGRIC,325,false,true,false,true,false,false,Elie-Jacques,Fares
+12345,NFSC,350,1,Advanced Food Microbiology,3,AG,7,8,17:00,18:15,AGRIC,203,false,true,false,true,false,false,Christelle,Iskandar
+12346,NFSC,370,1,Food Product Development,3,AG,0,10,.,.,.,.,false,false,false,false,false,false,.,STAFF
+12347,NFSC,377,1,Food Packaging,3,AG,0,10,10:00,11:15,AGRIC,201,true,false,true,false,false,false,Mohamad Ghassan,Abiad
+12348,NFSC,395,1,Graduate Seminar in NFSC,1,AG,7,3,12:00,12:50,AGRIC,325,true,false,false,false,false,false,Mohamad Ghassan,Abiad
+12349,NFSC,396,1,Comprehensive Exam,0,AG,1,3,.,.,.,.,false,false,false,false,false,false,Issmat,Kassem
+12350,NFSC,396,2,Comprehensive Exam,0,AG,4,-1,.,.,.,.,false,false,false,false,false,false,Samer,Kharroubi
+12351,NFSC,396,3,Comprehensive Exam,0,AG,0,3,.,.,.,.,false,false,false,false,false,false,Nahla C.,Hwalla
+12352,NFSC,396,4,Comprehensive Exam,0,AG,3,0,.,.,.,.,false,false,false,false,false,false,Lara,Nasreddine
+12353,NFSC,396,5,Comprehensive Exam,0,AG,0,5,.,.,.,.,false,false,false,false,false,false,Mohamad Ghassan,Abiad
+12354,NFSC,396,6,Comprehensive Exam,0,AG,1,4,.,.,.,.,false,false,false,false,false,false,Omar,Obeid
+13076,NFSC,396,7,Comprehensive Exam,0,AG,1,3,.,.,.,.,false,false,false,false,false,false,Lamis,Jomaa
+13316,NFSC,396,8,Comprehensive Exam,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Ammar,Olabi
+12355,NFSC,399,1,MS Thesis,7.21,AG,0,3,.,.,.,.,false,false,false,false,false,false,Issmat,Kassem
+12356,NFSC,399,2,MS Thesis,7.21,AG,0,3,.,.,.,.,false,false,false,false,false,false,Mohamad Ghassan,Abiad
+12357,NFSC,399,3,MS Thesis,7.21,AG,0,3,.,.,.,.,false,false,false,false,false,false,Omar,Obeid
+12358,NFSC,399,4,MS Thesis,7.21,AG,1,2,.,.,.,.,false,false,false,false,false,false,Lara,Nasreddine
+13084,NFSC,399,5,MS Thesis,7.21,AG,0,3,.,.,.,.,false,false,false,false,false,false,Lamis,Jomaa
+13088,NFSC,399,6,MS Thesis,7.21,AG,5,-1,.,.,.,.,false,false,false,false,false,false,Samer,Kharroubi
+12359,NFSC,399A,1,Thesis,0,AG,1,2,.,.,.,.,false,false,false,false,false,false,Lara,Nasreddine
+12360,NFSC,399A,2,Thesis,0,AG,0,5,.,.,.,.,false,false,false,false,false,false,Samer,Kharroubi
+12361,NFSC,399A,3,Thesis,0,AG,0,5,.,.,.,.,false,false,false,false,false,false,Mohamad Ghassan,Abiad
+13102,NFSC,399A,4,Thesis,0,AG,2,0,.,.,.,.,false,false,false,false,false,false,Omar,Obeid
+13125,NFSC,399A,5,Thesis,0,AG,2,1,.,.,.,.,false,false,false,false,false,false,Issmat,Kassem
+12362,NFSC,399B,1,M.S.Thesis,0,AG,0,2,.,.,.,.,false,false,false,false,false,false,Imad,Toufeili
+12363,NFSC,399B,2,M.S.Thesis,0,AG,0,3,.,.,.,.,false,false,false,false,false,false,Elie-Jacques,Fares
+12364,NFSC,399B,3,M.S.Thesis,0,AG,0,3,.,.,.,.,false,false,false,false,false,false,Farah,Naja
+12365,NFSC,399B,4,M.S.Thesis,0,AG,0,3,.,.,.,.,false,false,false,false,false,false,Issmat,Kassem
+12366,NFSC,399B,5,M.S.Thesis,0,AG,1,2,.,.,.,.,false,false,false,false,false,false,Omar,Obeid
+13103,NFSC,399B,6,M.S.Thesis,0,AG,2,0,.,.,.,.,false,false,false,false,false,false,Lara,Nasreddine
+12367,NFSC,399C,1,M.S.Thesis,0,AG,0,3,.,.,.,.,false,false,false,false,false,false,Omar,Obeid
+12368,NFSC,399C,2,M.S.Thesis,0,AG,0,5,.,.,.,.,false,false,false,false,false,false,Lara,Nasreddine
+12369,NFSC,399C,3,M.S.Thesis,0,AG,0,5,.,.,.,.,false,false,false,false,false,false,Mohamad Ghassan,Abiad
+13327,NFSC,399C,4,M.S.Thesis,0,AG,1,1,.,.,.,.,false,false,false,false,false,false,Elie-Jacques,Fares
+12370,NURS,200,1,Introduction to Nursing,2,NU,63,2,12:00,13:50,HSON,AUDITORIUM,false,false,true,false,false,false,May,Naifeh
+12371,NURS,210A,1,Pathophysiology,1,NU,56,4,10:00,10:50,HSON,AUDITORIUM,false,false,false,false,true,false,Marina,Gharibian
+12372,NURS,300,1,Nurs. Care of Adults I Th.& Pr,5,NU,58,2,09:00,10:50,HSON,102,false,false,true,false,false,false,Lina,Abi Fakhr
+12373,NURS,300,2,Nurs. Care of Adults I Th.& Pr,0,NU,28,2,07:00,14:50,.,.,false,true,false,false,false,false,Lina,Abi Fakhr
+12374,NURS,300,3,Nurs. Care of Adults I Th.& Pr,0,NU,30,0,07:00,14:50,.,.,false,false,false,true,false,false,Lina,Abi Fakhr
+12375,NURS,304,1,Nurs.Care Expect.Family Th.&Pr,5,NU,59,1,09:00,10:50,HSON,AUDITORIUM,true,false,false,false,false,false,Dina,Madi
+12376,NURS,304,2,Nurs.Care Expect.Family Th.&Pr,0,NU,28,2,07:00,13:50,.,.,false,false,false,true,false,false,Dina,Madi
+12377,NURS,304,3,Nurs.Care Expect.Family Th.&Pr,0,NU,31,0,07:00,13:50,.,.,false,true,false,false,false,false,Dina,Madi
+12378,NURS,400,1,Critical Care Nurs Th.& Pract,4,NU,62,8,07:00,14:50,.,.,false,false,false,true,false,false,Angala,Massouh
+12379,NURS,402,1,Psy.Mental Health Nu Th.&Prac,5,NU,28,6,07:30,12:50,.,.,false,true,false,false,false,false,Ghada,Najjar Assaf
+12380,NURS,404,1,Nursing Informatics,2,NU,63,7,11:00,12:50,HSON,AUDITORIUM,false,false,false,false,true,false,Lina,Younan
+12381,NURS,406,1,Nursing Research,3,NU,65,5,08:00,09:50,HSON,AUDITORIUM,false,false,true,false,false,false,Houry,Puzanian
+12382,NURS,408,1,Commun.Health Nurs Th.& Pract,5,NU,36,0,08:00,12:50,.,.,false,true,false,false,false,false,Gladys,Honein
+12383,NURS,500,1,Theor.Conc.& Ethical Framework,2,NU,14,6,09:00,10:50,HSON,218,false,true,false,false,false,false,Nour,Alayan
+12384,NURS,501,1,Adv.Nurs.Pract:Scope & Roles,2,NU,12,8,12:00,13:50,HSON,218,false,true,false,false,false,false,Angala,Massouh
+12385,NURS,504,1,Advanced Pathophysiology,3,NU,8,12,11:00,13:50,HSON,102,false,false,true,false,false,false,Houry,Puzanian
+12386,NURS,505A,1,Adv.Prac.in Adult Gerontolo.I,4,NU,8,2,08:00,15:50,.,.,false,false,false,false,false,true,Samar,Noureddine
+12387,NURS,506,1,Adv.Prac.in Adult Gerontol.III,4,NU,0,5,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+12388,NURS,507,1,Essentials of Nurs. Adm.&Mangt,2,NU,0,20,.,.,.,.,false,false,false,false,false,false,Lina,Younan
+12389,NURS,508,1,Advan.Pract.in Nurs.Administ.,4,NU,0,5,.,.,.,.,false,false,false,false,false,false,Nuhad,Yazbik-Dumit
+12390,NURS,508,2,Advan.Pract.in Nurs.Administ.,4,NU,1,4,.,.,.,.,false,false,false,false,false,false,Lina,Younan
+12391,NURS,523,1,Adv.Community Assess.&Interven,3,NU,4,11,12:00,13:50,HSON,104,false,false,false,true,false,false,Gladys,Honein
+13116,NURS,524,1,Cl.Res.in Pub.&Com.Health Care,4,NU,4,1,.,.,.,.,false,false,false,false,false,false,Gladys,Honein
+12392,NURS,526,1,Comprehensive Exam,0,NU,4,6,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+12393,NURS,527,1,Sys.Appr.to Dev.&Eval.H.Car,3,NU,13,2,09:00,11:50,HSON,218,false,false,false,true,false,false,Nuhad,Yazbik-Dumit
+12394,NURS,530,1,Stat.Reason.&Appl.in Nur.Reas.,2,NU,12,8,09:00,10:50,HSON,102,true,false,false,false,false,false,Souha,Fares
+12395,NURS,531,1,Pract.Appl.of Budgeting in Nur,1,NU,6,14,13:00,13:50,HSON,218,false,false,true,false,false,false,Lina,Younan
+12396,NURS,598,1,Project,3,NU,0,5,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+12397,NURS,598,2,Project,3,NU,2,3,.,.,.,.,false,false,false,false,false,false,Lina,Younan
+12398,NURS,598,3,Project,3,NU,0,5,.,.,.,.,false,false,false,false,false,false,Nuhad,Yazbik-Dumit
+12399,NURS,598,4,Project,3,NU,0,5,.,.,.,.,false,false,false,false,false,false,Gladys,Honein
+12400,NURS,598,5,Project,3,NU,2,3,.,.,.,.,false,false,false,false,false,false,Laila,Farhoud
+13131,NURS,598A,1,Project,0,NU,5,0,.,.,.,.,false,false,false,false,false,false,Gladys,Honein
+13162,NURS,598A,2,Project,0,NU,1,4,.,.,.,.,false,false,false,false,false,false,Angala,Massouh
+13386,NURS,598B,1,Project,1,NU,0,5,.,.,.,.,false,false,false,false,false,false,Nuhad,Yazbik-Dumit
+12401,NURS,599,1,Thesis,6,NU,0,5,.,.,.,.,false,false,false,false,false,false,Nuhad,Yazbik-Dumit
+12402,NURS,599,2,Thesis,6,NU,2,3,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+12403,NURS,599,3,Thesis,6,NU,1,4,.,.,.,.,false,false,false,false,false,false,Gladys,Honein
+12404,NURS,599A,1,Thesis,0,NU,0,5,.,.,.,.,false,false,false,false,false,false,Nuhad,Yazbik-Dumit
+12405,NURS,599A,2,Thesis,0,NU,0,5,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+12406,NURS,599A,3,Thesis,0,NU,0,5,.,.,.,.,false,false,false,false,false,false,Laila,Farhoud
+12407,NURS,599A,4,Thesis,0,NU,0,5,.,.,.,.,false,false,false,false,false,false,Gladys,Honein
+12408,NURS,599A,5,Thesis,0,NU,1,4,.,.,.,.,false,false,false,false,false,false,Angala,Massouh
+13086,NURS,599A,6,Thesis,0,NU,1,4,.,.,.,.,false,false,false,false,false,false,Houry,Puzanian
+12409,NURS,599B,1,Thesis,0,NU,0,5,.,.,.,.,false,false,false,false,false,false,Nuhad,Yazbik-Dumit
+12410,NURS,599B,2,Thesis,0,NU,0,5,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+13396,NURS,599B,3,Thesis,0,NU,1,4,.,.,.,.,false,false,false,false,false,false,Laila,Farhoud
+12411,NURS,599C,1,Thesis,0,NU,2,3,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+13374,NURS,599C,2,Thesis,0,NU,1,4,.,.,.,.,false,false,false,false,false,false,Gladys,Honein
+12412,NURS,601,1,Philo.&Theor.Perspec.in Nur.Sc,3,NU,3,7,10:00,12:50,HSON,218,true,false,false,false,false,false,Laila,Farhoud
+12413,NURS,605,1,Bivariate Analysis &Lin.Regres,3,NU,3,7,10:00,11:50,HSON,218,false,false,true,false,false,false,Souha,Fares
+12414,NURS,609,1,Research Seminar,0,NU,2,3,13:00,13:50,HSON,218,false,false,false,false,true,false,Nuhad,Yazbik-Dumit
+13263,NURS,610,1,Adv.Searching of Scient.Litera,0,NU,13,7,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+12415,NURS,980,1,Qualifying Exam I:Compr.Exam,0,NU,3,2,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+12416,NURS,981,1,Qualif.Exam II:Def.of Thes.Pro,0,NU,3,2,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+13315,NURS,982,1,PhD Thesis,3,NU,1,5,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+13176,NURS,983A,1,PHD Thesis,6,NU,1,5,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+13055,NURS,984,1,PHD Thesis,9,NU,6,3,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
+13317,NURS,987,1,PHD Thesis Defense,0,NU,1,5,.,.,.,.,false,false,false,false,false,false,Samar,Noureddine
